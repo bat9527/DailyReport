@@ -1,0 +1,37 @@
+id: english-shadowing
+name: 英文影子跟读
+category: language
+language: zh-CN
+target_english_level: A2-B1
+timezone: Asia/Shanghai
+status: active
+
+schedule:
+  frequency: daily
+  time: "08:00"
+
+reading_and_practice:
+  chat_minutes: 12
+  archive_minutes: 15
+  shadowing_script_words_min: 180
+  shadowing_script_words_max: 250
+  key_terms: 5
+
+source_mix:
+  speeches_and_interviews: 0.40
+  books: 0.30
+  films: 0.30
+
+rotation:
+  same_source_cooldown_days: 30
+  same_type_max_consecutive_days: 2
+  archive_dedup_days: 30
+
+copyright:
+  max_quote_words_per_source: 20
+  max_lyric_words: 8
+  prefer_original_adaptation: true
+
+output:
+  archive_pattern: archive/YYYY/MM/YYYY-MM-DD.md
+  latest_file: latest.md
