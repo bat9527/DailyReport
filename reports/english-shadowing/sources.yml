@@ -1,0 +1,51 @@
+version: 1
+description: 选材与核验入口，不是封闭白名单。
+
+source_priority:
+  - official_video_or_transcript
+  - speaker_author_or_publisher
+  - university_museum_or_public_archive
+  - reputable_broadcaster
+  - reliable_reference
+
+speeches_and_interviews:
+  - name: TED
+    url: https://www.ted.com/talks
+  - name: Nobel Prize
+    url: https://www.nobelprize.org/
+  - name: United Nations
+    url: https://www.un.org/
+  - name: The White House
+    url: https://www.whitehouse.gov/
+  - name: Stanford University
+    url: https://www.stanford.edu/
+  - name: Harvard University
+    url: https://www.harvard.edu/
+  - name: The Academy of Achievement
+    url: https://achievement.org/
+
+books:
+  - name: Project Gutenberg
+    url: https://www.gutenberg.org/
+    note: 优先用于已进入公版的经典书籍
+  - name: Google Books
+    url: https://books.google.com/
+    note: 用于核验书名、作者和有限预览
+  - name: Penguin Random House
+    url: https://www.penguinrandomhouse.com/
+  - name: HarperCollins
+    url: https://www.harpercollins.com/
+
+films:
+  - name: Official studio and film channels
+    note: 优先使用制片厂、发行商或电影官方频道的片段和预告
+  - name: Academy of Motion Picture Arts and Sciences
+    url: https://www.oscars.org/
+  - name: British Film Institute
+    url: https://www.bfi.org.uk/
+
+verification_rules:
+  - 至少核对人物、作品名称、原句和出现情境。
+  - 网络名言网站不能作为唯一来源。
+  - 无法找到可靠原文时只做主题改写，不使用引号。
+  - 现代作品严格执行短引用限制。
