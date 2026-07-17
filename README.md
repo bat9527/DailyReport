@@ -9,12 +9,14 @@
 | 分类 | 日报 | 状态 | 生成时间 | 最新一期 |
 |---|---|---|---|---|
 | 金融科技 | 金融科技出海 | 已启用 | 每日 08:00（北京时间） | [查看最新一期](reports/fintech-expansion/latest.md) |
+| 语言学习 | 英文影子跟读 | 已启用 | 每日 08:00（北京时间） | [查看最新一期](reports/english-shadowing/latest.md) |
 
 ## 项目结构
 
 - PROJECT_PLAN.md：整体规划、扩展方式和演进路线
 - reports/registry.yml：日报模块注册表
-- reports/fintech-expansion/：金融科技出海日报的独立模块
+- reports/fintech-expansion/：金融科技出海日报
+- reports/english-shadowing/：英文影子跟读
 - shared/REPORT_STANDARD.md：所有日报共同遵守的最低标准
 
 每个日报模块至少包含：
