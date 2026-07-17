@@ -1,0 +1,16 @@
+version: 1
+default_timezone: Asia/Shanghai
+
+reports:
+  - id: fintech-expansion
+    category: fintech
+    name: 金融科技出海日报
+    status: active
+    path: reports/fintech-expansion
+    schedule:
+      frequency: daily
+      time: "08:00"
+      timezone: Asia/Shanghai
+    output:
+      latest: reports/fintech-expansion/latest.md
+      archive: reports/fintech-expansion/archive/YYYY/MM/YYYY-MM-DD.md
