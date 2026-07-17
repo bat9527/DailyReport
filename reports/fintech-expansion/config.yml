@@ -1,0 +1,33 @@
+id: fintech-expansion
+name: 金融科技出海日报
+language: zh-CN
+timezone: Asia/Shanghai
+status: active
+
+schedule:
+  frequency: daily
+  time: "08:00"
+
+reading_time:
+  chat_minutes: 5
+  archive_minutes_min: 15
+  archive_minutes_max: 20
+
+coverage:
+  africa: 0.60
+  china_outbound: 0.20
+  global_benchmark: 0.20
+
+lookback:
+  default_hours: 24
+  extended_days: 7
+  dedup_days: 7
+
+ranking:
+  prefer_primary_sources: true
+  max_core_events: 8
+  allow_no_update: true
+
+output:
+  archive_pattern: archive/YYYY/MM/YYYY-MM-DD.md
+  latest_file: latest.md
