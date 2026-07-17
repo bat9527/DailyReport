@@ -14,3 +14,16 @@ reports:
     output:
       latest: reports/fintech-expansion/latest.md
       archive: reports/fintech-expansion/archive/YYYY/MM/YYYY-MM-DD.md
+
+  - id: english-shadowing
+    category: language
+    name: 英文影子跟读
+    status: active
+    path: reports/english-shadowing
+    schedule:
+      frequency: daily
+      time: "08:00"
+      timezone: Asia/Shanghai
+    output:
+      latest: reports/english-shadowing/latest.md
+      archive: reports/english-shadowing/archive/YYYY/MM/YYYY-MM-DD.md
