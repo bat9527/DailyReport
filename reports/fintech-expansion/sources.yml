@@ -1,0 +1,80 @@
+version: 1
+description: 种子信息源，不是封闭白名单；生成时可补充其他高质量来源。
+
+source_priority:
+  - regulator_and_government
+  - company_primary
+  - multilateral_and_research
+  - reputable_industry_media
+  - other_media
+
+africa_regulators:
+  - name: Central Bank of Kenya
+    url: https://www.centralbank.go.ke/
+    markets: [Kenya]
+  - name: Communications Authority of Kenya
+    url: https://www.ca.go.ke/
+    markets: [Kenya]
+  - name: Office of the Data Protection Commissioner Kenya
+    url: https://www.odpc.go.ke/
+    markets: [Kenya]
+  - name: Central Bank of Nigeria
+    url: https://www.cbn.gov.ng/
+    markets: [Nigeria]
+  - name: Bank of Ghana
+    url: https://www.bog.gov.gh/
+    markets: [Ghana]
+  - name: South African Reserve Bank
+    url: https://www.resbank.co.za/
+    markets: [South Africa]
+  - name: Bank of Tanzania
+    url: https://www.bot.go.tz/
+    markets: [Tanzania]
+  - name: Bank of Uganda
+    url: https://www.bou.or.ug/
+    markets: [Uganda]
+  - name: National Bank of Rwanda
+    url: https://www.bnr.rw/
+    markets: [Rwanda]
+
+multilateral_and_research:
+  - name: World Bank
+    url: https://www.worldbank.org/
+  - name: IFC
+    url: https://www.ifc.org/
+  - name: IMF
+    url: https://www.imf.org/
+  - name: CGAP
+    url: https://www.cgap.org/
+  - name: GSMA Mobile Money
+    url: https://www.gsma.com/solutions-and-impact/connectivity-for-good/mobile-for-development/mobile-money/
+  - name: FSD Africa
+    url: https://fsdafrica.org/
+  - name: Alliance for Financial Inclusion
+    url: https://www.afi-global.org/
+
+industry_media:
+  - name: TechCabal
+    url: https://techcabal.com/
+  - name: Disrupt Africa
+    url: https://disruptafrica.com/
+  - name: Rest of World
+    url: https://restofworld.org/
+  - name: The Africa Report
+    url: https://www.theafricareport.com/
+
+china_outbound:
+  - name: Ministry of Commerce of China
+    url: https://english.mofcom.gov.cn/
+  - name: People's Bank of China
+    url: http://www.pbc.gov.cn/en/3688006/index.html
+  - name: State Administration of Foreign Exchange
+    url: https://www.safe.gov.cn/en/
+  - name: China Academy of Information and Communications Technology
+    url: https://www.caict.ac.cn/english/
+
+rules:
+  - 监管政策必须优先引用监管机构原文。
+  - 融资、用户数、收入和交易规模优先引用公司公告或财报。
+  - 媒体报道用于发现线索，关键事实尽量回到一手来源。
+  - 付费墙或无法访问的来源不能作为唯一证据。
