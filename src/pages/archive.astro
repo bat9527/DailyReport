@@ -1,0 +1,72 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import Icon from "../components/Icon.astro";
+import { getArchiveEntries, getModules, metaForEntry, withBase } from "../lib/reports";
+
+const modules = getModules();
+const reports = (await getArchiveEntries()).map(metaForEntry);
+const years = [...new Set(reports.map((report) => report.date.slice(0, 4)))];
+---
+
+<BaseLayout title="历史归档" description="按分类和日期浏览 DailyReport 历史内容。">
+  <main class="archive-page page-shell">
+    <header class="page-hero compact">
+      <p class="eyebrow"><span></span> ARCHIVE</p>
+      <h1>历史归档</h1>
+      <p>按时间回看，让零散信息逐渐形成自己的知识地图。</p>
+    </header>
+
+    <div class="archive-toolbar" aria-label="归档筛选">
+      <button class="filter-chip active" type="button" data-filter="all">全部</button>
+      {modules.map((module) => (
+        <button class="filter-chip" type="button" data-filter={module.id}>{module.name}</button>
+      ))}
+    </div>
+
+    <div class="archive-groups">
+      {years.map((year) => (
+        <section class="archive-year" data-year={year}>
+          <h2>{year}<span>年</span></h2>
+          <div class="archive-list">
+            {reports.filter((report) => report.date.startsWith(year)).map((report) => (
+              <a class="archive-item" data-module={report.module.id} href={withBase(report.url)}>
+                <div class="archive-date">
+                  <strong>{report.date.slice(8, 10)}</strong>
+                  <span>{Number(report.date.slice(5, 7))}月</span>
+                </div>
+                <span class:list={["archive-icon", `tone-${report.module.tone}`]}>
+                  <Icon name={report.module.icon} size={20} />
+                </span>
+                <div class="archive-copy">
+                  <span>{report.module.name} · {report.readingTime}</span>
+                  <h3>{report.title}</h3>
+                  <p>{report.summary}</p>
+                </div>
+                <Icon name="chevron" size={19} />
+              </a>
+            ))}
+          </div>
+        </section>
+      ))}
+    </div>
+  </main>
+
+  <script>
+    const filters = document.querySelectorAll(".filter-chip");
+    const archiveItems = document.querySelectorAll(".archive-item");
+    filters.forEach((filter) => {
+      filter.addEventListener("click", () => {
+        const selected = filter.getAttribute("data-filter");
+        filters.forEach((item) => item.classList.toggle("active", item === filter));
+        archiveItems.forEach((item) => {
+          const visible = selected === "all" || item.getAttribute("data-module") === selected;
+          item.toggleAttribute("hidden", !visible);
+        });
+        document.querySelectorAll(".archive-year").forEach((group) => {
+          const visibleItems = group.querySelectorAll(".archive-item:not([hidden])");
+          group.toggleAttribute("hidden", visibleItems.length === 0);
+        });
+      });
+    });
+  </script>
+</BaseLayout>

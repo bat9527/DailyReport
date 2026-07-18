@@ -1,0 +1,47 @@
+---
+import Icon from "./Icon.astro";
+import { withBase } from "../lib/reports";
+
+const currentPath = Astro.url.pathname;
+const homeUrl = withBase("/");
+const archiveUrl = withBase("/archive/");
+---
+
+<header class="site-header">
+  <div class="header-inner">
+    <a class="brand" href={homeUrl} aria-label="DailyReport 首页">
+      <span class="brand-mark">D</span>
+      <span>DailyReport</span>
+    </a>
+
+    <nav class="desktop-nav" aria-label="主要导航">
+      <a class:list={["nav-link", { active: currentPath === homeUrl }]} href={homeUrl}>今日</a>
+      <a class:list={["nav-link", { active: currentPath.startsWith(archiveUrl) }]} href={archiveUrl}>归档</a>
+    </nav>
+
+    <div class="header-actions">
+      <button class="icon-button search-trigger" type="button" aria-label="搜索日报">
+        <Icon name="search" size={18} />
+      </button>
+      <button class="icon-button theme-toggle" type="button" aria-label="切换深色模式">
+        <span class="theme-icon theme-icon-light"><Icon name="sun" size={18} /></span>
+        <span class="theme-icon theme-icon-dark"><Icon name="moon" size={18} /></span>
+      </button>
+    </div>
+  </div>
+</header>
+
+<nav class="mobile-dock" aria-label="移动端导航">
+  <a class:list={["dock-item", { active: currentPath === homeUrl }]} href={homeUrl}>
+    <Icon name="home" size={20} />
+    <span>今日</span>
+  </a>
+  <button class="dock-item search-trigger" type="button">
+    <Icon name="search" size={20} />
+    <span>搜索</span>
+  </button>
+  <a class:list={["dock-item", { active: currentPath.startsWith(archiveUrl) }]} href={archiveUrl}>
+    <Icon name="archive" size={20} />
+    <span>归档</span>
+  </a>
+</nav>

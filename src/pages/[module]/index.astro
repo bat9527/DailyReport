@@ -1,0 +1,56 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import Icon from "../../components/Icon.astro";
+import {
+  getArchiveEntries,
+  getLatestEntry,
+  getModules,
+  metaForEntry,
+  withBase,
+  type ModuleInfo
+} from "../../lib/reports";
+
+export function getStaticPaths() {
+  return getModules().map((module) => ({ params: { module: module.id }, props: { module } }));
+}
+
+interface Props { module: ModuleInfo }
+const { module } = Astro.props;
+const latestEntry = await getLatestEntry(module.id);
+const latest = latestEntry ? metaForEntry(latestEntry) : undefined;
+const archives = (await getArchiveEntries(module.id)).map(metaForEntry);
+---
+
+<BaseLayout title={module.name} description={module.description}>
+  <main class="module-page page-shell">
+    <header class:list={["module-hero", `tone-${module.tone}`]}>
+      <div class="module-glow"></div>
+      <span class="module-icon"><Icon name={module.icon} size={30} /></span>
+      <p>{module.categoryLabel} · {module.schedule}</p>
+      <h1>{module.name}</h1>
+      <span>{module.description}</span>
+      {latest && (
+        <a class="primary-button" href={withBase(latest.url)}>
+          阅读最新一期 <Icon name="arrow" size={18} />
+        </a>
+      )}
+    </header>
+
+    <section class="module-archive">
+      <div class="section-heading">
+        <div><p class="section-kicker">HISTORY</p><h2>全部内容</h2></div>
+        <p>{archives.length} 期</p>
+      </div>
+      <div class="recent-list">
+        {archives.map((report) => (
+          <a class="recent-item" href={withBase(report.url)}>
+            <span class:list={["recent-icon", `tone-${module.tone}`]}><Icon name="calendar" size={18} /></span>
+            <div class="recent-copy"><span>{report.displayDate}</span><strong>{report.title}</strong></div>
+            <span class="recent-time">{report.readingTime}</span>
+            <Icon name="chevron" size={18} />
+          </a>
+        ))}
+      </div>
+    </section>
+  </main>
+</BaseLayout>
