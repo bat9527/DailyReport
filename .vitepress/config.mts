@@ -58,6 +58,19 @@ export default defineConfig({
   cleanUrls: true,
   lastUpdated: true,
   appearance: true,
+  markdown: {
+    config(md) {
+      const renderTableOpen = md.renderer.rules.table_open
+        ?? ((tokens, index, options, _env, self) => self.renderToken(tokens, index, options));
+      const renderTableClose = md.renderer.rules.table_close
+        ?? ((tokens, index, options, _env, self) => self.renderToken(tokens, index, options));
+
+      md.renderer.rules.table_open = (...args) =>
+        `<div class="table-scroll" tabindex="0" role="region" aria-label="可横向滚动的表格">${renderTableOpen(...args)}`;
+      md.renderer.rules.table_close = (...args) =>
+        `${renderTableClose(...args)}</div>`;
+    }
+  },
   rewrites: {
     "reports/:module/:path*": ":module/:path*"
   },

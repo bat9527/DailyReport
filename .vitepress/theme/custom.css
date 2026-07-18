@@ -160,15 +160,33 @@ body {
   font-size: 14px;
 }
 
-.vp-doc table {
-  width: max-content;
-  min-width: 100%;
+.vp-doc .table-scroll {
+  width: 100%;
+  max-width: 100%;
   margin: 20px 0;
-  border-collapse: separate;
-  border-spacing: 0;
-  overflow: hidden;
+  overflow-x: auto;
+  overflow-y: hidden;
   border: 1px solid var(--vp-c-divider);
   border-radius: 12px;
+  background: var(--vp-c-bg);
+  overscroll-behavior-inline: contain;
+  scrollbar-width: thin;
+  -webkit-overflow-scrolling: touch;
+}
+
+.vp-doc .table-scroll:focus-visible {
+  outline: 2px solid var(--vp-c-brand-1);
+  outline-offset: 2px;
+}
+
+.vp-doc .table-scroll table {
+  width: max-content;
+  min-width: 100%;
+  margin: 0;
+  border-collapse: separate;
+  border-spacing: 0;
+  border: 0;
+  border-radius: 0;
   font-size: 14px;
 }
 
@@ -183,10 +201,14 @@ body {
 
 .vp-doc th,
 .vp-doc td {
+  min-width: 88px;
+  max-width: 360px;
   padding: 10px 13px;
   border: 0;
   border-right: 1px solid var(--vp-c-divider);
   border-bottom: 1px solid var(--vp-c-divider);
+  overflow-wrap: anywhere;
+  vertical-align: top;
 }
 
 .vp-doc tr:last-child td,
@@ -771,7 +793,7 @@ body {
     white-space: normal;
   }
 
-  .vp-doc table {
+  .vp-doc .table-scroll table {
     min-width: 640px;
   }
 }
