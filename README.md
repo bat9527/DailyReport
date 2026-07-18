@@ -44,4 +44,4 @@
 
 ## 网站发布
 
-网站使用 Material for MkDocs 构建，并通过 GitHub Pages 发布。每次日报写入 `main` 分支后，GitHub Actions 会自动更新在线网站；Markdown 始终是唯一内容源。
+网站使用 Astro 构建，并通过 GitHub Pages 发布。界面采用接近 iOS/macOS 的系统字体、留白、卡片、毛玻璃与深色模式；每次日报写入 `main` 分支后，GitHub Actions 会自动更新在线网站，Markdown 始终是唯一内容源。

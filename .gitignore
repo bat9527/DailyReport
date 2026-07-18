@@ -1,5 +1,8 @@
+node_modules/
+dist/
+.astro/
+.DS_Store
 build/
-mkdocs.generated.yml
 site_docs/
+mkdocs.generated.yml
 __pycache__/
-*.py[cod]

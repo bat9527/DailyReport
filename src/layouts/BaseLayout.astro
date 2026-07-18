@@ -1,0 +1,152 @@
+---
+import SiteHeader from "../components/SiteHeader.astro";
+import Icon from "../components/Icon.astro";
+import "../styles/global.css";
+import { withBase } from "../lib/reports";
+
+interface Props {
+  title?: string;
+  description?: string;
+  image?: string;
+  article?: boolean;
+}
+
+const {
+  title = "DailyReport",
+  description = "把每日关注，沉淀为长期认知。",
+  article = false
+} = Astro.props;
+const fullTitle = title === "DailyReport" ? title : `${title} · DailyReport`;
+const canonical = new URL(Astro.url.pathname, Astro.site);
+const searchIndexUrl = withBase("/search-index.json");
+---
+
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="theme-color" content="#f5f5f7" media="(prefers-color-scheme: light)" />
+    <meta name="theme-color" content="#000000" media="(prefers-color-scheme: dark)" />
+    <meta name="description" content={description} />
+    <meta property="og:title" content={fullTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:type" content={article ? "article" : "website"} />
+    <meta property="og:url" content={canonical} />
+    <link rel="canonical" href={canonical} />
+    <link rel="icon" type="image/svg+xml" href={withBase("/favicon.svg")} />
+    <title>{fullTitle}</title>
+    <script is:inline>
+      (() => {
+        const saved = localStorage.getItem("dailyreport-theme");
+        const dark = window.matchMedia("(prefers-color-scheme: dark)").matches;
+        document.documentElement.dataset.theme = saved || (dark ? "dark" : "light");
+      })();
+    </script>
+  </head>
+  <body>
+    <div class="reading-progress" aria-hidden="true"><span></span></div>
+    <SiteHeader />
+    <slot />
+
+    <footer class="site-footer">
+      <div>
+        <span class="footer-mark">D</span>
+        <p><strong>DailyReport</strong><br />持续学习，长期积累。</p>
+      </div>
+      <p>Markdown 驱动 · GitHub Pages 自动发布</p>
+    </footer>
+
+    <dialog class="search-dialog" id="search-dialog">
+      <div class="search-panel">
+        <div class="search-field-wrap">
+          <Icon name="search" size={20} />
+          <input id="site-search" type="search" placeholder="搜索公司、人物或主题" autocomplete="off" />
+          <button class="search-close" type="button" aria-label="关闭搜索">完成</button>
+        </div>
+        <div class="search-hint" id="search-hint">输入关键词，搜索所有历史日报</div>
+        <div class="search-results" id="search-results" aria-live="polite"></div>
+      </div>
+    </dialog>
+
+    <script is:inline data-search-index={searchIndexUrl}>
+      const searchIndexUrl = document.currentScript.getAttribute("data-search-index");
+      const root = document.documentElement;
+      const themeButtons = document.querySelectorAll(".theme-toggle");
+      themeButtons.forEach((button) => {
+        button.addEventListener("click", () => {
+          const next = root.dataset.theme === "dark" ? "light" : "dark";
+          root.dataset.theme = next;
+          localStorage.setItem("dailyreport-theme", next);
+        });
+      });
+
+      const dialog = document.querySelector("#search-dialog");
+      const input = document.querySelector("#site-search");
+      const results = document.querySelector("#search-results");
+      const hint = document.querySelector("#search-hint");
+      let searchIndex = null;
+
+      async function ensureSearchIndex() {
+        if (!searchIndex) {
+          const response = await fetch(searchIndexUrl);
+          searchIndex = await response.json();
+        }
+        return searchIndex;
+      }
+
+      function escapeHtml(value) {
+        const node = document.createElement("span");
+        node.textContent = value;
+        return node.innerHTML;
+      }
+
+      function renderResults(items, query) {
+        if (!query) {
+          results.innerHTML = "";
+          hint.textContent = "输入关键词，搜索所有历史日报";
+          return;
+        }
+        hint.textContent = items.length ? `找到 ${items.length} 条相关内容` : "没有找到相关内容";
+        results.innerHTML = items.slice(0, 10).map((item) => `
+          <a class="search-result" href="${item.url}">
+            <span>${escapeHtml(item.category)} · ${escapeHtml(item.date)}</span>
+            <strong>${escapeHtml(item.title)}</strong>
+            <p>${escapeHtml(item.summary)}</p>
+          </a>
+        `).join("");
+      }
+
+      document.querySelectorAll(".search-trigger").forEach((button) => {
+        button.addEventListener("click", async () => {
+          dialog.showModal();
+          await ensureSearchIndex();
+          requestAnimationFrame(() => input.focus());
+        });
+      });
+
+      document.querySelector(".search-close")?.addEventListener("click", () => dialog.close());
+      dialog.addEventListener("click", (event) => {
+        if (event.target === dialog) dialog.close();
+      });
+
+      input.addEventListener("input", async () => {
+        const query = input.value.trim().toLocaleLowerCase("zh-CN");
+        const index = await ensureSearchIndex();
+        const matches = query
+          ? index.filter((item) => item.searchText.includes(query))
+          : [];
+        renderResults(matches, query);
+      });
+
+      const progress = document.querySelector(".reading-progress span");
+      const updateProgress = () => {
+        const max = document.documentElement.scrollHeight - window.innerHeight;
+        const percentage = max > 0 ? Math.min(100, (window.scrollY / max) * 100) : 0;
+        progress.style.width = `${percentage}%`;
+      };
+      document.addEventListener("scroll", updateProgress, { passive: true });
+      updateProgress();
+    </script>
+  </body>
+</html>
