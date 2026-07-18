@@ -1,3 +1,30 @@
+---
+dedup:
+  primary_topic: "非洲支付基础设施扩张与客户资金安全"
+  topic_tags:
+    - 电子货币备付金
+    - 即时支付互操作
+    - 数字信贷监管
+    - 移动钱包
+  entities:
+    - Zeepay
+    - eKash
+    - Central Bank of Kenya
+    - Flash
+    - Mastercard
+    - Airtel Money
+    - UnionPay International
+    - Financial Stability Board
+  content_keys:
+    - zeepay-demi-license-revoked-2026-07-14
+    - rwanda-ekash-launch-2026-07
+    - kenya-dcp-252-licenses-2026-07-14
+    - flash-mastercard-drc-partnership-2026-07-13
+    - airtel-money-ipo-report-2026-07-15
+    - unionpay-africa-fintech-forum-2026-07-17
+    - fsb-ssa-stablecoin-meeting-2026-07-16
+---
+
 # 金融科技出海日报｜2026-07-18
 
 > 北京时间｜核心窗口：2026-07-17 08:06 至 2026-07-18 08:06｜重要低频信息回溯至近 7 天｜预计阅读：15–20 分钟

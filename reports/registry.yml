@@ -14,6 +14,7 @@ reports:
     output:
       latest: reports/fintech-expansion/latest.md
       archive: reports/fintech-expansion/archive/YYYY/MM/YYYY-MM-DD.md
+      history_index: reports/fintech-expansion/history-index.json
 
   - id: english-shadowing
     category: language
@@ -27,3 +28,4 @@ reports:
     output:
       latest: reports/english-shadowing/latest.md
       archive: reports/english-shadowing/archive/YYYY/MM/YYYY-MM-DD.md
+      history_index: reports/english-shadowing/history-index.json

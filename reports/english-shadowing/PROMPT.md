@@ -9,12 +9,14 @@
 ## 每次运行必须完成
 
 1. 读取本目录的 README.md、config.yml、sources.yml、TOPIC_POOL.md 和 template.md。
-2. 查看最近 30 天归档，避免重复人物、作品、原句和主题。
-3. 从名人演讲与访谈、经典书籍、经典电影中选择一个主题。
-4. 核验人物、作品、场景、原句和出处。
-5. 生成 GitHub 完整版 Markdown。
-6. 按北京时间保存到 archive/YYYY/MM/YYYY-MM-DD.md，并用相同内容更新 latest.md。
-7. GitHub 归档成功后，在对话中推送正文和完整归档链接。
+2. 读取 `history-index.json` 和最近 30 天归档，比较人物、作品、原句、主题、`content_keys` 和来源 URL。
+3. 从名人演讲与访谈、经典书籍、经典电影中选择一个未触发冷却期的主题；同一人物或作品 30 天内不得重复。
+4. 为本期人物、作品与主题创建稳定、可读的 `content_key`；已经存在的键和原句不得再次使用。
+5. 核验人物、作品、场景、原句和出处。
+6. 按 template.md 生成带 `dedup` YAML 元数据的 GitHub 完整版 Markdown。
+7. 按北京时间保存到 archive/YYYY/MM/YYYY-MM-DD.md，并用完全相同的内容更新 latest.md。
+8. 运行 `npm run index:write`，再运行 `npm run index:check`；校验失败时重新选题或修正元数据。
+9. GitHub 归档成功后，在对话中推送正文和完整归档链接。
 
 ## 选材要求
 
@@ -132,4 +134,5 @@
 - 原句或出处无法核验时，不能冒险使用。
 - 原声链接不可访问时，可以提供可靠文本链接并明确说明。
 - GitHub 归档失败时仍推送正文，但必须说明失败。
+- 去重索引未更新或校验失败时，不声称已经归档。
 - 不得编造引语、音标、作品背景或来源。

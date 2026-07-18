@@ -1,3 +1,18 @@
+---
+dedup:
+  primary_topic: "用一句话概括本期练习主题"
+  topic_tags:
+    - 示例主题标签
+  entities:
+    - 人物
+  works:
+    - 演讲、书籍或电影名称
+  content_keys:
+    - source-work-theme-key
+  source_type: speech
+  quote: "本期使用的极短原句；没有引用时留空"
+---
+
 # 英文影子跟读｜YYYY-MM-DD
 
 > 今日来源：人物／书籍／电影｜难度：A2–B1｜训练时间：约 12–15 分钟

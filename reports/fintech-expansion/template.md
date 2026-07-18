@@ -1,3 +1,14 @@
+---
+dedup:
+  primary_topic: "用一句话概括本期最核心、可与历史比较的主题"
+  topic_tags:
+    - 示例主题标签
+  entities:
+    - 示例公司或机构
+  content_keys:
+    - example-event-YYYY-MM-DD
+---
+
 # 金融科技出海日报｜YYYY-MM-DD
 
 > 北京时间｜覆盖窗口：YYYY-MM-DD HH:mm 至 YYYY-MM-DD HH:mm｜预计阅读：15–20 分钟

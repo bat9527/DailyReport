@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "module_id": "english-shadowing",
+  "module_name": "英文影子跟读",
+  "dedup_window_days": 30,
+  "entity_cooldown_days": 30,
+  "latest_archive_date": "2026-07-18",
+  "entry_count": 1,
+  "entries": [
+    {
+      "date": "2026-07-18",
+      "path": "archive/2026/07/2026-07-18.md",
+      "title": "英文影子跟读｜2026-07-18",
+      "primary_topic": "保持好奇，并在回望中连接人生经验",
+      "topic_tags": [
+        "好奇心",
+        "人生选择",
+        "回望与成长"
+      ],
+      "entities": [
+        "Steve Jobs"
+      ],
+      "works": [
+        "Stanford University Commencement Address 2005"
+      ],
+      "content_keys": [
+        "steve-jobs-stanford-connect-dots-curiosity"
+      ],
+      "source_type": "speech",
+      "quote": "You can only connect them looking backwards.",
+      "allow_repeat": false,
+      "repeat_reason": null,
+      "summary": "英文影子跟读｜2026-07-18 今日来源：名人演讲｜难度：A2–B1｜训练时间：约 12–15 分钟 一、今日声音 今天选的是 Steve Jobs 在斯坦福大学 2005 年毕业典礼上的演讲。他用自己年轻时旁听书法课、后来参与设计 Macintosh 字体的经历，说明很多选择在发生时看不出意义，回头看才会连成一条线。 这期不谈职业规划，而是练习一种更轻松的生活视角：允许自己保持好奇，先认真体验，再慢慢理解。 二、一句原声 You can only connect…",
+      "source_urls": [
+        "https://news.stanford.edu/stories/2005/06/youve-got-find-love-jobs-says",
+        "https://www.youtube.com/watch?v=UF8uR6Z6KLc"
+      ],
+      "fingerprints": {
+        "content_sha256": "dc4debd45ae9d4e18844466f803608e3dc580e62bccf912547ec52ac44dac7a4",
+        "topic_sha256": "7176696eb5f954c4f0a04bdd66fab3239aac616f2d04faa7e1a49c687b308677",
+        "quote_sha256": "86b23ecc0c2a9c1af5087db216be098b52362d4365665cb1a3cc1a5ba4446677",
+        "source_sha256": [
+          "18dc560291ed2dbff4bd5adeef562d8c566cb9fe0014bd12eb1ceb57e6545d98",
+          "ee2cbd1d6bcb18c97575cced9cd1e092335e0a1d79d1d7137a1b79e699598f75"
+        ]
+      }
+    }
+  ]
+}
