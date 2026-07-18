@@ -1,6 +1,6 @@
 ---
 interface Props {
-  name: "archive" | "arrow" | "book" | "calendar" | "chevron" | "clock" | "globe" | "home" | "moon" | "search" | "sun" | "voice";
+  name: "archive" | "arrow" | "book" | "calendar" | "chart" | "chevron" | "clock" | "globe" | "home" | "moon" | "search" | "sun" | "voice";
   size?: number;
 }
 
@@ -11,6 +11,7 @@ const paths: Record<Props["name"], string> = {
   arrow: "M5 12h14m-6-6 6 6-6 6",
   book: "M4 19.5A2.5 2.5 0 0 1 6.5 17H20V3H6.5A2.5 2.5 0 0 0 4 5.5v14Zm0 0A2.5 2.5 0 0 0 6.5 22H20v-5",
   calendar: "M7 3v3m10-3v3M4 9h16M5 5h14a1 1 0 0 1 1 1v14H4V6a1 1 0 0 1 1-1Z",
+  chart: "M4 20V10m6 10V4m6 16v-7m4 7H2",
   chevron: "m9 18 6-6-6-6",
   clock: "M12 22a10 10 0 1 0 0-20 10 10 0 0 0 0 20Zm0-14v5l3 2",
   globe: "M12 22a10 10 0 1 0 0-20 10 10 0 0 0 0 20Zm0-20c2.5 2.7 3.8 6 3.8 10S14.5 19.3 12 22m0-20C9.5 4.7 8.2 8 8.2 12s1.3 7.3 3.8 10M2 12h20",

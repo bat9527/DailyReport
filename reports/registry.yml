@@ -29,3 +29,17 @@ reports:
       latest: reports/english-shadowing/latest.md
       archive: reports/english-shadowing/archive/YYYY/MM/YYYY-MM-DD.md
       history_index: reports/english-shadowing/history-index.json
+
+  - id: web3-market
+    category: web3
+    name: Web3 行情与生态日报
+    status: active
+    path: reports/web3-market
+    schedule:
+      frequency: daily
+      time: "08:00"
+      timezone: Asia/Shanghai
+    output:
+      latest: reports/web3-market/latest.md
+      archive: reports/web3-market/archive/YYYY/MM/YYYY-MM-DD.md
+      history_index: reports/web3-market/history-index.json

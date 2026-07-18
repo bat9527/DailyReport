@@ -4,6 +4,9 @@
   "module_name": "英文影子跟读",
   "dedup_window_days": 30,
   "entity_cooldown_days": 30,
+  "recurring_topic_tags": [],
+  "recurring_entities": [],
+  "recurring_source_hosts": [],
   "latest_archive_date": "2026-07-18",
   "entry_count": 1,
   "entries": [
