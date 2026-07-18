@@ -21,7 +21,72 @@
     "www.deribit.com",
     "api.llama.fi"
   ],
-  "latest_archive_date": null,
-  "entry_count": 0,
-  "entries": []
+  "latest_archive_date": "2026-07-19",
+  "entry_count": 1,
+  "entries": [
+    {
+      "date": "2026-07-19",
+      "path": "archive/2026/07/2026-07-19.md",
+      "title": "Web3 行情与生态日报｜2026-07-19",
+      "primary_topic": "低成交量反弹中 ETH 相对 BTC 略有修复，杠杆基线仍待积累",
+      "topic_tags": [
+        "BTC",
+        "ETH",
+        "行情",
+        "低成交量反弹",
+        "AI 交易工具",
+        "稳定币支付"
+      ],
+      "entities": [
+        "Bitcoin",
+        "BTC",
+        "Ethereum",
+        "ETH",
+        "Uniswap Labs",
+        "Tether",
+        "Pact Labs",
+        "Hyundai",
+        "Axiym"
+      ],
+      "works": [],
+      "content_keys": [
+        "btc-eth-low-volume-rebound-2026-07-19",
+        "uniswap-trading-tools-launch-2026-07-14",
+        "tether-pact-labs-series-a-2026-07-14",
+        "tether-hyundai-cross-border-poc-2026-07-13"
+      ],
+      "source_type": null,
+      "quote": null,
+      "allow_repeat": false,
+      "repeat_reason": null,
+      "summary": "Web3 行情与生态日报｜2026-07-19 行情快照：2026-07-19 00:50（北京时间）｜衍生品数据点：00:39｜加密资产 24/7 交易，无统一收盘价｜预计阅读：12–15 分钟 本文只用于市场学习和风险观察，不构成投资建议，也不读取任何个人持仓或钱包信息。 一、三句话看市场 BTC 报 64,097 美元、24 小时约涨 1.0%，ETH 报 1,843 美元、24 小时约涨 0.7%；两者都反弹，但聚合成交量明显低于前一 UTC…",
+      "source_urls": [
+        "https://blog.uniswap.org/introducing-uniswap-trading-tools",
+        "https://tether.io/news/global-industrial-conglomerate-hyundai-completes-enterprise-treasury-pilot-on-tether-usdt-moving-corporate-funds-across-global-borders",
+        "https://tether.io/news/tether-leads-7-million-series-a-in-pact-labs-to-expand-usat-across-payroll-and-payments",
+        "https://www.coingecko.com/en/charts",
+        "https://www.coingecko.com/en/coins/bitcoin",
+        "https://www.coingecko.com/en/coins/bitcoin/historical_data",
+        "https://www.coingecko.com/en/coins/ethereum",
+        "https://www.coingecko.com/en/coins/ethereum/historical_data",
+        "https://www.deribit.com/api/v2/public/ticker?instrument_name=BTC-PERPETUAL"
+      ],
+      "fingerprints": {
+        "content_sha256": "5c65bec97a79275c02f9bb1ba2b572c9701fb516c4c7f09fd93e39d5a7d9e633",
+        "topic_sha256": "6d26612fa870567e0a03f8ab5ad59a831e27f976781164ed9cf50b874414bbbb",
+        "quote_sha256": null,
+        "source_sha256": [
+          "41c5598371965dbc4161e4133b0e46fc84cc9b91c4b6953392b403595499359a",
+          "b66da93c8c5be725c1dfc8368249301f50936e9ce8733eb1b454f2e38721cb2b",
+          "6f7a0176593fe0b896c414b3c484f3a159244ebedca706458219a9a69704e1ce",
+          "61c133b4b48771dbba433357a638da898f57a78e97ed542502f53b36bbe665b8",
+          "d9da0a8547ee84c5d5f99daa43fb1b082211cfc0b26e0409114b293105562289",
+          "43f6bc97a56ddc96c975f774bbb6bd6e8c924998d419e5300b4ed8346c77f948",
+          "0d0cdb0f51717da0ba30e8b99c4ddbb65d72754a71041050362f364b788339f5",
+          "382f1dcf0d1244b397a6b3b551eb27cf1429959933083589661f898307d7c52f",
+          "536c0a4685a58ff346b4665e7ebd2c395bbb6fce6e371081c6d9df2d2b598a1a"
+        ]
+      }
+    }
+  ]
 }

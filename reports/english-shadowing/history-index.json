@@ -7,9 +7,46 @@
   "recurring_topic_tags": [],
   "recurring_entities": [],
   "recurring_source_hosts": [],
-  "latest_archive_date": "2026-07-18",
-  "entry_count": 1,
+  "latest_archive_date": "2026-07-19",
+  "entry_count": 2,
   "entries": [
+    {
+      "date": "2026-07-19",
+      "path": "archive/2026/07/2026-07-19.md",
+      "title": "英文影子跟读｜2026-07-19",
+      "primary_topic": "换一个视角，在必要的任务里找到一点乐趣",
+      "topic_tags": [
+        "生活乐趣",
+        "视角转换",
+        "开始行动"
+      ],
+      "entities": [
+        "Mark Twain",
+        "Tom Sawyer"
+      ],
+      "works": [
+        "The Adventures of Tom Sawyer"
+      ],
+      "content_keys": [
+        "mark-twain-tom-sawyer-reframe-work-as-play"
+      ],
+      "source_type": "book",
+      "quote": "Work consists of whatever a body is obliged to do.",
+      "allow_repeat": false,
+      "repeat_reason": null,
+      "summary": "英文影子跟读｜2026-07-19 今日来源：经典书籍｜难度：A2–B1｜训练时间：约 12–15 分钟 一、今日声音 今天从演讲换到一本轻松的经典小说：Mark Twain 的 The Adventures of Tom Sawyer。Tom 被罚给篱笆刷白漆，却把一件苦差事表现得像稀缺的乐趣，结果其他孩子反而拿东西换取参与机会。 这期不是学习怎样“套路”别人，而是练习一个生活化主题：同一件事，换一个角度、加入一点选择和好奇，体感可能完全不同。 二、一句原声 Work…",
+      "source_urls": [
+        "https://www.gutenberg.org/files/74/74-h/74-h.htm"
+      ],
+      "fingerprints": {
+        "content_sha256": "b94906bc7d427c3c16be51b1c4af3c65be08af089918b6ecdeb661f771351c34",
+        "topic_sha256": "e805929a7c1b0f198873d46a2a4903f9a53e34e010be763b516053c9586981e8",
+        "quote_sha256": "4c67fb71fa7d412a7f7218a2c8e1bdcd72df7b53a57e693b2d5fdc70efa1d02f",
+        "source_sha256": [
+          "39354c5be8c99d2b5428f9a73df3e8d7a7e6976bda79c84d1c97bd6fc6e344a1"
+        ]
+      }
+    },
     {
       "date": "2026-07-18",
       "path": "archive/2026/07/2026-07-18.md",

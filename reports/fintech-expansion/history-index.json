@@ -7,9 +7,53 @@
   "recurring_topic_tags": [],
   "recurring_entities": [],
   "recurring_source_hosts": [],
-  "latest_archive_date": "2026-07-18",
-  "entry_count": 1,
+  "latest_archive_date": "2026-07-19",
+  "entry_count": 2,
   "entries": [
+    {
+      "date": "2026-07-19",
+      "path": "archive/2026/07/2026-07-19.md",
+      "title": "金融科技出海日报｜2026-07-19",
+      "primary_topic": "即时支付从速度扩张转向用户控制与公共基础设施",
+      "topic_tags": [
+        "即时支付",
+        "支付反欺诈",
+        "数字公共基础设施",
+        "支付互操作"
+      ],
+      "entities": [
+        "Central Bank of Nigeria",
+        "South African Reserve Bank",
+        "PayInc",
+        "GSMA"
+      ],
+      "works": [],
+      "content_keys": [
+        "cbn-instant-payment-controls-effective-2026-07-01",
+        "sarb-national-payment-utility-case-2026-07-19",
+        "gsma-mobile-money-scale-case-2026-07-19"
+      ],
+      "source_type": null,
+      "quote": null,
+      "allow_repeat": false,
+      "repeat_reason": null,
+      "summary": "金融科技出海日报｜2026-07-19 北京时间｜核心窗口：2026-07-18 00:43 至 2026-07-19 00:43｜重要低频信息回溯至近 7 天｜预计阅读：15–20 分钟 本期说明：核心窗口内没有发现足够重要、同时能由一手来源核验的新事件。本期不重复昨天已经覆盖的 Zeepay、eKash、肯尼亚数字信贷、Airtel Money、Flash、UnionPay 和 FSB 事项，而是选取两个处于实施阶段的支付案例做学习拆解；它们不是 7 月 19 日新闻。…",
+      "source_urls": [
+        "https://www.cbn.gov.ng/AboutCBN/Reforms.html",
+        "https://www.gsma.com/sotir",
+        "https://www.resbank.co.za/en/home/what-we-do/payments-and-settlements/pem"
+      ],
+      "fingerprints": {
+        "content_sha256": "f85c40d246e9facfe4227cf688f170729eb26db2502bbaeccb7659bd7e13655c",
+        "topic_sha256": "71e0cdd521280506c3b7920bbf18efe2fb8bb2ee5aefa90fd3eccdcbd1fb7b92",
+        "quote_sha256": null,
+        "source_sha256": [
+          "4990179f81f740f4d9e9296c0b7a04ac7198674d714f3fd08174c9d352d1d0ce",
+          "8b8893cd569d949999a4b89828dd36b7c76b49ea4b2eaeee9f1bc311b2c92b25",
+          "ded6b7ad3e240b4432f2272f369a9ed9a11a29074f68159de15d5fa6ec630d4b"
+        ]
+      }
+    },
     {
       "date": "2026-07-18",
       "path": "archive/2026/07/2026-07-18.md",
