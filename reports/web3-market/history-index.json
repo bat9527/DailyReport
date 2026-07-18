@@ -28,63 +28,63 @@
       "date": "2026-07-19",
       "path": "archive/2026/07/2026-07-19.md",
       "title": "Web3 行情与生态日报｜2026-07-19",
-      "primary_topic": "低成交量反弹中 ETH 相对 BTC 略有修复，杠杆基线仍待积累",
+      "primary_topic": "ETH 相对强弱继续修复，但成交与链上需求尚未同步确认",
       "topic_tags": [
         "BTC",
         "ETH",
         "行情",
-        "低成交量反弹",
-        "AI 交易工具",
-        "稳定币支付"
+        "ETH/BTC",
+        "低杠杆成本",
+        "开发者工具"
       ],
       "entities": [
         "Bitcoin",
         "BTC",
         "Ethereum",
         "ETH",
-        "Uniswap Labs",
-        "Tether",
-        "Pact Labs",
-        "Hyundai",
-        "Axiym"
+        "Solana",
+        "Aave",
+        "Uniswap Labs"
       ],
       "works": [],
       "content_keys": [
-        "btc-eth-low-volume-rebound-2026-07-19",
-        "uniswap-trading-tools-launch-2026-07-14",
-        "tether-pact-labs-series-a-2026-07-14",
-        "tether-hyundai-cross-border-poc-2026-07-13"
+        "btc-eth-relative-strength-snapshot-2026-07-19",
+        "solana-developer-changelog-2026-07-16",
+        "aave-app-governance-proposal-2026-07-13",
+        "uniswap-trading-tools-launch-2026-07-14"
       ],
       "source_type": null,
       "quote": null,
       "allow_repeat": false,
       "repeat_reason": null,
-      "summary": "Web3 行情与生态日报｜2026-07-19 行情快照：2026-07-19 00:50（北京时间）｜衍生品数据点：00:39｜加密资产 24/7 交易，无统一收盘价｜预计阅读：12–15 分钟 本文只用于市场学习和风险观察，不构成投资建议，也不读取任何个人持仓或钱包信息。 一、三句话看市场 BTC 报 64,097 美元、24 小时约涨 1.0%，ETH 报 1,843 美元、24 小时约涨 0.7%；两者都反弹，但聚合成交量明显低于前一 UTC…",
+      "summary": "Web3 行情与生态日报｜2026-07-19 行情快照：2026-07-19 06:05（北京时间）｜加密资产 24/7 交易，无统一收盘价｜预计阅读：12–15 分钟 本文只用于市场学习和风险观察，不构成投资建议，也不读取任何个人持仓或钱包信息。 一、三句话看市场 BTC 报 64,724 美元、24 小时涨 1.07%，ETH 报 1,860.75 美元、涨 1.10%；价格同步回升，但全市场 24 小时成交额较前一日下降约…",
       "source_urls": [
+        "https://api.coingecko.com/api/v3/coins/markets?ids=bitcoin%2Cethereum&price_change_percentage=24h%2C7d%2C30d&vs_currency=usd",
+        "https://api.coingecko.com/api/v3/global",
+        "https://api.llama.fi/overview/dexs/Ethereum",
+        "https://api.llama.fi/v2/historicalChainTvl/Ethereum",
         "https://blog.uniswap.org/introducing-uniswap-trading-tools",
-        "https://tether.io/news/global-industrial-conglomerate-hyundai-completes-enterprise-treasury-pilot-on-tether-usdt-moving-corporate-funds-across-global-borders",
-        "https://tether.io/news/tether-leads-7-million-series-a-in-pact-labs-to-expand-usat-across-payroll-and-payments",
-        "https://www.coingecko.com/en/charts",
-        "https://www.coingecko.com/en/coins/bitcoin",
-        "https://www.coingecko.com/en/coins/bitcoin/historical_data",
-        "https://www.coingecko.com/en/coins/ethereum",
-        "https://www.coingecko.com/en/coins/ethereum/historical_data",
-        "https://www.deribit.com/api/v2/public/ticker?instrument_name=BTC-PERPETUAL"
+        "https://governance.aave.com/t/arfc-aave-app-launch/25307",
+        "https://solana.com/news/solana-changelog-july-16-2026",
+        "https://stablecoins.llama.fi/stablecoincharts/all",
+        "https://www.deribit.com/api/v2/public/ticker?instrument_name=BTC-PERPETUAL",
+        "https://www.deribit.com/api/v2/public/ticker?instrument_name=ETH-PERPETUAL"
       ],
       "fingerprints": {
-        "content_sha256": "5c65bec97a79275c02f9bb1ba2b572c9701fb516c4c7f09fd93e39d5a7d9e633",
-        "topic_sha256": "6d26612fa870567e0a03f8ab5ad59a831e27f976781164ed9cf50b874414bbbb",
+        "content_sha256": "8d78c5cdfe2bd4889b05a6778a38a1240501227fa76a85dff9c67c380e495f46",
+        "topic_sha256": "e0aaa293936b6a05ed32903e6ddefc5bf63e903abbf84bececf49bf3f74d499b",
         "quote_sha256": null,
         "source_sha256": [
+          "f2f4b82c5bd49e2982da1d4a5217323eeef134bb66af0463c81755f5a6be7059",
+          "a92d291d920ba68fcb73671d022eb8295cae624ad51be112450efb973aadda0b",
+          "59135881861a6f29853750d59ead248b2fee3b4eec7bf47c3c870f782d268598",
+          "03e91b5d3a826c57ca793f040f18fd652b7441458a9e87d04ec63d7b7165e23d",
           "41c5598371965dbc4161e4133b0e46fc84cc9b91c4b6953392b403595499359a",
-          "b66da93c8c5be725c1dfc8368249301f50936e9ce8733eb1b454f2e38721cb2b",
-          "6f7a0176593fe0b896c414b3c484f3a159244ebedca706458219a9a69704e1ce",
-          "61c133b4b48771dbba433357a638da898f57a78e97ed542502f53b36bbe665b8",
-          "d9da0a8547ee84c5d5f99daa43fb1b082211cfc0b26e0409114b293105562289",
-          "43f6bc97a56ddc96c975f774bbb6bd6e8c924998d419e5300b4ed8346c77f948",
-          "0d0cdb0f51717da0ba30e8b99c4ddbb65d72754a71041050362f364b788339f5",
-          "382f1dcf0d1244b397a6b3b551eb27cf1429959933083589661f898307d7c52f",
-          "536c0a4685a58ff346b4665e7ebd2c395bbb6fce6e371081c6d9df2d2b598a1a"
+          "d18443e6121fee8ae818c7ab6451c683954e2a245e524f1a229629aab0912365",
+          "74f1e07563c2d1048237644cd358704dba90149d117442aff5904a3ea5ef421e",
+          "9bf84a2b744734a785492b560cf09460aff30cec0fcfb535e1efe20867d1bf55",
+          "536c0a4685a58ff346b4665e7ebd2c395bbb6fce6e371081c6d9df2d2b598a1a",
+          "9db6457f23d96e1484a3264cc094861c1861d44683e6b86be272bdbe581cc9ad"
         ]
       }
     }
