@@ -1,0 +1,5 @@
+build/
+mkdocs.generated.yml
+site_docs/
+__pycache__/
+*.py[cod]
