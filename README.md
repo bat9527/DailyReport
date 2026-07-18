@@ -24,6 +24,8 @@
 - reports/*/history-index.json：由归档自动生成的跨日去重索引
 - reports/DEDUPLICATION.md：去重元数据和日常生成流程
 - shared/REPORT_STANDARD.md：所有日报共同遵守的最低标准
+- .vitepress/：站点配置、导航生成、主题和页面组件
+- index.md / archive.md：首页与全站历史归档
 
 每个日报模块至少包含：
 
@@ -51,4 +53,20 @@
 
 ## 网站发布
 
-网站使用 Astro 构建，并通过 GitHub Pages 发布。界面采用接近 iOS/macOS 的系统字体、留白、卡片、毛玻璃与深色模式；每次日报写入 `main` 分支后，GitHub Actions 会自动更新在线网站，Markdown 始终是唯一内容源。
+网站使用 VitePress 构建，并通过 GitHub Pages 发布。桌面端采用文档站布局：栏目与日期在左侧导航，正文居中，页内目录位于右侧；同时保留系统字体、克制留白、深色模式和移动端适配。
+
+导航、栏目归档和首页最新日期都从 `reports/registry.yml` 与各模块的 `history-index.json` 自动生成。每次日报写入 `main` 分支后，GitHub Actions 会自动更新在线网站，Markdown 始终是唯一内容源。
+
+本地开发：
+
+```bash
+npm install
+npm run dev
+```
+
+发布前检查：
+
+```bash
+npm run build
+npm run preview
+```

@@ -1,6 +1,9 @@
 node_modules/
 dist/
 .astro/
+.vitepress/cache/
+.vitepress/dist/
+*.timestamp-*.mjs
 .DS_Store
 build/
 site_docs/
