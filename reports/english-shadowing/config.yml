@@ -8,7 +8,7 @@ status: active
 
 schedule:
   frequency: daily
-  time: "08:00"
+  time: "06:00"
 
 reading_and_practice:
   chat_minutes: 12

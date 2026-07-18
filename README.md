@@ -10,9 +10,9 @@
 
 | 分类 | 日报 | 状态 | 生成时间 | 最新一期 |
 |---|---|---|---|---|
-| 金融科技 | 金融科技出海 | 已启用 | 每日 08:00（北京时间） | [查看最新一期](reports/fintech-expansion/latest.md) |
-| 语言学习 | 英文影子跟读 | 已启用 | 每日 08:00（北京时间） | [查看最新一期](reports/english-shadowing/latest.md) |
-| Web3 | Web3 行情与生态 | 已启用 | 每日 08:00（北京时间） | 首期生成后可见 |
+| 金融科技 | 金融科技出海 | 已启用 | 每日 06:00（北京时间） | [查看最新一期](reports/fintech-expansion/latest.md) |
+| 语言学习 | 英文影子跟读 | 已启用 | 每日 06:00（北京时间） | [查看最新一期](reports/english-shadowing/latest.md) |
+| Web3 | Web3 行情与生态 | 已启用 | 每日 06:00（北京时间） | [查看最新一期](reports/web3-market/latest.md) |
 
 ## 项目结构
 
