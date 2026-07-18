@@ -19,6 +19,8 @@
 - reports/registry.yml：日报模块注册表
 - reports/fintech-expansion/：金融科技出海日报
 - reports/english-shadowing/：英文影子跟读
+- reports/*/history-index.json：由归档自动生成的跨日去重索引
+- reports/DEDUPLICATION.md：去重元数据和日常生成流程
 - shared/REPORT_STANDARD.md：所有日报共同遵守的最低标准
 
 每个日报模块至少包含：
@@ -30,6 +32,7 @@
 - template.md：Markdown 输出模板
 - latest.md：最新一期
 - archive/YYYY/MM/YYYY-MM-DD.md：历史归档
+- history-index.json：主题、实体、事件、来源与内容指纹索引
 
 ## 设计原则
 
@@ -41,6 +44,8 @@
 6. 分层阅读：对话推送适合快速阅读，GitHub 归档保留完整内容。
 
 调度由 ChatGPT 自动化任务负责，仓库保存日报规则和长期归档。
+
+每期日报写入后运行 `npm run index:write` 更新去重索引；`npm run index:check` 会检查索引是否同步、`latest.md` 是否等于最新归档，以及内容指纹、事件键、原句和冷却期主题是否重复。该机制完全基于 Git 文件，不需要数据库。
 
 ## 网站发布
 

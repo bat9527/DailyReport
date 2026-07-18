@@ -5,7 +5,9 @@
   "type": "module",
   "scripts": {
     "dev": "astro dev",
-    "build": "astro check && astro build",
+    "index:write": "node scripts/history-index.mjs --write",
+    "index:check": "node scripts/history-index.mjs --check",
+    "build": "npm run index:check && astro check && astro build",
     "preview": "astro preview"
   },
   "dependencies": {

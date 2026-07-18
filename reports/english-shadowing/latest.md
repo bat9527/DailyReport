@@ -1,3 +1,20 @@
+---
+dedup:
+  primary_topic: "保持好奇，并在回望中连接人生经验"
+  topic_tags:
+    - 好奇心
+    - 人生选择
+    - 回望与成长
+  entities:
+    - Steve Jobs
+  works:
+    - Stanford University Commencement Address 2005
+  content_keys:
+    - steve-jobs-stanford-connect-dots-curiosity
+  source_type: speech
+  quote: "You can only connect them looking backwards."
+---
+
 # 英文影子跟读｜2026-07-18
 
 > 今日来源：名人演讲｜难度：A2–B1｜训练时间：约 12–15 分钟

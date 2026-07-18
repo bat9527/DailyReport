@@ -1,0 +1,77 @@
+{
+  "schema_version": 1,
+  "module_id": "fintech-expansion",
+  "module_name": "金融科技出海日报",
+  "dedup_window_days": 7,
+  "entity_cooldown_days": 0,
+  "latest_archive_date": "2026-07-18",
+  "entry_count": 1,
+  "entries": [
+    {
+      "date": "2026-07-18",
+      "path": "archive/2026/07/2026-07-18.md",
+      "title": "金融科技出海日报｜2026-07-18",
+      "primary_topic": "非洲支付基础设施扩张与客户资金安全",
+      "topic_tags": [
+        "电子货币备付金",
+        "即时支付互操作",
+        "数字信贷监管",
+        "移动钱包"
+      ],
+      "entities": [
+        "Zeepay",
+        "eKash",
+        "Central Bank of Kenya",
+        "Flash",
+        "Mastercard",
+        "Airtel Money",
+        "UnionPay International",
+        "Financial Stability Board"
+      ],
+      "works": [],
+      "content_keys": [
+        "zeepay-demi-license-revoked-2026-07-14",
+        "rwanda-ekash-launch-2026-07",
+        "kenya-dcp-252-licenses-2026-07-14",
+        "flash-mastercard-drc-partnership-2026-07-13",
+        "airtel-money-ipo-report-2026-07-15",
+        "unionpay-africa-fintech-forum-2026-07-17",
+        "fsb-ssa-stablecoin-meeting-2026-07-16"
+      ],
+      "source_type": null,
+      "quote": null,
+      "allow_repeat": false,
+      "repeat_reason": null,
+      "summary": "金融科技出海日报｜2026-07-18 北京时间｜核心窗口：2026-07-17 08:06 至 2026-07-18 08:06｜重要低频信息回溯至近 7 天｜预计阅读：15–20 分钟 本期说明：过去 24 小时内，真正新增且可核验的行业信息主要是 UnionPay 在内罗毕披露其非洲产品方向；更具学习价值的监管和基础设施变化集中在 7 月 14–16 日。本期明确标注实际日期，不将近 7 天事件包装成今日新闻。 一、今日速览…",
+      "source_urls": [
+        "https://www.airtel.africa/mobile-money",
+        "https://www.bog.gov.gh/notice",
+        "https://www.centralbank.go.ke/uploads/press_releases/1035898107_Press%20Release%20-%20Licensing%20of%20Digital%20Credit%20Providers%20-%20July%202026.pdf",
+        "https://www.citinewsroom.com/2026/07/zeepay-were-working-with-bog-to-resolve-licence-revocation-issues",
+        "https://www.fsb.org/2026/07/fsb-regional-consultative-group-for-sub-saharan-africa-meets-in-mauritius",
+        "https://www.ft.com/content/cd9f6a51-5059-4bd5-b35e-55c7acfe6ab2",
+        "https://www.ghanabusinessnews.com/2026/07/14/bank-of-ghana-revokes-the-license-of-zeepay",
+        "https://www.mastercard.com/news/eemea/en/newsroom/press-releases/en/2026/mastercard-and-flash-collaborate-to-broaden-access-to-digital-payments-in-the-democratic-republic-of-the-congo",
+        "https://www.prnewswire.com/news-releases/unionpay-drives-cross-border-interoperability-and-digital-commerce-infrastructure-at-the-7th-africa-fintech-forum-302828583.html",
+        "https://www.risa.gov.rw/news-detail/rwanda-launches-ekash-advancing-rwandas-cashless-economy-vision"
+      ],
+      "fingerprints": {
+        "content_sha256": "60890ed6311ecc727ca9b28f11d91d3d33e473f04b63a4b91660a8e47038ca40",
+        "topic_sha256": "ebe4b98a93b9ecad2745c5a2a6406f9bc3ec5435874a43e91005a53aa7728411",
+        "quote_sha256": null,
+        "source_sha256": [
+          "d18b18597bc20ce367900f925116474b0f18c223bfb64d43ceb938ac5062e38f",
+          "aa710cd8019bbd6f6114941a842f24ceba5a91a4991bc28d2349e42dde5eb6b0",
+          "037f21ab5f4ed7d7032e77b288231a2d1fba9e1f7d04ab6bab19f0d6dabba59f",
+          "48f8e511bdeced5b828d3eee0b19662dfcfd2fe56b086bb3f3274e4ed1db0e12",
+          "f6069901adada981d19c3928fec639aa5eefc4b79dedb4346b99e516a18ca21a",
+          "6b55535169b29aaf3066cb1fead02f293a1bc04f649788a4195713358ab71e41",
+          "db1ef86cfaeecdfa42461d996ed367b9216c5d8cf59dcbe14a77ddf67e758a47",
+          "c52028e8611b4258e627637b1343e791392af8ca8849060ab3c7d7915fa355fe",
+          "8529136f9b659c399ba08e98bd3ca528b006b7b9752c119493a01cc5d9adbf7a",
+          "534e65203731b15c351a9aa4dc618796e44109548613c6d691adc10922269064"
+        ]
+      }
+    }
+  ]
+}
