@@ -135,6 +135,10 @@ function entityCooldownDays(config) {
   return Number(config.rotation?.same_source_cooldown_days ?? 0);
 }
 
+function recurringValues(config, field) {
+  return asStringArray(config.deduplication?.[field]);
+}
+
 function differenceInDays(first, second) {
   const firstTime = Date.parse(`${first}T00:00:00Z`);
   const secondTime = Date.parse(`${second}T00:00:00Z`);
@@ -211,7 +215,10 @@ function createEntry(modulePath, moduleName, absolutePath) {
   };
 }
 
-function validateCollisions(moduleId, entries, topicWindow, entityWindow) {
+function validateCollisions(moduleId, entries, topicWindow, entityWindow, recurring) {
+  const recurringTags = new Set(recurring.topicTags.map(normalizeKey));
+  const recurringEntities = new Set(recurring.entities.map(normalizeKey));
+  const recurringSourceHosts = new Set(recurring.sourceHosts.map((host) => host.toLowerCase()));
   const contentHashes = new Map();
   const contentKeys = new Map();
   const quoteHashes = new Map();
@@ -272,19 +279,28 @@ function validateCollisions(moduleId, entries, topicWindow, entityWindow) {
       }
 
       if (days <= topicWindow) {
-        const repeatedTags = intersection(newer.topic_tags, older.topic_tags);
+        const repeatedTags = intersection(newer.topic_tags, older.topic_tags)
+          .filter((tag) => !recurringTags.has(normalizeKey(tag)));
         if (repeatedTags.length >= 2) {
           warnings.push(`${prefix} 在去重窗口内共享多个主题标签：${repeatedTags.join("、")}`);
         }
 
         if (entityWindow === 0) {
-          const repeatedEntities = intersection(newer.entities, older.entities);
+          const repeatedEntities = intersection(newer.entities, older.entities)
+            .filter((entity) => !recurringEntities.has(normalizeKey(entity)));
           if (repeatedEntities.length > 0) {
             warnings.push(`${prefix} 在去重窗口内重复主体：${repeatedEntities.join("、")}，请确认属于新增进展`);
           }
         }
 
-        const repeatedSources = intersection(newer.source_urls, older.source_urls);
+        const repeatedSources = intersection(newer.source_urls, older.source_urls)
+          .filter((sourceUrl) => {
+            try {
+              return !recurringSourceHosts.has(new URL(sourceUrl).hostname.toLowerCase());
+            } catch {
+              return true;
+            }
+          });
         if (repeatedSources.length > 0) {
           warnings.push(`${prefix} 重复引用 ${repeatedSources.length} 个来源 URL，请确认只写了新增信息`);
         }
@@ -303,7 +319,12 @@ function buildModuleIndex(module) {
 
   const topicWindow = dedupWindowDays(config);
   const entityWindow = entityCooldownDays(config);
-  validateCollisions(module.id, entries, topicWindow, entityWindow);
+  const recurring = {
+    topicTags: recurringValues(config, "recurring_topic_tags"),
+    entities: recurringValues(config, "recurring_entities"),
+    sourceHosts: recurringValues(config, "recurring_source_hosts")
+  };
+  validateCollisions(module.id, entries, topicWindow, entityWindow, recurring);
 
   if (entries.length > 0) {
     const latestPath = `${modulePath}/latest.md`;
@@ -321,6 +342,9 @@ function buildModuleIndex(module) {
     module_name: module.name,
     dedup_window_days: topicWindow,
     entity_cooldown_days: entityWindow,
+    recurring_topic_tags: recurring.topicTags,
+    recurring_entities: recurring.entities,
+    recurring_source_hosts: recurring.sourceHosts,
     latest_archive_date: entries[0]?.date ?? null,
     entry_count: entries.length,
     entries

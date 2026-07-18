@@ -41,16 +41,23 @@ const archives = (await getArchiveEntries(module.id)).map(metaForEntry);
         <div><p class="section-kicker">HISTORY</p><h2>全部内容</h2></div>
         <p>{archives.length} 期</p>
       </div>
-      <div class="recent-list">
-        {archives.map((report) => (
-          <a class="recent-item" href={withBase(report.url)}>
-            <span class:list={["recent-icon", `tone-${module.tone}`]}><Icon name="calendar" size={18} /></span>
-            <div class="recent-copy"><span>{report.displayDate}</span><strong>{report.title}</strong></div>
-            <span class="recent-time">{report.readingTime}</span>
-            <Icon name="chevron" size={18} />
-          </a>
-        ))}
-      </div>
+      {archives.length > 0 ? (
+        <div class="recent-list">
+          {archives.map((report) => (
+            <a class="recent-item" href={withBase(report.url)}>
+              <span class:list={["recent-icon", `tone-${module.tone}`]}><Icon name="calendar" size={18} /></span>
+              <div class="recent-copy"><span>{report.displayDate}</span><strong>{report.title}</strong></div>
+              <span class="recent-time">{report.readingTime}</span>
+              <Icon name="chevron" size={18} />
+            </a>
+          ))}
+        </div>
+      ) : (
+        <div class="empty-state">
+          <span class:list={["recent-icon", `tone-${module.tone}`]}><Icon name="calendar" size={18} /></span>
+          <div><strong>首期内容即将生成</strong><p>下次自动更新后，这里会显示完整日报与历史归档。</p></div>
+        </div>
+      )}
     </section>
   </main>
 </BaseLayout>

@@ -1,0 +1,85 @@
+market_data:
+  - name: CoinGecko API
+    url: https://docs.coingecko.com/
+    use: aggregated_price_market_cap_dominance
+    access: demo_key_or_keyless
+  - name: Coinbase Exchange API
+    url: https://docs.cdp.coinbase.com/api-reference/exchange-api/rest-api/products/get-product-candles
+    use: btc_eth_spot_candles_and_volume_cross_check
+    access: public
+  - name: Deribit Public API
+    url: https://docs.deribit.com/api-reference/market-data/public-ticker
+    use: btc_eth_funding_open_interest_mark_and_index
+    access: public
+  - name: DefiLlama Free API
+    url: https://api-docs.defillama.com/
+    use: tvl_stablecoins_dex_volume_fees_and_open_interest
+    access: public
+
+official_projects:
+  - name: Bitcoin Core
+    url: https://bitcoincore.org/en/releases/
+  - name: Ethereum Foundation Blog
+    url: https://blog.ethereum.org/
+  - name: Solana News
+    url: https://solana.com/news
+  - name: BNB Chain Blog
+    url: https://www.bnbchain.org/en/blog
+  - name: Arbitrum Blog
+    url: https://blog.arbitrum.io/
+  - name: Optimism Blog
+    url: https://www.optimism.io/blog
+  - name: Base Blog
+    url: https://www.base.org/blog
+  - name: Uniswap Labs Blog
+    url: https://blog.uniswap.org/
+  - name: Aave Blog
+    url: https://aave.com/blog
+  - name: Sky Forum
+    url: https://forum.sky.money/
+  - name: Lido Blog
+    url: https://blog.lido.fi/
+  - name: Chainlink Blog
+    url: https://blog.chain.link/
+  - name: EigenLayer Blog
+    url: https://www.eigenlayer.xyz/blog
+  - name: Tether News
+    url: https://tether.io/news/
+  - name: Circle Blog
+    url: https://www.circle.com/blog
+
+people_primary_sources:
+  - name: Vitalik Buterin Blog
+    person: Vitalik Buterin
+    url: https://vitalik.eth.limo/
+  - name: Coinbase Blog
+    person: Brian Armstrong
+    url: https://www.coinbase.com/blog
+  - name: Strategy Press Releases
+    person: Michael Saylor
+    url: https://www.strategy.com/press
+  - name: Michael Saylor Website
+    person: Michael Saylor
+    url: https://www.michael.com/
+  - name: Solana News and Talks
+    person: Anatoly Yakovenko
+    url: https://solana.com/news
+  - name: Uniswap Labs Blog
+    person: Hayden Adams
+    url: https://blog.uniswap.org/
+  - name: Aave Blog
+    person: Stani Kulechov
+    url: https://aave.com/blog
+
+regulators_and_policy:
+  - name: U.S. SEC Newsroom
+    url: https://www.sec.gov/newsroom
+  - name: U.S. CFTC Press Room
+    url: https://www.cftc.gov/PressRoom
+  - name: European Securities and Markets Authority
+    url: https://www.esma.europa.eu/press-news/esma-news
+  - name: Hong Kong SFC News
+    url: https://www.sfc.hk/en/News-and-announcements/Policy-statements-and-announcements
+
+discovery_only:
+  rule: News aggregators and social media may reveal a lead, but every included fact or opinion must be verified against an original source.

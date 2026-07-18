@@ -619,6 +619,30 @@ button {
   box-shadow: 0 8px 30px rgba(0, 0, 0, 0.035);
 }
 
+.empty-state {
+  display: flex;
+  gap: 16px;
+  padding: 22px;
+  align-items: center;
+  border: 1px solid var(--line);
+  border-radius: var(--radius-medium);
+  background: var(--surface);
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.035);
+}
+
+.empty-state strong {
+  display: block;
+  margin-bottom: 4px;
+  font-size: 14px;
+  font-weight: 610;
+}
+
+.empty-state p {
+  margin: 0;
+  color: var(--text-secondary);
+  font-size: 13px;
+}
+
 .recent-item {
   display: grid;
   min-height: 88px;

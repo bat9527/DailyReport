@@ -12,9 +12,12 @@ import {
 } from "../lib/reports";
 
 const modules = getModules();
-const latestReports = (
-  await Promise.all(modules.map((module) => getLatestEntry(module.id)))
-).filter(Boolean).map((entry) => metaForEntry(entry!));
+const latestEntries = await Promise.all(modules.map((module) => getLatestEntry(module.id)));
+const moduleCards = modules.map((module, index) => ({
+  module,
+  report: latestEntries[index] ? metaForEntry(latestEntries[index]!) : undefined
+}));
+const latestReports = moduleCards.flatMap(({ report }) => report ? [report] : []);
 const recentReports = (await getArchiveEntries()).slice(0, 5).map(metaForEntry);
 const today = latestReports.map((report) => report.date).sort().at(-1) ?? "";
 const todayLabel = today ? formatDate(today) : "等待更新";
@@ -45,12 +48,12 @@ const todayLabel = today ? formatDate(today) : "等待更新";
           <p class="section-kicker">TODAY</p>
           <h2>今日阅读</h2>
         </div>
-        <p>{latestReports.length} 个持续关注的方向</p>
+        <p>{modules.length} 个持续关注的方向</p>
       </div>
 
       <div class="report-grid">
-        {latestReports.map((report, index) => (
-          <ReportCard report={report} featured={index === 0} />
+        {moduleCards.map(({ report, module }, index) => (
+          <ReportCard report={report} module={module} featured={index === 0} />
         ))}
       </div>
     </section>

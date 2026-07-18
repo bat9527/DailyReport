@@ -15,7 +15,7 @@ export interface ModuleInfo {
   schedule: string;
   readingTime: string;
   tone: "blue" | "orange" | "violet" | "green";
-  icon: "globe" | "voice" | "book";
+  icon: "globe" | "voice" | "book" | "chart";
 }
 
 export interface ReportMeta {
@@ -34,13 +34,15 @@ const ROOT = process.cwd();
 const categoryLabels: Record<string, string> = {
   fintech: "金融科技",
   language: "语言学习",
+  web3: "Web3",
   technology: "科技",
   humanities: "人文"
 };
 
 const moduleVisuals: Record<string, Pick<ModuleInfo, "tone" | "icon">> = {
   "fintech-expansion": { tone: "blue", icon: "globe" },
-  "english-shadowing": { tone: "orange", icon: "voice" }
+  "english-shadowing": { tone: "orange", icon: "voice" },
+  "web3-market": { tone: "violet", icon: "chart" }
 };
 
 function readYaml(relativePath: string): any {

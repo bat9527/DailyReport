@@ -1,35 +1,38 @@
 ---
 import Icon from "./Icon.astro";
-import type { ReportMeta } from "../lib/reports";
+import type { ModuleInfo, ReportMeta } from "../lib/reports";
 import { withBase } from "../lib/reports";
 
 interface Props {
-  report: ReportMeta;
+  report?: ReportMeta;
+  module?: ModuleInfo;
   featured?: boolean;
 }
 
-const { report, featured = false } = Astro.props;
+const { report, module: pendingModule, featured = false } = Astro.props;
+const module = report?.module ?? pendingModule;
+if (!module) throw new Error("ReportCard requires a report or module");
 ---
 
 <a
-  class:list={["report-card", `tone-${report.module.tone}`, { featured }]}
-  href={withBase(report.url)}
+  class:list={["report-card", `tone-${module.tone}`, { featured, pending: !report }]}
+  href={withBase(report?.url ?? `/${module.id}/`)}
 >
   <div class="card-glow"></div>
   <div class="card-topline">
-    <span class="card-icon"><Icon name={report.module.icon} size={23} /></span>
-    <span class="card-category">{report.module.categoryLabel}</span>
+    <span class="card-icon"><Icon name={module.icon} size={23} /></span>
+    <span class="card-category">{module.categoryLabel}</span>
     <span class="card-arrow"><Icon name="arrow" size={19} /></span>
   </div>
 
   <div class="card-copy">
-    <p class="card-date">{report.displayDate}</p>
-    <h2>{report.module.name}</h2>
-    <p>{report.module.description}</p>
+    <p class="card-date">{report?.displayDate ?? "首期生成中"}</p>
+    <h2>{module.name}</h2>
+    <p>{module.description}</p>
   </div>
 
   <div class="card-meta">
-    <span><Icon name="clock" size={15} /> {report.readingTime}</span>
-    <span>开始阅读</span>
+    <span><Icon name="clock" size={15} /> {module.readingTime}</span>
+    <span>{report ? "开始阅读" : "查看模块"}</span>
   </div>
 </a>

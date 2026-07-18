@@ -1,0 +1,108 @@
+id: web3-market
+name: Web3 行情与生态日报
+category: web3
+language: zh-CN
+timezone: Asia/Shanghai
+status: active
+
+schedule:
+  frequency: daily
+  time: "08:00"
+
+reading_time:
+  chat_minutes: 5
+  archive_minutes_min: 12
+  archive_minutes_max: 15
+
+market:
+  snapshot_currency: USD
+  required_assets:
+    - id: bitcoin
+      symbol: BTC
+      exchange_product: BTC-USD
+    - id: ethereum
+      symbol: ETH
+      exchange_product: ETH-USD
+  performance_windows:
+    - 24h
+    - 7d
+    - 30d
+  relative_pairs:
+    - ETH/BTC
+  highlight_move_24h_percent: 5
+  highlight_move_7d_percent: 10
+
+project_watchlist:
+  layer_1:
+    - Bitcoin
+    - Ethereum
+    - Solana
+    - BNB Chain
+  scaling:
+    - Arbitrum
+    - Optimism
+    - Base
+  defi:
+    - Uniswap
+    - Aave
+    - Sky
+    - Lido
+  infrastructure:
+    - Chainlink
+    - EigenLayer
+  stablecoins:
+    - Tether
+    - Circle
+
+people_watchlist:
+  builders:
+    - Vitalik Buterin
+    - Anatoly Yakovenko
+    - Hayden Adams
+    - Stani Kulechov
+  industry:
+    - Brian Armstrong
+    - Changpeng Zhao
+  market_thinkers:
+    - Michael Saylor
+    - Arthur Hayes
+
+lookback:
+  market_hours: 24
+  project_days: 7
+  opinion_days: 7
+  dedup_days: 14
+
+ranking:
+  max_project_updates: 4
+  max_people_views: 3
+  prefer_primary_sources: true
+  allow_no_update: true
+
+deduplication:
+  recurring_topic_tags:
+    - BTC
+    - ETH
+    - 行情
+  recurring_entities:
+    - Bitcoin
+    - BTC
+    - Ethereum
+    - ETH
+  recurring_source_hosts:
+    - api.coingecko.com
+    - api.exchange.coinbase.com
+    - www.deribit.com
+    - api.llama.fi
+
+privacy:
+  forbid_position_amounts: true
+  forbid_cost_basis: true
+  forbid_wallet_addresses: true
+  forbid_credentials: true
+  forbid_trade_execution: true
+
+output:
+  archive_pattern: archive/YYYY/MM/YYYY-MM-DD.md
+  latest_file: latest.md
+  history_index: history-index.json

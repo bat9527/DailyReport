@@ -12,6 +12,7 @@
 |---|---|---|---|---|
 | 金融科技 | 金融科技出海 | 已启用 | 每日 08:00（北京时间） | [查看最新一期](reports/fintech-expansion/latest.md) |
 | 语言学习 | 英文影子跟读 | 已启用 | 每日 08:00（北京时间） | [查看最新一期](reports/english-shadowing/latest.md) |
+| Web3 | Web3 行情与生态 | 已启用 | 每日 08:00（北京时间） | 首期生成后可见 |
 
 ## 项目结构
 
@@ -19,6 +20,7 @@
 - reports/registry.yml：日报模块注册表
 - reports/fintech-expansion/：金融科技出海日报
 - reports/english-shadowing/：英文影子跟读
+- reports/web3-market/：Web3 行情与生态日报
 - reports/*/history-index.json：由归档自动生成的跨日去重索引
 - reports/DEDUPLICATION.md：去重元数据和日常生成流程
 - shared/REPORT_STANDARD.md：所有日报共同遵守的最低标准

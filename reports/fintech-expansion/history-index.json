@@ -4,6 +4,9 @@
   "module_name": "金融科技出海日报",
   "dedup_window_days": 7,
   "entity_cooldown_days": 0,
+  "recurring_topic_tags": [],
+  "recurring_entities": [],
+  "recurring_source_hosts": [],
   "latest_archive_date": "2026-07-18",
   "entry_count": 1,
   "entries": [

@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "module_id": "web3-market",
+  "module_name": "Web3 行情与生态日报",
+  "dedup_window_days": 14,
+  "entity_cooldown_days": 0,
+  "recurring_topic_tags": [
+    "BTC",
+    "ETH",
+    "行情"
+  ],
+  "recurring_entities": [
+    "Bitcoin",
+    "BTC",
+    "Ethereum",
+    "ETH"
+  ],
+  "recurring_source_hosts": [
+    "api.coingecko.com",
+    "api.exchange.coinbase.com",
+    "www.deribit.com",
+    "api.llama.fi"
+  ],
+  "latest_archive_date": null,
+  "entry_count": 0,
+  "entries": []
+}
