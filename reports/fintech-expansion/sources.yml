@@ -36,6 +36,55 @@ africa_regulators:
   - name: National Bank of Rwanda
     url: https://www.bnr.rw/
     markets: [Rwanda]
+  - name: Central Bank of Egypt
+    url: https://www.cbe.org.eg/
+    markets: [Egypt]
+  - name: Bank of Zambia
+    url: https://www.boz.zm/
+    markets: [Zambia]
+  - name: Bank of Botswana
+    url: https://www.bankofbotswana.bw/
+    markets: [Botswana]
+  - name: Bank of Namibia
+    url: https://www.bon.com.na/
+    markets: [Namibia]
+  - name: National Bank of Ethiopia
+    url: https://nbe.gov.et/
+    markets: [Ethiopia]
+  - name: BCEAO
+    url: https://www.bceao.int/
+    markets: [West African Economic and Monetary Union]
+  - name: BEAC
+    url: https://www.beac.int/
+    markets: [Central African Economic and Monetary Community]
+
+regional_payment_infrastructure:
+  - name: AfricaNenda
+    url: https://www.africanenda.org/
+  - name: Pan-African Payment and Settlement System
+    url: https://papss.com/
+  - name: Mojaloop Foundation
+    url: https://mojaloop.io/
+
+company_primary_sources:
+  - name: Safaricom Newsroom
+    url: https://www.safaricom.co.ke/media-center-landing/press-releases
+  - name: MTN Group Newsroom
+    url: https://www.mtn.com/media/
+  - name: Airtel Africa Investors
+    url: https://www.airtel.africa/investors
+  - name: Flutterwave Newsroom
+    url: https://flutterwave.com/us/blog
+  - name: Moniepoint
+    url: https://moniepoint.com/blog
+  - name: Onafriq
+    url: https://onafriq.com/newsroom/
+  - name: Paystack Blog
+    url: https://paystack.com/blog
+  - name: Mastercard Newsroom
+    url: https://www.mastercard.com/news/
+  - name: Visa CEMEA Newsroom
+    url: https://africa.visa.com/about-visa/newsroom.html
 
 multilateral_and_research:
   - name: World Bank
@@ -62,6 +111,12 @@ industry_media:
     url: https://restofworld.org/
   - name: The Africa Report
     url: https://www.theafricareport.com/
+  - name: Techpoint Africa
+    url: https://techpoint.africa/
+  - name: Condia
+    url: https://thecondia.com/
+  - name: CIO Africa
+    url: https://cioafrica.co/
 
 china_outbound:
   - name: Ministry of Commerce of China
@@ -74,6 +129,8 @@ china_outbound:
     url: https://www.caict.ac.cn/english/
 
 rules:
+  - 搜索不足时扩大市场、主题和信源覆盖，不得扩大 48 小时时间上限。
+  - 每个候选事件必须记录原始发布时间、事件时间和抓取时间。
   - 监管政策必须优先引用监管机构原文。
   - 融资、用户数、收入和交易规模优先引用公司公告或财报。
   - 媒体报道用于发现线索，关键事实尽量回到一手来源。
