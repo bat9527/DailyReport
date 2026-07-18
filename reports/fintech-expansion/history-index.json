@@ -38,7 +38,7 @@
       "quote": null,
       "allow_repeat": false,
       "repeat_reason": null,
-      "summary": "金融科技出海日报｜2026-07-19 北京时间｜核心窗口：2026-07-18 01:17 至 2026-07-19 01:17（最近 24 小时）｜补充窗口：2026-07-17 01:17 起｜预计阅读：7–9 分钟 本期只采用最近 48 小时内首次披露的新增事实。旧版中 3 月发布、7 月 1 日生效的尼日利亚即时支付规则，以及南非和 GSMA 历史案例均已删除，不再作为当日事件。 一、今日速览 过去 24…",
+      "summary": "金融科技出海日报｜2026-07-19 北京时间｜核心窗口：2026-07-18 05:59 至 2026-07-19 05:59（最近 24 小时）｜补充窗口：2026-07-17 05:59 起｜预计阅读：7–9 分钟 本期只采用最近 48 小时内首次披露的新增事实。旧版中 3 月发布、7 月 1 日生效的尼日利亚即时支付规则，以及南非和 GSMA 历史案例均已删除，不再作为当日事件。 一、今日速览 过去 24…",
       "source_urls": [
         "https://leadership.ng/federal-govt-targets-revenue-investor-protection-with-new-virtual-assets-framework",
         "https://nairametrics.com/2026/07/17/nimc-takes-over-pki-as-nitda-hands-over-digital-identity-security-infrastructure",
@@ -48,7 +48,7 @@
         "https://www.sec.gov/Archives/edgar/data/1821534/000119312526308023/d63529d8k.htm"
       ],
       "fingerprints": {
-        "content_sha256": "c79908def4aed9b3f99422a32e931593420da23ff6fe8cd0f27b176350aefb20",
+        "content_sha256": "0e2064737a6bef00eadabb14602656c8897f7b89d088e025b807fe5520c09026",
         "topic_sha256": "9e01537dae94b514b0ac8ce61583bdc0933cc856c2816e46342bdd816138e4e5",
         "quote_sha256": null,
         "source_sha256": [
