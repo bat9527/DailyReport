@@ -145,6 +145,12 @@ function differenceInDays(first, second) {
   return Math.abs(firstTime - secondTime) / 86_400_000;
 }
 
+function signedDifferenceInDays(newer, older) {
+  const newerTime = Date.parse(`${newer}T00:00:00Z`);
+  const olderTime = Date.parse(`${older}T00:00:00Z`);
+  return (newerTime - olderTime) / 86_400_000;
+}
+
 function intersection(first, second) {
   const right = new Set(second.map(normalizeKey));
   return first.filter((value) => right.has(normalizeKey(value)));
@@ -309,6 +315,54 @@ function validateCollisions(moduleId, entries, topicWindow, entityWindow, recurr
   }
 }
 
+function validateFreshness(moduleId, entries, config) {
+  const freshness = config.freshness;
+  if (!freshness || typeof freshness !== "object") return;
+
+  const enforceFrom = String(freshness.enforce_from ?? "").trim();
+  const requireDatedKeys = freshness.require_dated_content_keys === true;
+  const maximumAge = Number(freshness.max_event_age_days);
+  const allowFutureDates = freshness.allow_future_event_dates === true;
+
+  if (
+    enforceFrom &&
+    (!/^20\d{2}-\d{2}-\d{2}$/.test(enforceFrom) || !Number.isFinite(Date.parse(`${enforceFrom}T00:00:00Z`)))
+  ) {
+    errors.push(`${moduleId}: freshness.enforce_from 必须使用 YYYY-MM-DD`);
+    return;
+  }
+  if (!Number.isFinite(maximumAge) || maximumAge < 0) {
+    errors.push(`${moduleId}: freshness.max_event_age_days 必须是非负数字`);
+    return;
+  }
+
+  for (const entry of entries) {
+    if (enforceFrom && entry.date < enforceFrom) continue;
+
+    for (const contentKey of entry.content_keys) {
+      const dateMatch = contentKey.match(/-(20\d{2}-\d{2}-\d{2})$/);
+      if (!dateMatch) {
+        if (requireDatedKeys) {
+          errors.push(`${moduleId}: ${entry.date} 的 content_key 缺少 YYYY-MM-DD 日期后缀：${contentKey}`);
+        }
+        continue;
+      }
+
+      const eventDate = dateMatch[1];
+      const age = signedDifferenceInDays(entry.date, eventDate);
+      if (!Number.isFinite(age)) {
+        errors.push(`${moduleId}: ${entry.date} 的 content_key 日期无效：${contentKey}`);
+      } else if (!allowFutureDates && age < 0) {
+        errors.push(`${moduleId}: ${entry.date} 的 content_key 使用了未来日期：${contentKey}`);
+      } else if (age > maximumAge) {
+        errors.push(
+          `${moduleId}: ${entry.date} 的 content_key 超过 ${maximumAge} 天时效上限：${contentKey}`
+        );
+      }
+    }
+  }
+}
+
 function buildModuleIndex(module) {
   const modulePath = module.path;
   const config = readYaml(`${modulePath}/config.yml`);
@@ -325,6 +379,7 @@ function buildModuleIndex(module) {
     sourceHosts: recurringValues(config, "recurring_source_hosts")
   };
   validateCollisions(module.id, entries, topicWindow, entityWindow, recurring);
+  validateFreshness(module.id, entries, config);
 
   if (entries.length > 0) {
     const latestPath = `${modulePath}/latest.md`;

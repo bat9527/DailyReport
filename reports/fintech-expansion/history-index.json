@@ -14,43 +14,50 @@
       "date": "2026-07-19",
       "path": "archive/2026/07/2026-07-19.md",
       "title": "金融科技出海日报｜2026-07-19",
-      "primary_topic": "即时支付从速度扩张转向用户控制与公共基础设施",
+      "primary_topic": "监管协调与数字信任基础设施成为数字金融扩张的关键约束",
       "topic_tags": [
-        "即时支付",
-        "支付反欺诈",
-        "数字公共基础设施",
-        "支付互操作"
+        "虚拟资产监管",
+        "监管科技",
+        "数字身份",
+        "稳定币支付"
       ],
       "entities": [
+        "Nigeria State House",
         "Central Bank of Nigeria",
-        "South African Reserve Bank",
-        "PayInc",
-        "GSMA"
+        "National Information Technology Development Agency",
+        "National Identity Management Commission",
+        "Exodus Movement"
       ],
       "works": [],
       "content_keys": [
-        "cbn-instant-payment-controls-effective-2026-07-01",
-        "sarb-national-payment-utility-case-2026-07-19",
-        "gsma-mobile-money-scale-case-2026-07-19"
+        "nigeria-virtual-assets-coordination-executive-order-2026-07-18",
+        "nigeria-npki-handover-nitda-nimc-2026-07-17",
+        "exodus-workforce-realignment-stablecoin-payments-2026-07-17"
       ],
       "source_type": null,
       "quote": null,
       "allow_repeat": false,
       "repeat_reason": null,
-      "summary": "金融科技出海日报｜2026-07-19 北京时间｜核心窗口：2026-07-18 00:43 至 2026-07-19 00:43｜重要低频信息回溯至近 7 天｜预计阅读：15–20 分钟 本期说明：核心窗口内没有发现足够重要、同时能由一手来源核验的新事件。本期不重复昨天已经覆盖的 Zeepay、eKash、肯尼亚数字信贷、Airtel Money、Flash、UnionPay 和 FSB 事项，而是选取两个处于实施阶段的支付案例做学习拆解；它们不是 7 月 19 日新闻。…",
+      "summary": "金融科技出海日报｜2026-07-19 北京时间｜核心窗口：2026-07-18 01:17 至 2026-07-19 01:17（最近 24 小时）｜补充窗口：2026-07-17 01:17 起｜预计阅读：7–9 分钟 本期只采用最近 48 小时内首次披露的新增事实。旧版中 3 月发布、7 月 1 日生效的尼日利亚即时支付规则，以及南非和 GSMA 历史案例均已删除，不再作为当日事件。 一、今日速览 过去 24…",
       "source_urls": [
-        "https://www.cbn.gov.ng/AboutCBN/Reforms.html",
-        "https://www.gsma.com/sotir",
-        "https://www.resbank.co.za/en/home/what-we-do/payments-and-settlements/pem"
+        "https://leadership.ng/federal-govt-targets-revenue-investor-protection-with-new-virtual-assets-framework",
+        "https://nairametrics.com/2026/07/17/nimc-takes-over-pki-as-nitda-hands-over-digital-identity-security-infrastructure",
+        "https://statehouse.gov.ng/president-tinubu-signs-executive-order-on-virtual-assets-establishes-council-to-harmonise-regulation-of-digital-economy",
+        "https://techeconomy.ng/nitda-hands-over-digital-security-infrastructure-pki-to-nimc-to-strengthen-countrys-identity-ecosystem",
+        "https://www.exodus.com/investors/news-events/press-releases/detail/122/exodus-announces-workforce-reduction-to-focus-on-full-stack-stablecoin-payments-infrastructure",
+        "https://www.sec.gov/Archives/edgar/data/1821534/000119312526308023/d63529d8k.htm"
       ],
       "fingerprints": {
-        "content_sha256": "f85c40d246e9facfe4227cf688f170729eb26db2502bbaeccb7659bd7e13655c",
-        "topic_sha256": "71e0cdd521280506c3b7920bbf18efe2fb8bb2ee5aefa90fd3eccdcbd1fb7b92",
+        "content_sha256": "c79908def4aed9b3f99422a32e931593420da23ff6fe8cd0f27b176350aefb20",
+        "topic_sha256": "9e01537dae94b514b0ac8ce61583bdc0933cc856c2816e46342bdd816138e4e5",
         "quote_sha256": null,
         "source_sha256": [
-          "4990179f81f740f4d9e9296c0b7a04ac7198674d714f3fd08174c9d352d1d0ce",
-          "8b8893cd569d949999a4b89828dd36b7c76b49ea4b2eaeee9f1bc311b2c92b25",
-          "ded6b7ad3e240b4432f2272f369a9ed9a11a29074f68159de15d5fa6ec630d4b"
+          "107467d16d244b1aec3cf255d001328a46c0e7b440893b7c7daff8c870448266",
+          "850d217007a6b13bd63cb20fdecd54dd6d874b0a8bed18260be541487f37032a",
+          "1c9db08245c03c7efb1c944358b00882e692ed34a8eab05194c1de21868fd26a",
+          "513a8101e0214d8ae8cac09d9a914c6b6c429e0ef59e4ef6f11029985ce9b497",
+          "d34ab4892545c8e122185b14b2bd691e6aedc673a04755314df244e81d774099",
+          "552f973d51ed94486a13b39015589b32ce266de27d54a7166d09c36ff13a5b3f"
         ]
       }
     },

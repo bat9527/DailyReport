@@ -10,8 +10,8 @@ schedule:
 
 reading_time:
   chat_minutes: 5
-  archive_minutes_min: 15
-  archive_minutes_max: 20
+  archive_minutes_min: 3
+  archive_minutes_max: 15
 
 coverage:
   africa: 0.60
@@ -20,12 +20,18 @@ coverage:
 
 lookback:
   default_hours: 24
-  extended_days: 7
+  hard_limit_hours: 48
   dedup_days: 7
+
+freshness:
+  enforce_from: "2026-07-19"
+  require_dated_content_keys: true
+  max_event_age_days: 2
+  allow_future_event_dates: false
 
 ranking:
   prefer_primary_sources: true
-  max_core_events: 8
+  max_core_events: 6
   allow_no_update: true
 
 output:
