@@ -9,7 +9,7 @@ reports:
     path: reports/fintech-expansion
     schedule:
       frequency: daily
-      time: "08:00"
+      time: "06:00"
       timezone: Asia/Shanghai
     output:
       latest: reports/fintech-expansion/latest.md
@@ -23,7 +23,7 @@ reports:
     path: reports/english-shadowing
     schedule:
       frequency: daily
-      time: "08:00"
+      time: "06:00"
       timezone: Asia/Shanghai
     output:
       latest: reports/english-shadowing/latest.md
@@ -37,7 +37,7 @@ reports:
     path: reports/web3-market
     schedule:
       frequency: daily
-      time: "08:00"
+      time: "06:00"
       timezone: Asia/Shanghai
     output:
       latest: reports/web3-market/latest.md
