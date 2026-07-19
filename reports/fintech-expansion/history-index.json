@@ -7,9 +7,44 @@
   "recurring_topic_tags": [],
   "recurring_entities": [],
   "recurring_source_hosts": [],
-  "latest_archive_date": "2026-07-19",
-  "entry_count": 2,
+  "latest_archive_date": "2026-07-20",
+  "entry_count": 3,
   "entries": [
+    {
+      "date": "2026-07-20",
+      "path": "archive/2026/07/2026-07-20.md",
+      "title": "金融科技出海日报｜2026-07-20",
+      "primary_topic": "核心窗口暂无可核验的高价值新增",
+      "topic_tags": [
+        "时效核验",
+        "语义去重"
+      ],
+      "entities": [
+        "Central Bank of Libya"
+      ],
+      "works": [],
+      "content_keys": [
+        "no-high-value-new-event-2026-07-20"
+      ],
+      "source_type": null,
+      "quote": null,
+      "allow_repeat": false,
+      "repeat_reason": null,
+      "summary": "金融科技出海日报｜2026-07-20 北京时间｜核心窗口：2026-07-19 06:02 至 2026-07-20 06:02（最近 24 小时）｜补充窗口：2026-07-18 06:02 起｜预计阅读：3–4 分钟 本期结论：0 条事件。本窗口没有发现同时满足“首次披露、可核验、具有行业学习价值且未在近 7 天收录”的新增信息。 一、今日速览 过去 24…",
+      "source_urls": [
+        "https://bat9527.github.io/DailyReport/fintech-expansion/archive/2026/07/2026-07-19",
+        "https://cbl.gov.ly/en/central-bank-of-libya-and-peoples-bank-of-china-strengthen-strategic-partnership-in-payments-and-investment"
+      ],
+      "fingerprints": {
+        "content_sha256": "5427741ec39ab17f427d83df2b155c45e7b592e603246c6af604c690dbd12280",
+        "topic_sha256": "39290e11279287636f282ca42bdccc49c322dc01ef7b310db2a557379464157a",
+        "quote_sha256": null,
+        "source_sha256": [
+          "2843b84bd0fbf26d870dbfc316c128871b7fe3c9efbf662605658d2ba3885be9",
+          "e77486fe257551e8d6775caab6446e7706da4d973d74e4fd786393ceff00b2f2"
+        ]
+      }
+    },
     {
       "date": "2026-07-19",
       "path": "archive/2026/07/2026-07-19.md",
