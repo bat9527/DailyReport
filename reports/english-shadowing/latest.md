@@ -1,167 +1,180 @@
 ---
 dedup:
-  primary_topic: "换一个视角，在必要的任务里找到一点乐趣"
+  primary_topic: "把小小的陌生体验当作日常冒险"
   topic_tags:
-    - 生活乐趣
-    - 视角转换
-    - 开始行动
+    - 日常冒险
+    - 好奇探索
+    - 接受意外
   entities:
-    - Mark Twain
-    - Tom Sawyer
+    - Pixar Animation Studios
+    - Carl Fredricksen
+    - Ellie Fredricksen
+    - Charles Muntz
   works:
-    - The Adventures of Tom Sawyer
+    - Up
   content_keys:
-    - mark-twain-tom-sawyer-reframe-work-as-play
-  source_type: book
-  quote: "Work consists of whatever a body is obliged to do."
+    - pixar-up-small-everyday-adventures
+  source_type: film
+  quote: "Adventure is out there!"
 ---
 
-# 英文影子跟读｜2026-07-19
+# 英文影子跟读｜2026-07-20
 
-> 今日来源：经典书籍｜难度：A2–B1｜训练时间：约 12–15 分钟
+> 今日来源：经典电影｜难度：A2–B1｜训练时间：约 12–15 分钟
 
 ## 一、今日声音
 
-今天从演讲换到一本轻松的经典小说：Mark Twain 的 *The Adventures of Tom Sawyer*。Tom 被罚给篱笆刷白漆，却把一件苦差事表现得像稀缺的乐趣，结果其他孩子反而拿东西换取参与机会。
+今天从书籍切换到 Pixar 电影 *Up*（《飞屋环游记》）。影片里的 Carl 和 Ellie 从小向往远方；后来，一座被气球带上天空的房子，让 Carl 与意外同行的小男孩 Russell 真正踏上旅程。
 
-这期不是学习怎样“套路”别人，而是练习一个生活化主题：同一件事，换一个角度、加入一点选择和好奇，体感可能完全不同。
+今天不把 adventure 理解成必须飞到遥远大陆的大计划，而是练习一个更轻松的视角：只要离开一点熟悉的路线，认真感受未知，普通的一天也可以有冒险感。
 
 ## 二、一句原声
 
-> Work consists of whatever a body is obliged to do.
+> Adventure is out there!
 
-**中文理解：** 所谓工作，往往就是一个人不得不去做的事。
+**中文理解：** 冒险就在外面的世界等着你！
 
-**出处：** Mark Twain，*The Adventures of Tom Sawyer*，第二章刷篱笆场景后的议论。
+**出处：** Pixar 电影 *Up* 中贯穿 Carl 与 Ellie 梦想的探险口号；Pixar 官方页面也将它称为影片中熟悉的 motto。
 
-**文本入口：** [Project Gutenberg 公版全文](https://www.gutenberg.org/files/74/74-h/74-h.htm)
+**官方入口：** [Pixar Animation Studios｜Up](https://www.pixar.com/upfilm)
 
 ## 三、背景故事
 
-Tom 原本很不情愿刷篱笆。当朋友 Ben 来取笑他时，Tom 没有抱怨，反而装作这是一项需要技巧、不是人人都有资格做的活动。Ben 逐渐好奇，最后用苹果换来刷几下的机会；更多孩子随后加入。篱笆刷好了，Tom 还得到了一堆小“宝物”。
+小时候，Carl 和 Ellie 都崇拜探险家 Charles Muntz，也梦想去南美洲的 Paradise Falls。人生过去许多年，他们一直没有完成这次旅行。Ellie 离世后，Carl 把无数气球系在房顶，让整座房子飞向天空。
 
-书中由此区分 work 与 play：被迫做的事容易被感受为工作，自愿而且难得的事更像玩乐。这个观察很幽默，也提醒我们：任务本身重要，选择感和解释方式同样会影响体验。
+但电影真正有趣的地方在于：Carl 以为冒险只是抵达一个遥远目的地，后来却发现，意外出现的人、混乱和小瞬间，同样构成了旅程。冒险不只发生在地图尽头，也发生在计划被打乱之后。
 
 ## 四、影子跟读短文
 
-> 以下 197 词短文为本期原创练习稿，并非 Mark Twain 原文。可以先用设备朗读功能以 0.85 倍速播放。
+> 以下 216 词短文为本期原创练习稿，并非电影台词。建议先用设备朗读功能以 0.85 倍速播放，再提高到正常速度。
 
 ### 自然阅读版
 
-Some tasks look boring before we begin. Washing dishes, cleaning a room, or answering a long message can feel like a heavy chore. We often blame the task, but our attitude also shapes the experience.
+Many people hear the word adventure and imagine distant mountains, wild rivers, or a plane ticket. But adventure can begin much closer to home. It starts whenever we step beyond a familiar pattern and pay attention to what happens next.
 
-Imagine that a friend asks you to teach them how to cook. Suddenly, cutting vegetables is not just kitchen work. It becomes a small lesson, a conversation, and maybe a funny memory. The action is the same, but the meaning has changed. Curiosity can do this too. If you ask, “Can I find a faster way?” or “What detail have I never noticed?” an ordinary task becomes a tiny experiment.
+You might get off the bus one stop early and walk through a street you have never seen. You might order a dish whose name you cannot pronounce. You might visit a small museum, sit in a new corner of a park, or ask an older relative about a story from childhood. None of these actions is dramatic, yet each one opens a small door.
 
-This does not mean every job must be exciting. Some work is simply necessary, and pretending otherwise can make us tired. The useful idea is smaller: we can choose one part to make our own. Put on music. Set a ten-minute challenge. Invite someone to join. Notice the calm feeling when the space becomes clear.
+A good adventure does not need to be perfect. The weather may change. You may take a wrong turn or feel awkward for a few minutes. That uncertainty is part of the experience. It wakes up your senses and makes the day easier to remember.
 
-A reward does not always arrive after the task. Sometimes the reward is a better way of seeing it. When we change the frame, we may find a little play inside the work—and enough energy to begin.
+The important thing is not how far you travel, but how fully you notice. Look at the colors around you. Listen to unfamiliar sounds. Leave a little space in the plan for surprise.
+
+The world still contains places, people, and ideas you have not met. Sometimes “out there” is only ten minutes away. Take one small step, and let curiosity lead the rest of the way.
 
 ### 意群训练版
 
-Some tasks look **BORING** / before we begin. / Washing dishes, / cleaning a **ROOM**, / or answering a long **MESSAGE** / can feel like a heavy **CHORE**. / We often blame the task, / but our **ATTITUDE** also shapes the experience.
+Many people hear the word **ADVENTURE** / and imagine distant **MOUNTAINS**, / wild **RIVERS**, / or a plane ticket. / But adventure can begin / much closer to **HOME**. / It starts whenever we step beyond / a familiar **PATTERN** / and pay attention / to what happens **NEXT**.
 
-Imagine that a **FRIEND** asks you / to teach them how to cook. / Suddenly, cutting vegetables / is not just kitchen **WORK**. / It becomes a small lesson, / a conversation, / and maybe a funny **MEMORY**. / The action is the same, / but the **MEANING** has changed. / **CURIOSITY** can do this too. / If you ask, / “Can I find a faster way?” / or “What detail have I never noticed?” / an ordinary task / becomes a tiny **EXPERIMENT**.
+You might get off the **BUS** / one stop early / and walk through a **STREET** / you have never seen. / You might order a **DISH** / whose name you cannot pronounce. / You might visit a small **MUSEUM**, / sit in a new corner of a **PARK**, / or ask an older relative / about a story from **CHILDHOOD**. / None of these actions is dramatic, / yet each one opens / a small **DOOR**.
 
-This does not mean / every job must be **EXCITING**. / Some work is simply **NECESSARY**, / and pretending otherwise / can make us tired. / The useful idea is smaller: / we can choose one part / to make our **OWN**. / Put on music. / Set a ten-minute **CHALLENGE**. / Invite someone to join. / Notice the calm feeling / when the space becomes **CLEAR**.
+A good adventure / does not need to be **PERFECT**. / The weather may **CHANGE**. / You may take a wrong **TURN** / or feel awkward / for a few minutes. / That **UNCERTAINTY** / is part of the experience. / It wakes up your **SENSES** / and makes the day / easier to remember.
 
-A **REWARD** does not always arrive / after the task. / Sometimes the reward / is a better way of **SEEING** it. / When we change the **FRAME**, / we may find a little **PLAY** / inside the work—/ and enough energy / to **BEGIN**.
+The important thing / is not how far you **TRAVEL**, / but how fully you **NOTICE**. / Look at the colors around you. / Listen to unfamiliar **SOUNDS**. / Leave a little space / in the plan / for **SURPRISE**.
+
+The world still contains **PLACES**, / people, / and ideas / you have not met. / Sometimes “out there” / is only ten minutes **AWAY**. / Take one small **STEP**, / and let **CURIOSITY** / lead the rest of the **WAY**.
 
 ## 五、中文理解
 
-有些事情在开始前就显得无聊，我们容易把不舒服完全归因于任务本身。短文并不假装所有工作都很有趣，而是提供一个小选择：在必要的事情里加入音乐、十分钟挑战、同伴或一个好奇的问题。行动没有变，解释和参与方式变了；奖励也可能不只在完成之后，而是来自一种更轻松的观看方式。
+冒险不一定需要远山、河流或机票。提前一站下车、尝试一道不会念名字的菜、走进小博物馆，甚至向长辈问一个童年故事，都可能打开一扇小门。
+
+好的冒险也不需要完美。走错路、天气变化和短暂的不自在，会唤醒感官，让一天更容易被记住。真正重要的不是走了多远，而是观察得有多认真。给计划留一点空间，让好奇心带着自己继续走。
 
 ## 六、发音与节奏
 
-### 今日重点：辅音与元音连读
+### 今日重点：美式英语中的闪音 /ɾ/
 
-前一个词以辅音音素结尾、后一个词以元音开头时，美式英语常把气流连起来。不要在每个单词后停顿，意群会更自然。
+当 /t/ 位于两个元音之间，且后一个音节不重读时，美式英语常把它读成很轻、很快的闪音 /ɾ/，听起来有点像中文里快速的“d”。跨单词时也可能出现类似变化。
 
 ### 跟读例子
 
-1. **put on** music → /pʊt‿ɑn/，t 与后面的元音连起来。
-2. **an ordinary** task → /ən‿ˈɔːrdəneri/，an 轻读并连向 ordinary。
-3. **inside the** work → /ɪnˈsaɪd‿ðə/，d 自然接到弱读的 the。
+1. **get off** the bus → /ɡɛɾ‿ɔf/，get 的 t 快速连接后面的元音。
+2. **sit in** a new corner → /sɪɾ‿ɪn/，不要把 t 读得太重再停顿。
+3. a **little** space → /ə ˈlɪɾəl speɪs/，little 中间的 t 是轻快闪音。
 
-先慢读连读位置，再保持整段重音；不要为了“连”而吞掉关键词。
+先慢速保持清楚，再逐渐加快；目标是气流连续，不是故意把 t 读成很重的 d。
 
 ## 七、五个重点词语
 
-### 1. chore /tʃɔːr/ 名词
+### 1. adventure /ədˈventʃər/ 名词
 
-**中文：** 日常杂务；让人觉得麻烦的任务
+**中文：** 冒险；有趣而未知的经历
 
-**常见搭配：** household chores、do chores、a daily chore
+**常见搭配：** go on an adventure、a sense of adventure、an outdoor adventure
 
-**例句：** Folding clothes feels like a chore when I am tired.<br>我累的时候，叠衣服感觉像一件苦差事。
+**例句：** A short train ride can become an adventure when you visit a new town.<br>
+当你去一个陌生小镇时，一段短途火车旅程也能成为冒险。
 
-### 2. attitude /ˈætɪtuːd/ 名词
+### 2. familiar /fəˈmɪliər/ 形容词
 
-**中文：** 态度；看待事情的方式
+**中文：** 熟悉的
 
-**常见搭配：** positive attitude、change your attitude、attitude toward
+**常见搭配：** a familiar place、sound familiar、be familiar with
 
-**例句：** A small change in attitude made the walk more enjoyable.<br>态度上的一点变化，让这次散步更愉快。
+**例句：** I left the familiar road and found a quiet garden.<br>
+我离开熟悉的道路，发现了一座安静的花园。
 
-### 3. curious /ˈkjʊriəs/ 形容词
+### 3. take a wrong turn /teɪk ə rɔːŋ tɝːn/ 动词短语
 
-**中文：** 好奇的
+**中文：** 走错路；拐错弯
 
-**常见搭配：** be curious about、stay curious、curious to know
+**常见搭配：** accidentally take a wrong turn、take one wrong turn、take a wrong turn at
 
-**例句：** I was curious to see if a new method would work.<br>我很好奇，想看看新方法是否有效。
+**例句：** We took a wrong turn, but the street led us to a lovely café.<br>
+我们走错了路，却沿着那条街发现了一家可爱的咖啡馆。
 
-### 4. ordinary /ˈɔːrdəneri/ 形容词
+### 4. uncertainty /ʌnˈsɝːtənti/ 名词
 
-**中文：** 普通的；平常的
+**中文：** 不确定；未知感
 
-**常见搭配：** ordinary day、ordinary people、something ordinary
+**常见搭配：** deal with uncertainty、a feeling of uncertainty、accept uncertainty
 
-**例句：** Music can turn an ordinary bus ride into a pleasant break.<br>音乐能让普通的公交旅程变成一段愉快的休息。
+**例句：** A little uncertainty can make a journey more exciting.<br>
+一点未知感能让旅程更令人兴奋。
 
-### 5. reward /rɪˈwɔːrd/ 名词；动词
+### 5. lead the way /liːd ðə weɪ/ 动词短语
 
-**中文：** 奖励；回报；奖励某人
+**中文：** 带路；引领方向
 
-**常见搭配：** a small reward、reward yourself、feel rewarding
+**常见搭配：** let someone lead the way、lead the way forward、curiosity leads the way
 
-**例句：** The clear room was its own reward.<br>整洁的房间本身就是回报。
+**例句：** We had no fixed plan, so curiosity led the way.<br>
+我们没有固定计划，于是让好奇心带路。
 
 ## 八、四轮影子跟读
 
 | 轮次 | 时间 | 练习方式 |
 |---|---:|---|
-| 听懂 | 2 分钟 | 听自然阅读版 1 次，只抓“任务—换视角—更容易开始”的主线。 |
-| 分块 | 4 分钟 | 按斜线逐块跟读 2 次；第二次圈出 put on、an ordinary、inside the 的连读。 |
-| 影子 | 4 分钟 | 0.85 倍速完整跟读 2 次，再用正常速度跟读 1 次，保持约半秒距离。 |
-| 脱稿 | 2–3 分钟 | 只看 music、challenge、friend、curiosity 四个提示，用自己的话复述。 |
+| 听懂 | 2 分钟 | 听自然阅读版 1 次，只抓住“小冒险不必去远方”的主线。 |
+| 分块 | 4 分钟 | 按斜线逐块跟读 2 次；第二次突出粗体重读词。 |
+| 影子 | 4 分钟 | 0.85 倍速完整跟读 2 次，再以正常速度跟读 1 次，保持约半秒距离。 |
+| 脱稿 | 2–3 分钟 | 只看 bus、dish、museum、wrong turn 四个提示，用自己的话复述。 |
 
 ## 九、开口迁移
 
-**问题：** What ordinary task feels better when you change the way you do it?
+**问题：** What small adventure would you like to try in the next seven days?
 
 **参考回答：**
 
-Cleaning my desk often feels like a chore, especially after a busy week. I used to wait until the mess became stressful. Now I put on one song and give myself a ten-minute challenge. I start with papers, then cups, and finally small objects. The task is still ordinary, but the music changes my attitude. When the song ends, the desk is usually much clearer. The reward is not only a clean space. I also feel calm and ready to begin something new.
+I would like to take a short walk in a neighborhood I have never explored. I usually choose familiar roads because they are easy, but this time I want to leave the main street and follow my curiosity. I may stop at a small café, look inside a local shop, or sit in a quiet park. I do not need a perfect plan. If I take a wrong turn, that may become the most interesting part. My goal is simply to notice new details and enjoy a small sense of adventure.
 
 **三个可迁移句型：**
 
-1. ___ often feels like a chore when ___.
-2. I make it easier by ___.
-3. The task is still ___, but ___ changes my attitude.
+1. I usually choose ___ because ___, but this time I want to ___.
+2. I do not need a perfect plan; I only need to ___.
+3. If I take a wrong turn, I may discover ___.
 
 **自检：**
 
 - 是否说满 30–60 秒
-- 是否使用至少两个重点词语
-- 是否自然连读辅音与后面的元音
-- 是否说明了“以前怎么做”和“现在有什么变化”
+- 是否使用 adventure、familiar、wrong turn 等至少两个重点表达
+- 是否把 get off、sit in、little 中的 t 读得轻快连贯
+- 是否说清楚“想去哪里、准备怎么做、可能发现什么”
 
 ## 十、今日带走
 
-> A little choice can put a little play inside necessary work.
+> A small step beyond the familiar can open a surprisingly wide world.
 
-一点点选择感，就能在必要的事情里放进一点乐趣。
+向熟悉之外迈出一小步，也可能打开一个意外辽阔的世界。
 
 ---
 
-**来源说明：** 作品、章节、情境和原句由 Project Gutenberg 公版全文核验；本期仅引用 10 个英文单词，其余英文训练内容均为原创。
+**来源说明：** 影片、人物、故事背景和短句由 Pixar 官方电影页面核验；本期仅引用 4 个英文单词，其余英文训练内容均为原创。
