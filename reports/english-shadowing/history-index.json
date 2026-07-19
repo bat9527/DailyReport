@@ -7,9 +7,48 @@
   "recurring_topic_tags": [],
   "recurring_entities": [],
   "recurring_source_hosts": [],
-  "latest_archive_date": "2026-07-19",
-  "entry_count": 2,
+  "latest_archive_date": "2026-07-20",
+  "entry_count": 3,
   "entries": [
+    {
+      "date": "2026-07-20",
+      "path": "archive/2026/07/2026-07-20.md",
+      "title": "英文影子跟读｜2026-07-20",
+      "primary_topic": "把小小的陌生体验当作日常冒险",
+      "topic_tags": [
+        "日常冒险",
+        "好奇探索",
+        "接受意外"
+      ],
+      "entities": [
+        "Pixar Animation Studios",
+        "Carl Fredricksen",
+        "Ellie Fredricksen",
+        "Charles Muntz"
+      ],
+      "works": [
+        "Up"
+      ],
+      "content_keys": [
+        "pixar-up-small-everyday-adventures"
+      ],
+      "source_type": "film",
+      "quote": "Adventure is out there!",
+      "allow_repeat": false,
+      "repeat_reason": null,
+      "summary": "英文影子跟读｜2026-07-20 今日来源：经典电影｜难度：A2–B1｜训练时间：约 12–15 分钟 一、今日声音 今天从书籍切换到 Pixar 电影 Up（《飞屋环游记》）。影片里的 Carl 和 Ellie 从小向往远方；后来，一座被气球带上天空的房子，让 Carl 与意外同行的小男孩 Russell 真正踏上旅程。 今天不把 adventure…",
+      "source_urls": [
+        "https://www.pixar.com/upfilm"
+      ],
+      "fingerprints": {
+        "content_sha256": "7ef80634badc1278c70411a5d9bacf9ec09c0dfcdedc39c53c1efc9c85946c26",
+        "topic_sha256": "67aed07d09b6f778d04d7350373184fca089c5f6aa8208847928c8be1082a394",
+        "quote_sha256": "b1d4a584c3c162e6f942e9896f536ce71d1bec79d9f1322ca8d0a9494d077640",
+        "source_sha256": [
+          "57cbff6e4957607320e2cfc1dd9d3d4166a155d687470bbb1e87778df0b6f58e"
+        ]
+      }
+    },
     {
       "date": "2026-07-19",
       "path": "archive/2026/07/2026-07-19.md",
