@@ -94,6 +94,7 @@ deduplication:
     - api.exchange.coinbase.com
     - www.deribit.com
     - api.llama.fi
+    - stablecoins.llama.fi
 
 privacy:
   forbid_position_amounts: true

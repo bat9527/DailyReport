@@ -19,11 +19,64 @@
     "api.coingecko.com",
     "api.exchange.coinbase.com",
     "www.deribit.com",
-    "api.llama.fi"
+    "api.llama.fi",
+    "stablecoins.llama.fi"
   ],
-  "latest_archive_date": "2026-07-19",
-  "entry_count": 1,
+  "latest_archive_date": "2026-07-20",
+  "entry_count": 2,
   "entries": [
+    {
+      "date": "2026-07-20",
+      "path": "archive/2026/07/2026-07-20.md",
+      "title": "Web3 行情与生态日报｜2026-07-20",
+      "primary_topic": "BTC 小幅回落而 ETH 抗跌，低成交环境中的相对分化延续",
+      "topic_tags": [
+        "BTC",
+        "ETH",
+        "行情",
+        "相对分化",
+        "低成交",
+        "永续合约"
+      ],
+      "entities": [
+        "Bitcoin",
+        "BTC",
+        "Ethereum",
+        "ETH"
+      ],
+      "works": [],
+      "content_keys": [
+        "btc-eth-low-volume-divergence-2026-07-20"
+      ],
+      "source_type": null,
+      "quote": null,
+      "allow_repeat": false,
+      "repeat_reason": null,
+      "summary": "Web3 行情与生态日报｜2026-07-20 行情快照：2026-07-20 05:59（北京时间）｜加密资产 24/7 交易，无统一收盘价｜预计阅读：12–15 分钟 本文只用于市场学习和风险观察，不构成投资建议，也不读取任何个人持仓或钱包信息。 一、三句话看市场 BTC 报 64,341 美元、24 小时跌 0.57%，ETH 报 1,859.72 美元、基本持平（-0.05%）；市场从昨日同步回升转为温和分化，没有出现剧烈风险释放。ETH 过去 7 天涨…",
+      "source_urls": [
+        "https://api.coingecko.com/api/v3/coins/markets?ids=bitcoin%2Cethereum&price_change_percentage=24h%2C7d%2C30d&vs_currency=usd",
+        "https://api.coingecko.com/api/v3/global",
+        "https://api.llama.fi/overview/dexs/Ethereum",
+        "https://api.llama.fi/v2/historicalChainTvl/Ethereum",
+        "https://stablecoins.llama.fi/stablecoincharts/all",
+        "https://www.deribit.com/api/v2/public/ticker?instrument_name=BTC-PERPETUAL",
+        "https://www.deribit.com/api/v2/public/ticker?instrument_name=ETH-PERPETUAL"
+      ],
+      "fingerprints": {
+        "content_sha256": "1338e8d3cca5c0180d7996c218c8e4654060fb32ed9d40234b1a52800d6f6e2a",
+        "topic_sha256": "f72ba292e9d12f0da5dafc6ddffcef7d9cb7d321401b4d7817ccbccdf0c0fd00",
+        "quote_sha256": null,
+        "source_sha256": [
+          "f2f4b82c5bd49e2982da1d4a5217323eeef134bb66af0463c81755f5a6be7059",
+          "a92d291d920ba68fcb73671d022eb8295cae624ad51be112450efb973aadda0b",
+          "59135881861a6f29853750d59ead248b2fee3b4eec7bf47c3c870f782d268598",
+          "03e91b5d3a826c57ca793f040f18fd652b7441458a9e87d04ec63d7b7165e23d",
+          "9bf84a2b744734a785492b560cf09460aff30cec0fcfb535e1efe20867d1bf55",
+          "536c0a4685a58ff346b4665e7ebd2c395bbb6fce6e371081c6d9df2d2b598a1a",
+          "9db6457f23d96e1484a3264cc094861c1861d44683e6b86be272bdbe581cc9ad"
+        ]
+      }
+    },
     {
       "date": "2026-07-19",
       "path": "archive/2026/07/2026-07-19.md",
