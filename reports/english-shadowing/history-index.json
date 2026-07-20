@@ -7,9 +7,45 @@
   "recurring_topic_tags": [],
   "recurring_entities": [],
   "recurring_source_hosts": [],
-  "latest_archive_date": "2026-07-20",
-  "entry_count": 3,
+  "latest_archive_date": "2026-07-21",
+  "entry_count": 4,
   "entries": [
+    {
+      "date": "2026-07-21",
+      "path": "archive/2026/07/2026-07-21.md",
+      "title": "英文影子跟读｜2026-07-21",
+      "primary_topic": "在不顺利的时刻之后，用一个小动作重新开始",
+      "topic_tags": [
+        "重新开始",
+        "接受挫折",
+        "微小行动"
+      ],
+      "entities": [
+        "J. K. Rowling"
+      ],
+      "works": [
+        "Harvard Commencement Address 2008"
+      ],
+      "content_keys": [
+        "jk-rowling-harvard-rebuild-after-rock-bottom"
+      ],
+      "source_type": "speech",
+      "quote": "Rock bottom became the solid foundation on which I rebuilt my life.",
+      "allow_repeat": false,
+      "repeat_reason": null,
+      "summary": "英文影子跟读｜2026-07-21 今日来源：名人演讲｜难度：A2–B1｜训练时间：约 12–15 分钟 一、今日声音 今天听 J. K. Rowling 在哈佛大学 2008 年毕业典礼上的演讲。她坦白谈到自己人生低谷时的恐惧，也谈到失败怎样帮她看清真正重要的东西。 这期不讨论宏大的成功，而是练习一个很日常的主题：事情不顺利时，不急着把整个人生修好。先承认失望，再做一个小动作——重新泡一杯茶、再写一句话，或再次走出家门。 二、一句原声 Rock bottom became…",
+      "source_urls": [
+        "https://news.harvard.edu/gazette/story/2008/06/text-of-j-k-rowling-speech"
+      ],
+      "fingerprints": {
+        "content_sha256": "68a2bd76fb21df1635fa1146108da2576dd56609d2e6b6406e88c3e6cede8a5f",
+        "topic_sha256": "14073e024c5605c5ef298f9aa26808b2e6e3f51baa8e3dc40c5beb6cf4ea2123",
+        "quote_sha256": "09ba88514aa5157496f61784c7cbc54e4256d904c96cadd0a3aa834707b59428",
+        "source_sha256": [
+          "e9993cef8fad291f8050e3447886c56083ed39df7c2d2535574a796d23066c0c"
+        ]
+      }
+    },
     {
       "date": "2026-07-20",
       "path": "archive/2026/07/2026-07-20.md",
