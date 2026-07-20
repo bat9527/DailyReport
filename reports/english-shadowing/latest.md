@@ -1,180 +1,175 @@
 ---
 dedup:
-  primary_topic: "把小小的陌生体验当作日常冒险"
+  primary_topic: "在不顺利的时刻之后，用一个小动作重新开始"
   topic_tags:
-    - 日常冒险
-    - 好奇探索
-    - 接受意外
+    - 重新开始
+    - 接受挫折
+    - 微小行动
   entities:
-    - Pixar Animation Studios
-    - Carl Fredricksen
-    - Ellie Fredricksen
-    - Charles Muntz
+    - J. K. Rowling
   works:
-    - Up
+    - Harvard Commencement Address 2008
   content_keys:
-    - pixar-up-small-everyday-adventures
-  source_type: film
-  quote: "Adventure is out there!"
+    - jk-rowling-harvard-rebuild-after-rock-bottom
+  source_type: speech
+  quote: "Rock bottom became the solid foundation on which I rebuilt my life."
 ---
 
-# 英文影子跟读｜2026-07-20
+# 英文影子跟读｜2026-07-21
 
-> 今日来源：经典电影｜难度：A2–B1｜训练时间：约 12–15 分钟
+> 今日来源：名人演讲｜难度：A2–B1｜训练时间：约 12–15 分钟
 
 ## 一、今日声音
 
-今天从书籍切换到 Pixar 电影 *Up*（《飞屋环游记》）。影片里的 Carl 和 Ellie 从小向往远方；后来，一座被气球带上天空的房子，让 Carl 与意外同行的小男孩 Russell 真正踏上旅程。
+今天听 J. K. Rowling 在哈佛大学 2008 年毕业典礼上的演讲。她坦白谈到自己人生低谷时的恐惧，也谈到失败怎样帮她看清真正重要的东西。
 
-今天不把 adventure 理解成必须飞到遥远大陆的大计划，而是练习一个更轻松的视角：只要离开一点熟悉的路线，认真感受未知，普通的一天也可以有冒险感。
+这期不讨论宏大的成功，而是练习一个很日常的主题：事情不顺利时，不急着把整个人生修好。先承认失望，再做一个小动作——重新泡一杯茶、再写一句话，或再次走出家门。
 
 ## 二、一句原声
 
-> Adventure is out there!
+> Rock bottom became the solid foundation on which I rebuilt my life.
 
-**中文理解：** 冒险就在外面的世界等着你！
+**中文理解：** 人生谷底，后来成了我重建生活的坚实地基。
 
-**出处：** Pixar 电影 *Up* 中贯穿 Carl 与 Ellie 梦想的探险口号；Pixar 官方页面也将它称为影片中熟悉的 motto。
+**出处：** J. K. Rowling，哈佛大学第 357 届毕业典礼演讲 *The Fringe Benefits of Failure, and the Importance of Imagination*，2008 年 6 月 5 日。
 
-**官方入口：** [Pixar Animation Studios｜Up](https://www.pixar.com/upfilm)
+**官方来源：** [Harvard Gazette｜演讲全文](https://news.harvard.edu/gazette/story/2008/06/text-of-j-k-rowling-speech/)
 
 ## 三、背景故事
 
-小时候，Carl 和 Ellie 都崇拜探险家 Charles Muntz，也梦想去南美洲的 Paradise Falls。人生过去许多年，他们一直没有完成这次旅行。Ellie 离世后，Carl 把无数气球系在房顶，让整座房子飞向天空。
+Rowling 在演讲中说，人生低谷并不好玩。那段时期很黑暗，她也不知道困难会持续多久。但失败让许多不重要的东西退到一边：她仍然爱自己的女儿，也仍然拥有一台旧打字机和一个大想法。
 
-但电影真正有趣的地方在于：Carl 以为冒险只是抵达一个遥远目的地，后来却发现，意外出现的人、混乱和小瞬间，同样构成了旅程。冒险不只发生在地图尽头，也发生在计划被打乱之后。
+她并不是把痛苦说成礼物，而是回头发现：当旧计划倒下时，自己仍可以从仅存而重要的东西开始重建。今天把这个想法放进普通生活，练习温和地“再来一次”。
 
 ## 四、影子跟读短文
 
-> 以下 216 词短文为本期原创练习稿，并非电影台词。建议先用设备朗读功能以 0.85 倍速播放，再提高到正常速度。
+> 以下 223 词短文为本期原创练习稿，并非演讲原文。建议先用设备朗读功能以 0.85 倍速播放，再提高到正常速度。
 
 ### 自然阅读版
 
-Many people hear the word adventure and imagine distant mountains, wild rivers, or a plane ticket. But adventure can begin much closer to home. It starts whenever we step beyond a familiar pattern and pay attention to what happens next.
+Some days do not go the way we hoped. A cake falls in the oven. Rain ruins a picnic. We miss a train, lose a game, or say the wrong thing to someone we love. For a while, one bad moment can make the whole day feel broken.
 
-You might get off the bus one stop early and walk through a street you have never seen. You might order a dish whose name you cannot pronounce. You might visit a small museum, sit in a new corner of a park, or ask an older relative about a story from childhood. None of these actions is dramatic, yet each one opens a small door.
+Starting again is often quieter than we imagine. It does not require a perfect plan or a sudden burst of courage. We can begin by taking one slow breath. Then we can clean the table, send a kind message, or choose a new path home. A small action tells us, “This moment is difficult, but it is not the end.”
 
-A good adventure does not need to be perfect. The weather may change. You may take a wrong turn or feel awkward for a few minutes. That uncertainty is part of the experience. It wakes up your senses and makes the day easier to remember.
+We do not have to pretend that every setback is useful. Some experiences simply hurt. We may need time, rest, or help from another person. Still, when we are ready, we can look at what remains. Perhaps we still have a favorite song, a warm meal, a good friend, or an idea we want to try.
 
-The important thing is not how far you travel, but how fully you notice. Look at the colors around you. Listen to unfamiliar sounds. Leave a little space in the plan for surprise.
+These simple things can become a foundation. From there, we rebuild slowly. One step may lead to another, and confidence may return after action, not before it.
 
-The world still contains places, people, and ideas you have not met. Sometimes “out there” is only ten minutes away. Take one small step, and let curiosity lead the rest of the way.
+If today feels heavy, make the next step small enough to take. Open the window. Wash one cup. Walk to the corner. You are not fixing everything. You are simply beginning again.
 
 ### 意群训练版
 
-Many people hear the word **ADVENTURE** / and imagine distant **MOUNTAINS**, / wild **RIVERS**, / or a plane ticket. / But adventure can begin / much closer to **HOME**. / It starts whenever we step beyond / a familiar **PATTERN** / and pay attention / to what happens **NEXT**.
+Some days / do not go the way we **HOPED**. / A cake falls / in the **OVEN**. / Rain ruins a **PICNIC**. / We miss a **TRAIN**, / lose a game, / or say the wrong thing / to someone we **LOVE**. / For a while, / one bad moment / can make the whole day / feel **BROKEN**.
 
-You might get off the **BUS** / one stop early / and walk through a **STREET** / you have never seen. / You might order a **DISH** / whose name you cannot pronounce. / You might visit a small **MUSEUM**, / sit in a new corner of a **PARK**, / or ask an older relative / about a story from **CHILDHOOD**. / None of these actions is dramatic, / yet each one opens / a small **DOOR**.
+Starting **AGAIN** / is often quieter / than we imagine. / It does not require / a perfect **PLAN** / or a sudden burst of **COURAGE**. / We can begin / by taking one slow **BREATH**. / Then we can clean the table, / send a kind **MESSAGE**, / or choose a new path **HOME**. / A small action tells us, / “This moment is **DIFFICULT**, / but it is not the **END**.”
 
-A good adventure / does not need to be **PERFECT**. / The weather may **CHANGE**. / You may take a wrong **TURN** / or feel awkward / for a few minutes. / That **UNCERTAINTY** / is part of the experience. / It wakes up your **SENSES** / and makes the day / easier to remember.
+We do not have to pretend / that every **SETBACK** is useful. / Some experiences / simply **HURT**. / We may need **TIME**, / rest, / or help from another person. / Still, / when we are **READY**, / we can look at / what remains. / Perhaps we still have / a favorite **SONG**, / a warm meal, / a good **FRIEND**, / or an idea / we want to **TRY**.
 
-The important thing / is not how far you **TRAVEL**, / but how fully you **NOTICE**. / Look at the colors around you. / Listen to unfamiliar **SOUNDS**. / Leave a little space / in the plan / for **SURPRISE**.
+These simple things / can become a **FOUNDATION**. / From there, / we rebuild **SLOWLY**. / One step may lead / to another, / and confidence may return / after **ACTION**, / not before it.
 
-The world still contains **PLACES**, / people, / and ideas / you have not met. / Sometimes “out there” / is only ten minutes **AWAY**. / Take one small **STEP**, / and let **CURIOSITY** / lead the rest of the **WAY**.
+If today feels **HEAVY**, / make the next step / small enough to **TAKE**. / Open the window. / Wash one cup. / Walk to the corner. / You are not fixing **EVERYTHING**. / You are simply / beginning **AGAIN**.
 
 ## 五、中文理解
 
-冒险不一定需要远山、河流或机票。提前一站下车、尝试一道不会念名字的菜、走进小博物馆，甚至向长辈问一个童年故事，都可能打开一扇小门。
+有些日子就是不顺：蛋糕烤塌、野餐遇雨、错过火车，或不小心伤害了喜欢的人。一个坏瞬间，可能让整天都像坏掉了。
 
-好的冒险也不需要完美。走错路、天气变化和短暂的不自在，会唤醒感官，让一天更容易被记住。真正重要的不是走了多远，而是观察得有多认真。给计划留一点空间，让好奇心带着自己继续走。
+重新开始通常没有想象中轰轰烈烈。一次呼吸、一条友善的信息、一只洗干净的杯子，都在提醒我们：“此刻很难，但还没有结束。”我们不必假装每次挫折都有用；可以先休息、求助，等准备好后，再看看身边还留下什么。小小的好东西，也能成为重新出发的地基。
 
 ## 六、发音与节奏
 
-### 今日重点：美式英语中的闪音 /ɾ/
+### 今日重点：过去式 -ed 的三种读法
 
-当 /t/ 位于两个元音之间，且后一个音节不重读时，美式英语常把它读成很轻、很快的闪音 /ɾ/，听起来有点像中文里快速的“d”。跨单词时也可能出现类似变化。
+`-ed` 并不总读成一个完整的“id”。它会根据前一个音变化：
 
-### 跟读例子
+1. **hoped** /hoʊpt/：在清辅音 /p/ 后读 /t/，结尾短而轻。
+2. **ruined** /ˈruːɪnd/：在浊音 /n/ 后读 /d/，声音保持振动。
+3. **started** /ˈstɑːrtɪd/：在 /t/ 后读 /ɪd/，多出一个音节。
 
-1. **get off** the bus → /ɡɛɾ‿ɔf/，get 的 t 快速连接后面的元音。
-2. **sit in** a new corner → /sɪɾ‿ɪn/，不要把 t 读得太重再停顿。
-3. a **little** space → /ə ˈlɪɾəl speɪs/，little 中间的 t 是轻快闪音。
+先读 `hope—hoped`、`ruin—ruined`、`start—started`，再放回句子。跟读时重读 hoped、train、broken 等内容词；`the`、`a`、`to` 轻读，让句子有起伏。
 
-先慢速保持清楚，再逐渐加快；目标是气流连续，不是故意把 t 读成很重的 d。
+## 七、五个核心表达
 
-## 七、五个重点词语
+### 1. rock bottom /ˌrɑːk ˈbɑːtəm/ 名词短语
 
-### 1. adventure /ədˈventʃər/ 名词
+**中文：** 人生或处境的最低谷
 
-**中文：** 冒险；有趣而未知的经历
+**常见搭配：** hit rock bottom、reach rock bottom、rise from rock bottom
 
-**常见搭配：** go on an adventure、a sense of adventure、an outdoor adventure
+**例句：** He felt he had hit rock bottom, so he called an old friend.<br>
+他觉得自己跌到了谷底，于是给一位老朋友打了电话。
 
-**例句：** A short train ride can become an adventure when you visit a new town.<br>
-当你去一个陌生小镇时，一段短途火车旅程也能成为冒险。
+### 2. rebuild /ˌriːˈbɪld/ 动词
 
-### 2. familiar /fəˈmɪliər/ 形容词
+**中文：** 重建；重新建立
 
-**中文：** 熟悉的
+**常见搭配：** rebuild a life、rebuild trust、slowly rebuild
 
-**常见搭配：** a familiar place、sound familiar、be familiar with
+**例句：** After the storm, the neighbors helped one another rebuild their gardens.<br>
+暴风雨后，邻居们互相帮忙重建花园。
 
-**例句：** I left the familiar road and found a quiet garden.<br>
-我离开熟悉的道路，发现了一座安静的花园。
+### 3. setback /ˈsetbæk/ 名词
 
-### 3. take a wrong turn /teɪk ə rɔːŋ tɝːn/ 动词短语
+**中文：** 挫折；暂时的阻碍
 
-**中文：** 走错路；拐错弯
+**常见搭配：** face a setback、a small setback、recover from a setback
 
-**常见搭配：** accidentally take a wrong turn、take one wrong turn、take a wrong turn at
+**例句：** The rainy day was a setback, but we moved our picnic indoors.<br>
+下雨是个小挫折，不过我们把野餐搬到了室内。
 
-**例句：** We took a wrong turn, but the street led us to a lovely café.<br>
-我们走错了路，却沿着那条街发现了一家可爱的咖啡馆。
+### 4. start over /stɑːrt ˈoʊvər/ 动词短语
 
-### 4. uncertainty /ʌnˈsɝːtənti/ 名词
+**中文：** 重新开始；从头再来
 
-**中文：** 不确定；未知感
+**常见搭配：** start over again、start over from the beginning、be ready to start over
 
-**常见搭配：** deal with uncertainty、a feeling of uncertainty、accept uncertainty
+**例句：** I added too much salt, so I laughed and started over.<br>
+我放了太多盐，于是笑了笑，重新做了一次。
 
-**例句：** A little uncertainty can make a journey more exciting.<br>
-一点未知感能让旅程更令人兴奋。
+### 5. one step at a time /wʌn step ət ə taɪm/ 副词短语
 
-### 5. lead the way /liːd ðə weɪ/ 动词短语
+**中文：** 一步一步地；循序渐进地
 
-**中文：** 带路；引领方向
+**常见搭配：** take it one step at a time、move forward one step at a time
 
-**常见搭配：** let someone lead the way、lead the way forward、curiosity leads the way
-
-**例句：** We had no fixed plan, so curiosity led the way.<br>
-我们没有固定计划，于是让好奇心带路。
+**例句：** The room was very messy, so I cleaned it one step at a time.<br>
+房间很乱，所以我一步一步地整理。
 
 ## 八、四轮影子跟读
 
 | 轮次 | 时间 | 练习方式 |
 |---|---:|---|
-| 听懂 | 2 分钟 | 听自然阅读版 1 次，只抓住“小冒险不必去远方”的主线。 |
+| 听懂 | 2 分钟 | 听自然阅读版 1 次，只抓住“困难之后从小动作开始”的主线。 |
 | 分块 | 4 分钟 | 按斜线逐块跟读 2 次；第二次突出粗体重读词。 |
-| 影子 | 4 分钟 | 0.85 倍速完整跟读 2 次，再以正常速度跟读 1 次，保持约半秒距离。 |
-| 脱稿 | 2–3 分钟 | 只看 bus、dish、museum、wrong turn 四个提示，用自己的话复述。 |
+| 影子 | 4 分钟 | 0.85 倍速跟读 2 次，再以正常速度跟读 1 次；注意三种 -ed 结尾。 |
+| 脱稿 | 2–3 分钟 | 只看 breath、message、friend、one cup 四个提示，用自己的话复述。 |
 
 ## 九、开口迁移
 
-**问题：** What small adventure would you like to try in the next seven days?
+**问题：** Tell me about a small setback. How did you begin again?
 
 **参考回答：**
 
-I would like to take a short walk in a neighborhood I have never explored. I usually choose familiar roads because they are easy, but this time I want to leave the main street and follow my curiosity. I may stop at a small café, look inside a local shop, or sit in a quiet park. I do not need a perfect plan. If I take a wrong turn, that may become the most interesting part. My goal is simply to notice new details and enjoy a small sense of adventure.
+Last weekend, I tried to bake bread, but I forgot to add enough water. The bread was hard, and I felt disappointed. I did not want to waste the whole afternoon, so I took a short break and looked at the recipe again. Then I started over with a smaller loaf. It was not perfect, but it tasted much better. The setback reminded me that beginning again can be simple. I only needed to take it one step at a time and keep a sense of humor.
 
-**三个可迁移句型：**
+**三个可复用句型：**
 
-1. I usually choose ___ because ___, but this time I want to ___.
-2. I do not need a perfect plan; I only need to ___.
-3. If I take a wrong turn, I may discover ___.
+1. I felt disappointed when ___, but I decided to ___.
+2. I did not fix everything; I only ___.
+3. I started over by ___, one step at a time.
 
-**自检：**
+**自检清单：**
 
 - 是否说满 30–60 秒
-- 是否使用 adventure、familiar、wrong turn 等至少两个重点表达
-- 是否把 get off、sit in、little 中的 t 读得轻快连贯
-- 是否说清楚“想去哪里、准备怎么做、可能发现什么”
+- 是否使用 setback、start over 等至少两个核心表达
+- 是否区分 hoped /t/、ruined /d/、started /ɪd/
+- 是否说清楚“发生了什么、感受如何、怎样重新开始”
 
 ## 十、今日带走
 
-> A small step beyond the familiar can open a surprisingly wide world.
+> Beginning again can be as small as one calm breath.
 
-向熟悉之外迈出一小步，也可能打开一个意外辽阔的世界。
+重新开始，可以小到只是一次平静的呼吸。
 
 ---
 
-**来源说明：** 影片、人物、故事背景和短句由 Pixar 官方电影页面核验；本期仅引用 4 个英文单词，其余英文训练内容均为原创。
+**来源说明：** 人物、演讲日期、语境和短句均由 Harvard Gazette 官方演讲全文核验；本期仅引用 12 个英文单词，其余英文训练内容均为原创。
