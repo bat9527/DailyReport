@@ -7,9 +7,62 @@
   "recurring_topic_tags": [],
   "recurring_entities": [],
   "recurring_source_hosts": [],
-  "latest_archive_date": "2026-07-20",
-  "entry_count": 3,
+  "latest_archive_date": "2026-07-21",
+  "entry_count": 4,
   "entries": [
+    {
+      "date": "2026-07-21",
+      "path": "archive/2026/07/2026-07-21.md",
+      "title": "金融科技出海日报｜2026-07-21",
+      "primary_topic": "数字金融入口正在与合规身份、稳定币流动性和设备生态进一步融合",
+      "topic_tags": [
+        "稳定币支付",
+        "跨境结算",
+        "数字身份",
+        "嵌入式金融"
+      ],
+      "entities": [
+        "Busha Business",
+        "Tether",
+        "Association of Communications and Technology",
+        "South Africa Department of Home Affairs",
+        "Samsung Electronics",
+        "Barclays",
+        "Visa"
+      ],
+      "works": [],
+      "content_keys": [
+        "busha-tether-africa-business-stablecoin-infrastructure-2026-07-20",
+        "south-africa-sim-real-time-identity-verification-disclosure-2026-07-20",
+        "samsung-galaxy-card-us-launch-2026-07-21"
+      ],
+      "source_type": null,
+      "quote": null,
+      "allow_repeat": false,
+      "repeat_reason": null,
+      "summary": "金融科技出海日报｜2026-07-21 北京时间｜核心窗口：2026-07-20 06:01 至 2026-07-21 06:01（最近 24 小时）｜补充窗口：2026-07-19 06:01 起｜预计阅读：8–10 分钟 一、今日速览 本期收录 3 条新增。非洲市场的两条变化都围绕“信任基础设施”：一条把全球稳定币流动性接入本地持牌平台，另一条尝试把手机号码背后的真实身份校验做得更可靠。全球参照则来自…",
+      "source_urls": [
+        "https://disruptafrica.com/2026/07/20/busha-business-collaborates-with-tether-to-expand-stablecoin-infrastructure-for-african-businesses",
+        "https://news.samsung.com/global/introducing-samsung-galaxy-card",
+        "https://techcabal.com/2026/07/20/south-africa-wants-every-sim-card-to-become-a-trusted-digital-id",
+        "https://techpoint.africa/brandpress/busha-business-collaborates-with-tether-to-expand-stablecoin-infrastructure-for-african-businesses",
+        "https://www.justice.gov.za/m_statements/2026/20260326-RICA.html",
+        "https://www.prnewswire.com/news-releases/samsung-launches-its-first-credit-card-in-the-us--a-mobile-wallet-experience-that-turns-everyday-spending-into-cash-rewards-302830013.html"
+      ],
+      "fingerprints": {
+        "content_sha256": "39d612e9989eba3ef23b59cb09d1fc3c797707a85bb420deb5e13f7af40ac13c",
+        "topic_sha256": "a57a3c2dbd4665265d275bf0ac293dd66af2bd85fb89ffff63bc2310c909f865",
+        "quote_sha256": null,
+        "source_sha256": [
+          "0c047cfcb7c0704643bf1fea1ce2093cfe18aed924499c8895de15c4e58df3b6",
+          "86a53ad6e44b3c3f076c0d2d36c188cc9220581274af95a04e528aeb27d9504e",
+          "71e941c5176c5651381bb6ae1d1d4abf37147d4f14c1f4952a66f64367f6ee66",
+          "61650242f2c0500f4715b50359aa20e0b91736a00e94fc63098398c5fc28379e",
+          "9bd764f6e723f2ee01443e8b0bc37a4957f1fd59b41b6c276471a06a05c48724",
+          "cf4bb9d4e34bc5093bf81b1d5803d2c29b114385381cb68088e0008a2282a6fe"
+        ]
+      }
+    },
     {
       "date": "2026-07-20",
       "path": "archive/2026/07/2026-07-20.md",
