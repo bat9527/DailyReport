@@ -7,9 +7,48 @@
   "recurring_topic_tags": [],
   "recurring_entities": [],
   "recurring_source_hosts": [],
-  "latest_archive_date": "2026-07-21",
-  "entry_count": 4,
+  "latest_archive_date": "2026-07-22",
+  "entry_count": 5,
   "entries": [
+    {
+      "date": "2026-07-22",
+      "path": "archive/2026/07/2026-07-22.md",
+      "title": "英文影子跟读｜2026-07-22",
+      "primary_topic": "耐心照料一件小事，观察它慢慢生长",
+      "topic_tags": [
+        "耐心照料",
+        "缓慢生长",
+        "亲近自然"
+      ],
+      "entities": [
+        "Frances Hodgson Burnett",
+        "Mary Lennox",
+        "Colin Craven",
+        "Dickon Sowerby"
+      ],
+      "works": [
+        "The Secret Garden"
+      ],
+      "content_keys": [
+        "frances-burnett-secret-garden-tend-small-things"
+      ],
+      "source_type": "book",
+      "quote": "Where you tend a rose, my lad, a thistle cannot grow.",
+      "allow_repeat": false,
+      "repeat_reason": null,
+      "summary": "英文影子跟读｜2026-07-22 今日来源：经典书籍｜难度：A2–B1｜训练时间：约 12–15 分钟 一、今日声音 今天打开 Frances Hodgson Burnett 的儿童文学经典 The Secret Garden（《秘密花园》）。故事从一座被锁住、荒废多年的花园开始，也讲三个孩子怎样在照料植物的过程中变得健康、开朗。 今天不追求戏剧性的改变，而是观察一种安静的力量：浇一点水、拔一棵草、每天看一眼。许多值得珍惜的东西，都在这样不起眼的照料里慢慢生长。…",
+      "source_urls": [
+        "https://www.gutenberg.org/files/17396/17396-h/17396-h.htm"
+      ],
+      "fingerprints": {
+        "content_sha256": "b7d4af39caa454b63ce9df2cf1abfe9d824cc4f1dbe37028b31b9f70a9aee4c4",
+        "topic_sha256": "d4afbf5c186975cf38312efeb1adb0d7afe066890360f0a93e7e1a357bf4bad8",
+        "quote_sha256": "c459993dc06bd0ea3094d6673b845812ca3b12d14895f18243c0f935384a5abe",
+        "source_sha256": [
+          "f3edb039f87755d0396a6a734942a172e1baecdce6b68f7c5fad774e482903af"
+        ]
+      }
+    },
     {
       "date": "2026-07-21",
       "path": "archive/2026/07/2026-07-21.md",
