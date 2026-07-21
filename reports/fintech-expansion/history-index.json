@@ -7,9 +7,63 @@
   "recurring_topic_tags": [],
   "recurring_entities": [],
   "recurring_source_hosts": [],
-  "latest_archive_date": "2026-07-21",
-  "entry_count": 4,
+  "latest_archive_date": "2026-07-22",
+  "entry_count": 5,
   "entries": [
+    {
+      "date": "2026-07-22",
+      "path": "archive/2026/07/2026-07-22.md",
+      "title": "金融科技出海日报｜2026-07-22",
+      "primary_topic": "数字信贷监管恢复执行，跨境支付网络加速连接本地入口与国家级基础设施",
+      "topic_tags": [
+        "数字信贷执法",
+        "跨境汇款",
+        "国家支付网络",
+        "二维码互联"
+      ],
+      "entities": [
+        "Federal Competition and Consumer Protection Commission",
+        "eZi Remit",
+        "Mastercard",
+        "UnionPay International",
+        "Central Bank of the UAE",
+        "Al Etihad Payments",
+        "Bank of China Abu Dhabi Branch"
+      ],
+      "works": [],
+      "content_keys": [
+        "nigeria-court-upholds-fccpc-deon-enforcement-2026-07-20",
+        "ezi-remit-mastercard-move-25-corridors-2026-07-21",
+        "unionpay-uae-qr-jaywan-settlement-mous-2026-07-21",
+        "aep-mastercard-jaywan-cobadge-operations-centre-2026-07-21"
+      ],
+      "source_type": null,
+      "quote": null,
+      "allow_repeat": false,
+      "repeat_reason": null,
+      "summary": "金融科技出海日报｜2026-07-22 北京时间｜核心窗口：2026-07-21 06:04 至 2026-07-22 06:04（最近 24 小时）｜补充窗口：2026-07-20 06:04 起｜预计阅读：10–12 分钟 一、今日速览 本期收录 4 条新增。非洲方面，一条法院判决让尼日利亚数字信贷消费者保护规则恢复执行；另一条合作把南非汇款入口连接到覆盖 25 个目的地的全球付款网络。中国出海与全球参照集中在阿联酋：其国家支付体系同日分别与…",
+      "source_urls": [
+        "https://fccpc.gov.ng/wireless-application-service-providers-association-of-nig-ltd-gte-waspan-v-fccpc",
+        "https://guardian.ng/news/fccpc-resumes-digital-lending-regulation",
+        "https://von.gov.ng/fccpc-resumes-enforcement-of-digital-lending-rules",
+        "https://www.mastercard.com/news/eemea/en/newsroom/press-releases/en/2026/ezi-remit-collaborates-with-mastercard-to-enhance-cross-border-payments-and-drive-financial-inclusion-in-south-africa",
+        "https://www.mastercard.com/news/eemea/en/newsroom/press-releases/en/2026/july/in-a-global-first-of-its-kind-issuance-al-etihad-payments-and-mastercard-announce-the-first-co-badged-credit-card-in-the-uae",
+        "https://www.prnewswire.com/ae/news-releases/unionpay-international-signs-strategic-mous-with-the-central-bank-of-the-uae-al-etihad-payments-and-bank-of-china-abu-dhabi-branch-to-enhance-cross-border-payment-interoperability-302830566.html"
+      ],
+      "fingerprints": {
+        "content_sha256": "1f5ee521cd5cff96dcf28a7437bb5133fccc9fd3edc18292596d13f71fb3f857",
+        "topic_sha256": "38b5cce11cec48e02354787c4b644bfd891861ba235f6fb67b828f2def851f36",
+        "quote_sha256": null,
+        "source_sha256": [
+          "87ff54289bea977127e444597681ae144ccaba881e18d98bcdd17fc7f040b52e",
+          "2da7b7e91c2443cf4b91e2e6f91b3bd9eb0d9058e79fc971bbbcbcd0f27a4f17",
+          "55183f649dd999e39cb09a619a86726c2cff5332c1eb58b7239573d1d717e017",
+          "078cb0757bad6bb18e134d1787b0ffda0701f4f66d208a0e34df9212dcfa112f",
+          "12ceee29d026af9a7485f82552a7eadfd74fc135798c71f92ed6dba813d0e44a",
+          "baf36bc9266d1825fb72d0793c8037cc8bd8cd841898e284b1995ba333ecfb3f"
+        ]
+      }
+    },
     {
       "date": "2026-07-21",
       "path": "archive/2026/07/2026-07-21.md",
