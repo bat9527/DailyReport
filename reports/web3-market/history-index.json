@@ -22,9 +22,74 @@
     "api.llama.fi",
     "stablecoins.llama.fi"
   ],
-  "latest_archive_date": "2026-07-21",
-  "entry_count": 3,
+  "latest_archive_date": "2026-07-22",
+  "entry_count": 4,
   "entries": [
+    {
+      "date": "2026-07-22",
+      "path": "archive/2026/07/2026-07-22.md",
+      "title": "Web3 行情与生态日报｜2026-07-22",
+      "primary_topic": "BTC 领涨并伴随更快杠杆扩张，Ethereum 单日活动回升",
+      "topic_tags": [
+        "BTC",
+        "ETH",
+        "行情",
+        "BTC领涨",
+        "杠杆扩张",
+        "链上活动反弹"
+      ],
+      "entities": [
+        "Bitcoin",
+        "BTC",
+        "Ethereum",
+        "ETH",
+        "Lighthouse",
+        "Sigma Prime",
+        "Tether International",
+        "Twenty One Capital",
+        "Strike"
+      ],
+      "works": [],
+      "content_keys": [
+        "btc-led-rally-leverage-and-chain-rebound-2026-07-22",
+        "ethereum-lighthouse-security-release-v8-2-1-2026-07-21",
+        "tether-twenty-one-leadership-separation-2026-07-21"
+      ],
+      "source_type": null,
+      "quote": null,
+      "allow_repeat": false,
+      "repeat_reason": null,
+      "summary": "Web3 行情与生态日报｜2026-07-22 行情快照：2026-07-22 06:05（北京时间）｜加密资产 24/7 交易，无统一收盘价｜预计阅读：12–15 分钟 本文只用于市场学习和风险观察，不构成投资建议，也不读取任何个人持仓或钱包信息。 一、三句话看市场 BTC 报 66,330 美元、24 小时涨 1.81%，ETH 报 1,921.57 美元、涨 1.20%；BTC 重新领涨，ETH/BTC 从上一期约 0.02914 回落至…",
+      "source_urls": [
+        "https://api.coingecko.com/api/v3/coins/markets?ids=bitcoin%2Cethereum&price_change_percentage=24h%2C7d%2C30d&vs_currency=usd",
+        "https://api.coingecko.com/api/v3/global",
+        "https://api.llama.fi/overview/dexs/Ethereum",
+        "https://api.llama.fi/overview/fees/Ethereum",
+        "https://api.llama.fi/v2/historicalChainTvl/Ethereum",
+        "https://github.com/sigp/lighthouse/releases/tag/v8.2.1",
+        "https://stablecoins.llama.fi/stablecoincharts/all",
+        "https://tether.io/news/raphael-zagury-appointed-as-new-ceo-of-twenty-one-capital-jack-mallers-to-step-down",
+        "https://www.deribit.com/api/v2/public/ticker?instrument_name=BTC-PERPETUAL",
+        "https://www.deribit.com/api/v2/public/ticker?instrument_name=ETH-PERPETUAL"
+      ],
+      "fingerprints": {
+        "content_sha256": "d0c0e8c5f56246ca915c044e02a8ea812b0cbd40c8b83d5dd22dce2936a88c7f",
+        "topic_sha256": "9634ff865afeb87228640074aeb5ea5e649f6de972199739889fce02c8d99b50",
+        "quote_sha256": null,
+        "source_sha256": [
+          "f2f4b82c5bd49e2982da1d4a5217323eeef134bb66af0463c81755f5a6be7059",
+          "a92d291d920ba68fcb73671d022eb8295cae624ad51be112450efb973aadda0b",
+          "59135881861a6f29853750d59ead248b2fee3b4eec7bf47c3c870f782d268598",
+          "a6c158c1e24fe07a3661edec6c920725c649e46432fd5670cec74a55e629c670",
+          "03e91b5d3a826c57ca793f040f18fd652b7441458a9e87d04ec63d7b7165e23d",
+          "898403db2bf8011df9514c7026fc431e88f235a563462d3faca5a97bd4d01ec6",
+          "9bf84a2b744734a785492b560cf09460aff30cec0fcfb535e1efe20867d1bf55",
+          "86e713537446c796877ff169fa9a5ebcddfbe2e1ed66e4228ce10d8fa47c6d82",
+          "536c0a4685a58ff346b4665e7ebd2c395bbb6fce6e371081c6d9df2d2b598a1a",
+          "9db6457f23d96e1484a3264cc094861c1861d44683e6b86be272bdbe581cc9ad"
+        ]
+      }
+    },
     {
       "date": "2026-07-21",
       "path": "archive/2026/07/2026-07-21.md",
