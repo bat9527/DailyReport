@@ -1,178 +1,176 @@
 ---
 dedup:
-  primary_topic: "耐心照料一件小事，观察它慢慢生长"
+  primary_topic: "在成年生活的疲惫与摩擦中，跳出默认视角，主动选择注意力"
   topic_tags:
-    - 耐心照料
-    - 缓慢生长
-    - 亲近自然
+    - 成年生活
+    - 选择注意力
+    - 理解他人
   entities:
-    - Frances Hodgson Burnett
-    - Mary Lennox
-    - Colin Craven
-    - Dickon Sowerby
+    - David Foster Wallace
   works:
-    - The Secret Garden
+    - Kenyon College Commencement Address 2005
+    - This Is Water
   content_keys:
-    - frances-burnett-secret-garden-tend-small-things
-  source_type: book
-  quote: "Where you tend a rose, my lad, a thistle cannot grow."
+    - david-foster-wallace-this-is-water-conscious-attention
+  source_type: speech
+  quote: "This is water."
 ---
 
 # 英文影子跟读｜2026-07-22
 
-> 今日来源：经典书籍｜难度：A2–B1｜训练时间：约 12–15 分钟
+> 今日来源：名人演讲｜难度：A2–B1｜训练时间：约 12–15 分钟
 
 ## 一、今日声音
 
-今天打开 Frances Hodgson Burnett 的儿童文学经典 *The Secret Garden*（《秘密花园》）。故事从一座被锁住、荒废多年的花园开始，也讲三个孩子怎样在照料植物的过程中变得健康、开朗。
+今天听美国作家 David Foster Wallace 在 Kenyon College 2005 年毕业典礼上的演讲 *This Is Water*。他没有讨论怎样取得耀眼的成功，而是直面成年生活更常见的一面：疲惫、重复、拥堵、等待，以及人在这些时刻怎样不知不觉地把自己当成世界的中心。
 
-今天不追求戏剧性的改变，而是观察一种安静的力量：浇一点水、拔一棵草、每天看一眼。许多值得珍惜的东西，都在这样不起眼的照料里慢慢生长。
+这期练习一种很实际的能力：当情绪自动升起时，先意识到自己正在使用某种“默认解释”，再决定是否换一个角度。真正的自由，有时不是摆脱现实，而是不让第一反应替你决定怎样看待现实。
 
 ## 二、一句原声
 
-> Where you tend a rose, my lad, a thistle cannot grow.
+> This is water.
 
-**中文理解：** 当你用心照料玫瑰，刺蓟便没有地方生长。
+**中文理解：** 这就是水——最重要、最贴近日常的现实，往往因为太熟悉而被忽略。
 
-**出处：** Frances Hodgson Burnett，*The Secret Garden*。这两行短诗出现在小说后段，花园和孩子们都逐渐恢复生机的语境中。
+**出处：** David Foster Wallace，Kenyon College 2005 年毕业典礼演讲，后来以 *This Is Water* 为名广泛传播。
 
-**权威文本：** [Project Gutenberg｜The Secret Garden](https://www.gutenberg.org/files/17396/17396-h/17396-h.htm)
+**官方文本：** [Kenyon College Alumni Bulletin｜This Is Water](https://bulletin-archive.kenyon.edu/x4280.html)
 
 ## 三、背景故事
 
-失去父母的 Mary Lennox 被送到英国约克郡的舅舅家。她在那里发现一座封闭了十年的花园，还认识了热爱动物和植物的 Dickon，以及长期卧床、相信自己不会长大的表弟 Colin。
+演讲开头讲了一个很短的故事：两条年轻的鱼遇到一条年长的鱼，对方问候它们水里怎么样。游远以后，年轻的鱼才困惑地问彼此“水是什么”。Wallace 用这个故事提醒毕业生：人最难看见的，常常正是每天包围自己的东西。
 
-孩子们偷偷整理花园，松土、除草、观察新芽。随着花园恢复绿色，他们也开始晒太阳、运动、欢笑。这句话把“照料”写成一种选择：时间和注意力放在哪里，哪里就更有机会生长。
+随后，他把话题放进成年人的真实日常——下班后的堵车、拥挤的商店、漫长的队伍和被消耗的耐心。人在疲惫时很容易认定别人都在妨碍自己。我们无法控制所有处境，却可以觉察这种默认反应，并为另一种解释留出空间。
 
 ## 四、影子跟读短文
 
-> 以下 218 词短文为本期原创练习稿，并非小说原文。建议先用设备朗读功能以 0.85 倍速播放，再提高到正常速度。
+> 以下 225 词短文为本期原创练习稿，并非演讲原文。建议先用设备朗读功能以 0.85 倍速播放，再提高到正常速度。
 
 ### 自然阅读版
 
-A garden rarely changes in one dramatic moment. Most change is quiet. A seed opens under the soil. A tiny green leaf turns toward the sun. Roots grow where no one can see them.
+Adult life often becomes a long list of tasks. We wake up, check messages, work through meetings, stand in lines, and travel home when we are tired. On difficult days, every delay feels personal. The slow driver seems careless. The person blocking the supermarket aisle seems rude. We quickly build a story in which we are reasonable and everyone else is the problem.
 
-At first, an empty patch of earth may look disappointing. There may be stones, dry leaves, and weeds everywhere. Still, a gardener does not shout at the ground. The gardener begins with simple care: loosen the soil, plant a few seeds, add water, and wait.
+But there may be other stories. The slow driver may be taking an elderly parent to the hospital. The cashier may be finishing a second job after very little sleep. We do not know. Choosing another explanation does not mean pretending bad behavior is good. It means admitting that our first thought is not the only possible truth.
 
-The same kind of attention can brighten an ordinary day. You might keep one plant beside your window. Every morning, touch the soil and notice whether it feels dry. Turn the pot so each side receives light. Remove a yellow leaf. These actions take only a minute, but they help you slow down and look closely.
+This choice is small, but it changes the way we move through ordinary life. We become less trapped by anger. We notice our own habits. We make room for patience without becoming weak or passive.
 
-Patience does not mean doing nothing. It means giving something the time and care it needs. Some seeds appear quickly; others remain hidden for weeks. We cannot pull a young plant upward to make it grow faster.
+Awareness is not a feeling that arrives by magic. It is a practice. In a tense meeting, a crowded airport, or a quiet argument at home, we can pause before reacting. We can ask, “What am I not seeing?”
 
-Choose one small thing to tend: a plant, a sketchbook, a friendship, or a quiet corner of your room. Return to it regularly. Notice the first new shoots and the smallest changes. Growth may be slow, but with gentle attention, an ordinary place can come alive.
+Most of adulthood is not made of dramatic moments. It is made of repeated ordinary ones. The way we pay attention inside those moments slowly becomes the way we live.
 
 ### 意群训练版
 
-A **GARDEN** rarely changes / in one dramatic **MOMENT**. / Most change is **QUIET**. / A seed opens / under the **SOIL**. / A tiny green **LEAF** / turns toward the sun. / Roots grow / where no one can **SEE** them.
+Adult **LIFE** / often becomes / a long list of **TASKS**. / We wake up, / check **MESSAGES**, / work through meetings, / stand in **LINES**, / and travel home / when we are **TIRED**. / On difficult days, / every delay feels **PERSONAL**. / The slow driver / seems **CARELESS**. / The person blocking / the supermarket aisle / seems **RUDE**. / We quickly build a **STORY** / in which we are reasonable / and everyone else / is the **PROBLEM**.
 
-At first, / an empty patch of **EARTH** / may look disappointing. / There may be **STONES**, / dry leaves, / and weeds everywhere. / Still, / a gardener does not **SHOUT** / at the ground. / The gardener begins / with simple **CARE**: / loosen the soil, / plant a few **SEEDS**, / add water, / and **WAIT**.
+But there may be / other **STORIES**. / The slow driver / may be taking / an elderly **PARENT** / to the hospital. / The cashier may be finishing / a second **JOB** / after very little sleep. / We do not **KNOW**. / Choosing another explanation / does not mean pretending / bad behavior is **GOOD**. / It means admitting / that our first **THOUGHT** / is not the only / possible **TRUTH**.
 
-The same kind of **ATTENTION** / can brighten / an ordinary **DAY**. / You might keep one **PLANT** / beside your window. / Every morning, / touch the soil / and notice / whether it feels **DRY**. / Turn the pot / so each side receives **LIGHT**. / Remove a yellow **LEAF**. / These actions take / only a **MINUTE**, / but they help you slow **DOWN** / and look closely.
+This **CHOICE** is small, / but it changes the way / we move through ordinary **LIFE**. / We become less trapped / by **ANGER**. / We notice / our own **HABITS**. / We make room for **PATIENCE** / without becoming weak / or **PASSIVE**.
 
-Patience does not mean / doing **NOTHING**. / It means giving something / the time and **CARE** it needs. / Some seeds appear **QUICKLY**; / others remain hidden / for **WEEKS**. / We cannot pull / a young plant upward / to make it grow **FASTER**.
+Awareness is not / a **FEELING** / that arrives by magic. / It is a **PRACTICE**. / In a tense meeting, / a crowded **AIRPORT**, / or a quiet argument / at **HOME**, / we can pause / before **REACTING**. / We can ask, / “What am I not **SEEING**?”
 
-Choose one small thing / to **TEND**: / a plant, / a sketchbook, / a **FRIENDSHIP**, / or a quiet corner / of your room. / Return to it **REGULARLY**. / Notice the first new **SHOOTS** / and the smallest changes. / Growth may be **SLOW**, / but with gentle attention, / an ordinary place / can come **ALIVE**.
+Most of **ADULTHOOD** / is not made of / dramatic moments. / It is made of / repeated ordinary **ONES**. / The way we pay **ATTENTION** / inside those moments / slowly becomes / the way we **LIVE**.
 
 ## 五、中文理解
 
-花园很少在某个戏剧性的瞬间完全改变。种子在土里打开，根在看不见的地方延伸，这些变化安静而缓慢。园丁不会催促土地，只会松土、播种、浇水，然后等待。
+成年生活常常变成一串连续的任务：消息、会议、排队、通勤。疲惫的时候，每一次延误都像是冲着自己来的，我们很快就会在脑中写出一个故事——自己合理，别人都在制造麻烦。
 
-我们也可以在日常生活里练习这种注意力：照顾窗边的一盆植物，翻开一本速写簿，维护一段友谊，或整理房间里的安静角落。耐心不是无所事事，而是持续给予一件事所需要的时间和照料。
+但事实也可能有另一面。慢行的司机也许正载着年迈的家人去医院，反应迟缓的收银员也许刚做完另一份工作。换一种解释，不等于纵容不好的行为，而是承认第一反应未必就是全部事实。觉察需要练习：在会议、机场或家庭争执中，先暂停一下，问自己“我还有什么没有看见？”成年生活由大量普通瞬间组成，而我们在这些瞬间怎样分配注意力，最终会塑造我们的生活方式。
 
 ## 六、发音与节奏
 
-### 今日重点：复数和第三人称 -s 的三种读法
+### 今日重点：功能词弱读
 
-词尾的 `-s` 会根据前一个音变化，不要每次都读成单独的 “si”：
+自然英语不会平均用力。`and`、`to`、`can` 等功能词通常弱读，把节奏让给真正传递信息的内容词：
 
-1. **plants** /plænts/：在清辅音 /t/ 后读 /s/，结尾保持短促。
-2. **seeds** /siːdz/：在浊音 /d/ 后读 /z/，声带继续振动。
-3. **roses** /ˈroʊzɪz/：在 /z/ 后读 /ɪz/，增加一个音节。
+1. **stand in lines, and travel home**：`and` 常弱读为 /ən/ 或 /n/，不要单独重读。
+2. **to the hospital**：`to` 常弱读为 /tə/，快速连到后面的 `the`。
+3. **we can pause**：肯定句里的 `can` 常弱读为 /kən/；重音落在 **pause**。
 
-先对比 `plant—plants`、`seed—seeds`、`rose—roses`，再放回短文。意群末尾的 **quiet、wait、down、alive** 要落稳，中间的小词轻读，避免逐词停顿。
+先慢读完整形式，再逐渐减轻功能词。重读 **tasks、tired、truth、choice、attention**，句子会更像自然表达，而不是逐词报读。
 
 ## 七、五个核心表达
 
-### 1. tend /tend/ 动词
+### 1. default /dɪˈfɔːlt/ 形容词
 
-**中文：** 照料；照管
+**中文：** 默认的；自动采用的
 
-**常见搭配：** tend a garden、tend the plants、carefully tend
+**常见搭配：** default setting、default reaction、by default
 
-**例句：** My grandfather tends a small vegetable garden behind his house.  
-我的祖父照料着屋后的一小片菜园。
+**例句：** My default reaction is to defend myself before I listen.<br>
+我的默认反应是在认真听之前先为自己辩解。
 
-### 2. take root /teɪk ruːt/ 动词短语
+### 2. assume /əˈsuːm/ 动词
 
-**中文：** 生根；扎根
+**中文：** 假定；想当然地认为
 
-**常见搭配：** begin to take root、take root in soil、ideas take root
+**常见搭配：** assume that、wrongly assume、do not assume
 
-**例句：** The cutting took root after several weeks in water.  
-这根插枝在水中放了几周后生了根。
+**例句：** I assumed he was ignoring me, but his phone had no signal.<br>
+我以为他故意不理我，其实他的手机没有信号。
 
-### 3. patient /ˈpeɪʃənt/ 形容词
+### 3. perspective /pərˈspektɪv/ 名词
 
-**中文：** 有耐心的
+**中文：** 视角；看问题的方式
 
-**常见搭配：** be patient with、a patient gardener、patient enough to wait
+**常见搭配：** a different perspective、change your perspective、from my perspective
 
-**例句：** Be patient with the seeds; they need more time and warmth.  
-对这些种子耐心一点，它们需要更多时间和温暖。
+**例句：** Her question helped me see the problem from a different perspective.<br>
+她的问题帮助我从不同的角度看待这件事。
 
-### 4. pay attention to /peɪ əˈtenʃən tuː/ 动词短语
+### 4. react /riˈækt/ 动词
 
-**中文：** 留意；认真观察
+**中文：** 作出反应
 
-**常见搭配：** pay close attention to、pay attention to changes、pay attention to details
+**常见搭配：** react quickly、react to criticism、pause before reacting
 
-**例句：** Pay attention to the color of the leaves before you add more water.  
-再次浇水前，先留意叶子的颜色。
+**例句：** I took one breath before I reacted to the angry message.<br>
+看到那条愤怒的信息后，我先呼吸了一下才作出回应。
 
-### 5. come alive /kʌm əˈlaɪv/ 动词短语
+### 5. make room for /meɪk ruːm fər/ 动词短语
 
-**中文：** 恢复生机；变得鲜活
+**中文：** 为……留出空间；容纳
 
-**常见搭配：** slowly come alive、come alive in spring、make a place come alive
+**常见搭配：** make room for doubt、make room for others、make room for change
 
-**例句：** After the first spring rain, the whole park came alive.  
-第一场春雨过后，整座公园恢复了生机。
+**例句：** A good discussion makes room for more than one opinion.<br>
+好的讨论能容纳不止一种观点。
 
 ## 八、四轮影子跟读
 
 | 轮次 | 时间 | 练习方式 |
 |---|---:|---|
-| 听懂 | 2 分钟 | 听自然阅读版 1 次，只理解“照料与缓慢生长”的主线。 |
-| 分块 | 4 分钟 | 按斜线逐块跟读 2 次；第二次突出粗体重读词。 |
-| 影子 | 4 分钟 | 0.85 倍速跟读 2 次，再以正常速度跟读 1 次；注意三种 -s 结尾。 |
-| 脱稿 | 2–3 分钟 | 只看 soil、water、wait、come alive 四个提示复述。 |
+| 听懂 | 2 分钟 | 听自然阅读版 1 次，只抓住“默认反应—另一种解释—主动选择”的主线。 |
+| 分块 | 4 分钟 | 按斜线逐块跟读 2 次；第二次突出粗体内容词，减轻功能词。 |
+| 影子 | 4 分钟 | 0.85 倍速跟读 2 次，再以正常速度跟读 1 次；注意 `and`、`to`、`can` 的弱读。 |
+| 脱稿 | 2–3 分钟 | 只看 traffic、another story、pause、attention 四个提示复述。 |
 
 ## 九、开口迁移
 
-**问题：** What is one small thing you would like to tend more patiently?
+**问题：** Tell me about a time when your first impression of someone was wrong.
 
 **参考回答：**
 
-I would like to take better care of the small plant near my window. I often forget to check the soil, so some leaves become dry. From now on, I will pay attention to it every morning. I will turn the pot, remove old leaves, and give it water only when the soil feels dry. I know it will not change in one day, so I need to be patient. I hope new roots and leaves will appear slowly. Watching the plant come alive may also help me slow down.
+Last month, a colleague answered me very briefly during a meeting. My default reaction was to assume that he disagreed with me or did not respect my idea. I felt annoyed, but I did not react immediately. Later, I learned that he had received an urgent family message and was worried. That information changed my perspective. His short answer was not really about me. The experience reminded me to pause before reacting and make room for another explanation. I still ask clear questions when communication feels wrong, but I try not to treat my first impression as the complete truth.
 
 **三个可复用句型：**
 
-1. I would like to take better care of ___.
-2. From now on, I will pay attention to ___.
-3. I know it will not change in one day, so I need to ___.
+1. My default reaction was to assume that ___.
+2. Later, I learned that ___, and it changed my perspective.
+3. The experience reminded me to pause before ___.
 
 **自检清单：**
 
 - 是否说满 30–60 秒
-- 是否使用 tend、patient、come alive 等至少两个核心表达
-- 是否区分 plants /s/、seeds /z/、roses /ɪz/
-- 是否说清楚“想照料什么、准备怎样做、期待什么变化”
+- 是否使用 default、assume、perspective 等至少两个核心表达
+- 是否弱读 `and`、`to`、`can`，并突出内容词
+- 是否说清楚“第一印象、后来得知的事实、观点怎样改变”
 
 ## 十、今日带走
 
-> Gentle attention gives quiet things room to grow.
+> Attention is a choice we make inside ordinary moments.
 
-温柔的关注，会给安静的事物留下生长空间。
+注意力，是我们在每一个普通瞬间里作出的选择。
 
 ---
 
-**来源说明：** 作者、作品、人物、故事背景和短句均由 Project Gutenberg 公版全文核验；本期仅引用 11 个英文单词，其余英文训练内容均为原创。
+**来源说明：** 人物、演讲时间、开场故事和主题均由 Kenyon College 官方校友刊演讲全文核验；本期仅引用 3 个英文单词，其余英文训练内容均为原创。
