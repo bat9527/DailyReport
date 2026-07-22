@@ -7,9 +7,64 @@
   "recurring_topic_tags": [],
   "recurring_entities": [],
   "recurring_source_hosts": [],
-  "latest_archive_date": "2026-07-22",
-  "entry_count": 5,
+  "latest_archive_date": "2026-07-23",
+  "entry_count": 6,
   "entries": [
+    {
+      "date": "2026-07-23",
+      "path": "archive/2026/07/2026-07-23.md",
+      "title": "金融科技出海日报｜2026-07-23",
+      "primary_topic": "国家即时支付基础设施与商户金融科技平台同步扩张，中国跨境支付能力获得大额资金和真实交易验证",
+      "topic_tags": [
+        "即时支付系统",
+        "商户金融科技",
+        "跨境支付",
+        "央行数字货币"
+      ],
+      "entities": [
+        "Central Bank of the Republic of Guinea",
+        "NimbaPay",
+        "AfricaNenda Foundation",
+        "Pepkor Holdings",
+        "Flash",
+        "Shop2Shop",
+        "Bank of China",
+        "Ant International"
+      ],
+      "works": [],
+      "content_keys": [
+        "guinea-nimbapay-national-instant-payment-system-launch-2026-07-22",
+        "pepkor-flash-shop2shop-fintechco-combination-2026-07-22",
+        "bank-of-china-mbridge-hundred-billion-transactions-disclosure-2026-07-21",
+        "ant-international-series-a-1-2-billion-2026-07-21"
+      ],
+      "source_type": null,
+      "quote": null,
+      "allow_repeat": false,
+      "repeat_reason": null,
+      "summary": "金融科技出海日报｜2026-07-23 北京时间｜核心窗口：2026-07-22 06:03 至 2026-07-23 06:03（最近 24 小时）｜补充窗口：2026-07-21 06:03 起｜预计阅读：10–12 分钟 一、今日速览 本期收录 4 条新增。非洲的两条核心变化分别发生在公共基础设施和商业平台层：几内亚上线国家即时支付系统 NimbaPay，打通银行、电子货币机构和小额信贷机构；南非 Pepkor 则计划把 Flash 与 Shop2Shop…",
+      "source_urls": [
+        "https://africanenda.org/guinea-launches-nimbapay-opening-a-new-era-of-instant-and-inclusive-digital-payments",
+        "https://www.boc.cn/aboutboc/bi1/202607/t20260721_25680559.html",
+        "https://www.businesswire.com/news/home/20260720424592/en",
+        "https://www.moneyweb.co.za/mny_sens/pepkor-holdings-limited-pepkor-to-acquire-controlling-stake-in-transformational-fintech-platform-through-combination-of-flash-and-shop2shop",
+        "https://www.moneyweb.co.za/news/companies-and-deals/pepkor-to-create-r21-3bn-fintech-platform-by-merging-flash-and-shop2shop",
+        "https://www.reuters.com/world/asia-pacific/ant-international-raises-12-billion-global-expansion-push-2026-07-21"
+      ],
+      "fingerprints": {
+        "content_sha256": "bd13fda4c0ba659448b623ddde78679598d20e448f0ed31366cbee2ce8359b16",
+        "topic_sha256": "d3afbfeb1e86884ceff8d4150e6cdf6e9b2db7a6e7298ed1ee947b835560f218",
+        "quote_sha256": null,
+        "source_sha256": [
+          "f0347bb0d15b1f41bc00253bd7e6d0c64e02b97bcfd990620379169ff822d63d",
+          "3f3fd65f12e867267cb31a5725d86626b6e94f46125d6a9ccaf5eeb35af1fa91",
+          "02e51e9995e9ba26a89f7be6810fee5003c0f7b34cd2652ca81546e14fe793e9",
+          "f7fcd9b4ee7cf5cbd734cca8a6d20c5a7cc1cfcef050e59009546887d7c97a4e",
+          "e86092415d3bfee71b71292f698d2672274d493d59b3cfdcad684c66ffc2816d",
+          "38c6907cfe95cf85548ca9afb0f45d2cb69732a6cac7072e0b36ba60c2d34e7c"
+        ]
+      }
+    },
     {
       "date": "2026-07-22",
       "path": "archive/2026/07/2026-07-22.md",
