@@ -17,10 +17,16 @@ reading_and_practice:
   shadowing_script_words_max: 250
   key_terms: 5
 
+audience:
+  profile: experienced_adult
+  adult_relevance_required: true
+  exclude_children_literature: true
+  exclude_animation: true
+
 source_mix:
-  speeches_and_interviews: 0.40
-  books: 0.30
-  films: 0.30
+  speeches_and_interviews: 0.60
+  books: 0.20
+  films: 0.20
 
 rotation:
   same_source_cooldown_days: 30
