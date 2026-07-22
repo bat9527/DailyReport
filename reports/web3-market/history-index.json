@@ -22,9 +22,78 @@
     "api.llama.fi",
     "stablecoins.llama.fi"
   ],
-  "latest_archive_date": "2026-07-22",
-  "entry_count": 4,
+  "latest_archive_date": "2026-07-23",
+  "entry_count": 5,
   "entries": [
+    {
+      "date": "2026-07-23",
+      "path": "archive/2026/07/2026-07-23.md",
+      "title": "Web3 行情与生态日报｜2026-07-23",
+      "primary_topic": "BTC 回落而 ETH 相对走强，永续杠杆同步降温",
+      "topic_tags": [
+        "BTC",
+        "ETH",
+        "行情",
+        "ETH相对走强",
+        "杠杆降温",
+        "链上费用回升"
+      ],
+      "entities": [
+        "Bitcoin",
+        "BTC",
+        "Ethereum",
+        "ETH",
+        "Uniswap Labs",
+        "Spark",
+        "Optimism",
+        "OP Labs",
+        "Hester Peirce",
+        "U.S. SEC"
+      ],
+      "works": [],
+      "content_keys": [
+        "btc-eth-divergence-and-leverage-cooling-2026-07-23",
+        "uniswap-dualpool-hook-live-2026-07-22",
+        "optimism-op-challenger-v1-9-4-2026-07-22",
+        "hester-peirce-crypto-vaults-securities-perimeter-2026-07-22"
+      ],
+      "source_type": null,
+      "quote": null,
+      "allow_repeat": false,
+      "repeat_reason": null,
+      "summary": "Web3 行情与生态日报｜2026-07-23 行情快照：2026-07-23 06:04（北京时间）｜加密资产 24/7 交易，无统一收盘价｜预计阅读：12–15 分钟 本文只用于市场学习和风险观察，不构成投资建议，也不读取任何个人持仓或钱包信息。 一、三句话看市场 BTC 报 65,969 美元、24 小时跌 0.53%，ETH 报 1,934.84 美元、涨 0.72%；ETH/BTC 回升至 0.02933，市场从昨日的 BTC 领涨转为温和分化。Deribit 上…",
+      "source_urls": [
+        "https://api.coingecko.com/api/v3/coins/markets?ids=bitcoin%2Cethereum&price_change_percentage=24h%2C7d%2C30d&vs_currency=usd",
+        "https://api.coingecko.com/api/v3/global",
+        "https://api.llama.fi/overview/dexs/Ethereum",
+        "https://api.llama.fi/overview/fees/Ethereum",
+        "https://api.llama.fi/v2/historicalChainTvl/Ethereum",
+        "https://blog.uniswap.org/dualpool-hook-is-now-live",
+        "https://github.com/ethereum-optimism/optimism/releases/tag/op-challenger/v1.9.4",
+        "https://stablecoins.llama.fi/stablecoincharts/all",
+        "https://www.deribit.com/api/v2/public/ticker?instrument_name=BTC-PERPETUAL",
+        "https://www.deribit.com/api/v2/public/ticker?instrument_name=ETH-PERPETUAL",
+        "https://www.sec.gov/newsroom/speeches-statements/peirce-statement-crypto-vaults-lending-strategies-072226"
+      ],
+      "fingerprints": {
+        "content_sha256": "e7ede965c5885b15c54dd58721cb1794ed4252c0bac820a1edb39186129c9abc",
+        "topic_sha256": "6a8620cbc207ca39eef898173a6196fcc6fe9164bbb3264f777bc3dd830d3121",
+        "quote_sha256": null,
+        "source_sha256": [
+          "f2f4b82c5bd49e2982da1d4a5217323eeef134bb66af0463c81755f5a6be7059",
+          "a92d291d920ba68fcb73671d022eb8295cae624ad51be112450efb973aadda0b",
+          "59135881861a6f29853750d59ead248b2fee3b4eec7bf47c3c870f782d268598",
+          "a6c158c1e24fe07a3661edec6c920725c649e46432fd5670cec74a55e629c670",
+          "03e91b5d3a826c57ca793f040f18fd652b7441458a9e87d04ec63d7b7165e23d",
+          "744381deb63391a813bd31a70554827287b79761abf448c052e7ec4bb2ad4621",
+          "0fdfc53bad1fac97c0c3a0b8fec5c9fd6d601e216447e8a8a5c54b6a9b7c0aa9",
+          "9bf84a2b744734a785492b560cf09460aff30cec0fcfb535e1efe20867d1bf55",
+          "536c0a4685a58ff346b4665e7ebd2c395bbb6fce6e371081c6d9df2d2b598a1a",
+          "9db6457f23d96e1484a3264cc094861c1861d44683e6b86be272bdbe581cc9ad",
+          "3acba1f43b3b65e8c8a5e7f1c32e53eb456e3532487e1c7dded4fc9c986fe839"
+        ]
+      }
+    },
     {
       "date": "2026-07-22",
       "path": "archive/2026/07/2026-07-22.md",
