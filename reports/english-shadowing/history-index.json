@@ -7,9 +7,48 @@
   "recurring_topic_tags": [],
   "recurring_entities": [],
   "recurring_source_hosts": [],
-  "latest_archive_date": "2026-07-22",
-  "entry_count": 5,
+  "latest_archive_date": "2026-07-23",
+  "entry_count": 6,
   "entries": [
+    {
+      "date": "2026-07-23",
+      "path": "archive/2026/07/2026-07-23.md",
+      "title": "英文影子跟读｜2026-07-23",
+      "primary_topic": "在一切看似正确时，审视自己是否活得真实",
+      "topic_tags": [
+        "生命审视",
+        "外界认可",
+        "真实选择"
+      ],
+      "entities": [
+        "Leo Tolstoy",
+        "Ivan Ilyich"
+      ],
+      "works": [
+        "The Death of Ivan Ilyich"
+      ],
+      "content_keys": [
+        "leo-tolstoy-ivan-ilyich-proper-life-self-examination"
+      ],
+      "source_type": "book",
+      "quote": "Maybe I did not live as I ought to have done.",
+      "allow_repeat": false,
+      "repeat_reason": null,
+      "summary": "英文影子跟读｜2026-07-23 今日来源：成人经典书籍｜难度：A2–B1｜训练时间：约 12–15 分钟 一、今日声音 今天读 Leo Tolstoy 的中篇小说 The Death of Ivan Ilyich（《伊凡·伊里奇之死》）。主人公有体面的职业、合宜的生活和旁人认可的身份；直到重病逼近生命终点，他才开始怀疑：自己一直“做得正确”，是否等于真正活得真实。…",
+      "source_urls": [
+        "https://pressbooks.nvcc.edu/eng255/chapter/the-death-of-ivan-ilych-leo-tolstoy",
+        "https://www.penguin.co.uk/books/288723/the-death-of-ivan-ilyich-and-other-stories-by-tolstoy-leo/9780141912455"
+      ],
+      "fingerprints": {
+        "content_sha256": "0db161509ee5da9140a1836b2d7b014dea7ee275881e9432bdc088840270f015",
+        "topic_sha256": "898c0145c476d3e313dbdb40a220dc442b6d36cd2ab04f0d3db4edd1d7d4a12b",
+        "quote_sha256": "6aaea725dec4eeeb0289b1d27ef12ecadbc24defc55b3a2784fd690591f95020",
+        "source_sha256": [
+          "30e6ecc08a7a8361f7f1d10ce043bbeafcc5c4838c317d5ef9a3c03bd3d76ce3",
+          "46a31b1ee442205180229f8b3598dafdfe6c41846f5defdc886608c496008d71"
+        ]
+      }
+    },
     {
       "date": "2026-07-22",
       "path": "archive/2026/07/2026-07-22.md",
