@@ -14,38 +14,36 @@
       "date": "2026-07-22",
       "path": "archive/2026/07/2026-07-22.md",
       "title": "英文影子跟读｜2026-07-22",
-      "primary_topic": "耐心照料一件小事，观察它慢慢生长",
+      "primary_topic": "在成年生活的疲惫与摩擦中，跳出默认视角，主动选择注意力",
       "topic_tags": [
-        "耐心照料",
-        "缓慢生长",
-        "亲近自然"
+        "成年生活",
+        "选择注意力",
+        "理解他人"
       ],
       "entities": [
-        "Frances Hodgson Burnett",
-        "Mary Lennox",
-        "Colin Craven",
-        "Dickon Sowerby"
+        "David Foster Wallace"
       ],
       "works": [
-        "The Secret Garden"
+        "Kenyon College Commencement Address 2005",
+        "This Is Water"
       ],
       "content_keys": [
-        "frances-burnett-secret-garden-tend-small-things"
+        "david-foster-wallace-this-is-water-conscious-attention"
       ],
-      "source_type": "book",
-      "quote": "Where you tend a rose, my lad, a thistle cannot grow.",
+      "source_type": "speech",
+      "quote": "This is water.",
       "allow_repeat": false,
       "repeat_reason": null,
-      "summary": "英文影子跟读｜2026-07-22 今日来源：经典书籍｜难度：A2–B1｜训练时间：约 12–15 分钟 一、今日声音 今天打开 Frances Hodgson Burnett 的儿童文学经典 The Secret Garden（《秘密花园》）。故事从一座被锁住、荒废多年的花园开始，也讲三个孩子怎样在照料植物的过程中变得健康、开朗。 今天不追求戏剧性的改变，而是观察一种安静的力量：浇一点水、拔一棵草、每天看一眼。许多值得珍惜的东西，都在这样不起眼的照料里慢慢生长。…",
+      "summary": "英文影子跟读｜2026-07-22 今日来源：名人演讲｜难度：A2–B1｜训练时间：约 12–15 分钟 一、今日声音 今天听美国作家 David Foster Wallace 在 Kenyon College 2005 年毕业典礼上的演讲 This Is Water。他没有讨论怎样取得耀眼的成功，而是直面成年生活更常见的一面：疲惫、重复、拥堵、等待，以及人在这些时刻怎样不知不觉地把自己当成世界的中心。…",
       "source_urls": [
-        "https://www.gutenberg.org/files/17396/17396-h/17396-h.htm"
+        "https://bulletin-archive.kenyon.edu/x4280.html"
       ],
       "fingerprints": {
-        "content_sha256": "b7d4af39caa454b63ce9df2cf1abfe9d824cc4f1dbe37028b31b9f70a9aee4c4",
-        "topic_sha256": "d4afbf5c186975cf38312efeb1adb0d7afe066890360f0a93e7e1a357bf4bad8",
-        "quote_sha256": "c459993dc06bd0ea3094d6673b845812ca3b12d14895f18243c0f935384a5abe",
+        "content_sha256": "1665679752f52c03fefe17925a5509412ea64a7c558f0448b998cb263fca5739",
+        "topic_sha256": "7e79e9dc6e90a605f86c11853a5da8c67bffc8797f2d3617734772ea195781ae",
+        "quote_sha256": "06e7d46357387c751f0a2e42cf7a172daf31fda22c852b2d09ea9dda3a3217c3",
         "source_sha256": [
-          "f3edb039f87755d0396a6a734942a172e1baecdce6b68f7c5fad774e482903af"
+          "7a1f653c5f053371e32c64aa544a1ddbd17ecd0203f00675c61a149e3a6579ff"
         ]
       }
     },
