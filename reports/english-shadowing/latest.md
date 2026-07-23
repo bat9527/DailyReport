@@ -1,180 +1,175 @@
 ---
 dedup:
-  primary_topic: "在一切看似正确时，审视自己是否活得真实"
+  primary_topic: "经历长期伤害后，在真相与责任之上选择修复，而不是让过去继续支配未来"
   topic_tags:
-    - 生命审视
-    - 外界认可
-    - 真实选择
+    - 修复伤害
+    - 和解与责任
+    - 打破循环
   entities:
-    - Leo Tolstoy
-    - Ivan Ilyich
+    - Nelson Mandela
   works:
-    - The Death of Ivan Ilyich
+    - 1994 Presidential Inauguration Address
   content_keys:
-    - leo-tolstoy-ivan-ilyich-proper-life-self-examination
-  source_type: book
-  quote: "Maybe I did not live as I ought to have done."
+    - nelson-mandela-inauguration-healing-with-truth-accountability
+  source_type: speech
+  quote: "The time for the healing of the wounds has come."
 ---
 
-# 英文影子跟读｜2026-07-23
+# 英文影子跟读｜2026-07-24
 
-> 今日来源：成人经典书籍｜难度：A2–B1｜训练时间：约 12–15 分钟
+> 今日来源：名人演讲｜难度：A2–B1｜训练时间：约 12–15 分钟
 
 ## 一、今日声音
 
-今天读 Leo Tolstoy 的中篇小说 *The Death of Ivan Ilyich*（《伊凡·伊里奇之死》）。主人公有体面的职业、合宜的生活和旁人认可的身份；直到重病逼近生命终点，他才开始怀疑：自己一直“做得正确”，是否等于真正活得真实。
+今天听 Nelson Mandela 在 1994 年南非总统就职典礼上的演说。经历 27 年牢狱、种族隔离制度和长期政治冲突之后，他面对的不是一个简单的胜利时刻，而是怎样避免新国家继续被仇恨和报复撕裂。
 
-这不是鼓励人冲动地推翻现有生活，而是练习一个成年人值得偶尔问的问题：如果掌声、职位和体面暂时消失，什么仍然对我重要？
+Mandela 选择谈“疗愈伤口”。这不是遗忘过去，也不是取消正义，而是在承认真相与责任之后，拒绝让伤害无限复制。
 
 ## 二、一句原声
 
-> Maybe I did not live as I ought to have done.
+> The time for the healing of the wounds has come.
 
-**中文理解：** 也许，我过去并没有按照真正应该的方式生活。
+**中文理解：** 疗愈创伤的时刻已经到来。
 
-**出处：** Leo Tolstoy，*The Death of Ivan Ilyich* 第九章。Ivan 在病痛与死亡临近时产生这个念头，随即又以“我明明什么都做得很正确”来否定它。
+**出处：** Nelson Mandela，南非民主共和国总统就职演说，Pretoria，1994 年 5 月 10 日。
 
-**文本入口：** [Northern Virginia Community College｜The Death of Ivan Ilyich](https://pressbooks.nvcc.edu/eng255/chapter/the-death-of-ivan-ilych-leo-tolstoy/)｜[Penguin Classics｜作品介绍](https://www.penguin.co.uk/books/288723/the-death-of-ivan-ilyich-and-other-stories-by-tolstoy-leo/9780141912455)
+**官方来源：** [South African Government｜演讲全文](https://www.gov.za/news/speeches/president-nelson-mandela-1994-presidential-inauguration-10-may-1994)｜[Nelson Mandela Foundation Archive](https://archive.nelsonmandela.org/za-com-mr-s-176)
 
 ## 三、背景故事
 
-Ivan Ilyich 是一名法官。他按照社会认可的路线生活：追求升迁、布置体面的住所，也努力与令人不舒服的事情保持距离。一次看似普通的受伤逐渐变成无法治愈的疾病。家人和医生不断谈论治疗，却很少有人诚实面对他正在死亡的事实。
+1994 年，南非举行首次全民参与的民主选举，Mandela 成为该国首位黑人总统。在此之前，他因反对种族隔离制度被监禁 27 年。
 
-当原有身份不能再保护他时，Ivan 才发现，“符合规则”与“忠于内心”并不是同一件事。小说的力量不在于给出简单答案，而在于把问题留给仍有时间的人。
+就职时，旧制度造成的死亡、贫困、恐惧和愤怒都没有自动消失。新政府还必须让曾经互为敌人的群体生活在同一个国家。Mandela 的“疗愈”因此不是柔弱的姿态，而是一项艰难责任：面对历史、保护人的尊严，同时阻止下一轮报复成为新的制度。
 
 ## 四、影子跟读短文
 
-> 以下 226 词短文为本期原创练习稿，并非小说原文。建议先用设备朗读功能以 0.85 倍速播放，再提高到正常速度。
+> 以下 229 词短文为本期原创练习稿，并非演讲原文。建议先用设备朗读功能以 0.85 倍速播放，再提高到正常速度。
 
 ### 自然阅读版
 
-A life can look successful from the outside. The job is respectable. The home is comfortable. Other people approve of our choices. We follow the expected path, solve the next problem, and move toward the next goal. Nothing seems seriously wrong.
+After deep conflict, people are often offered two bad choices. They can remain trapped in anger, or they can pretend that nothing happened. Real healing asks for something harder.
 
-Yet a quiet question may remain: Is this life truly mine?
+It begins with truth. A wound cannot heal well when it is hidden. People need to name the harm, listen to those who suffered, and hold the responsible person accountable. Without truth, calls for peace may simply protect the powerful.
 
-This question does not mean that duty, stability, or success is false. Adults carry real responsibilities. Bills must be paid. Families need care. Promises matter. But while meeting these duties, we can slowly lose sight of what gives our life meaning. We may protect an image while ignoring a relationship. We may keep saying yes because no would disappoint someone.
+But truth alone is not enough. If every injury creates another injury, the past keeps controlling the future. Breaking that cycle does not mean excusing cruelty. It means refusing to copy it. Justice can set limits and protect people without turning pain into endless revenge.
 
-It is easy to delay honest reflection. We tell ourselves that there will be time later, after the next deadline or the next difficult season. But “later” can become a habit.
+The same tension appears in adult relationships. A friend may break our trust. A relative may carry an old conflict for years. A partner may offer an apology after causing real harm. Healing may include an honest conversation, a firm boundary, or a decision to leave. Some relationships can be rebuilt; others should end. Reconciliation cannot be forced.
 
-We do not need a crisis to take stock of our lives. We can begin with a calm hour and a few direct questions. What am I doing only for public approval? Which relationship needs more truth? What important part of myself have I pushed aside?
-
-An honest answer may not require a dramatic change. Sometimes it asks for one clear conversation, one firm boundary, or one choice that feels more truthful. A good life need not look perfect. It should feel awake.
+What matters is that the wound no longer makes every future choice for us. We remember what happened, learn from it, and protect what must be protected. Then, slowly, we make room for a life that is larger than the injury. The past remains part of the story, but it does not have to write the ending.
 
 ### 意群训练版
 
-A life can look **SUCCESSFUL** / from the outside. / The job is **RESPECTABLE**. / The home is **COMFORTABLE**. / Other people approve / of our **CHOICES**. / We follow the expected **PATH**, / solve the next problem, / and move toward / the next **GOAL**. / Nothing seems seriously **WRONG**.
+After deep **CONFLICT**, / people are often offered / two bad **CHOICES**. / They can remain trapped / in **ANGER**, / or they can pretend / that nothing **HAPPENED**. / Real healing asks / for something **HARDER**.
 
-Yet a quiet **QUESTION** / may remain: / Is this life / truly **MINE**?
+It begins with **TRUTH**. / A wound cannot heal **WELL** / when it is hidden. / People need to name the **HARM**, / listen to those / who **SUFFERED**, / and hold the responsible person **ACCOUNTABLE**. / Without truth, / calls for **PEACE** / may simply protect / the **POWERFUL**.
 
-This question does not mean / that **DUTY**, / stability, / or success is false. / Adults carry / real **RESPONSIBILITIES**. / Bills must be **PAID**. / Families need **CARE**. / Promises **MATTER**. / But while meeting these duties, / we can slowly lose **SIGHT** / of what gives our life **MEANING**. / We may protect an **IMAGE** / while ignoring a relationship. / We may keep saying **YES** / because no would disappoint / someone.
+But truth alone / is not **ENOUGH**. / If every injury creates / another **INJURY**, / the past keeps controlling / the **FUTURE**. / Breaking that **CYCLE** / does not mean / excusing cruelty. / It means refusing / to **COPY** it. / Justice can set **LIMITS** / and protect people / without turning pain / into endless **REVENGE**.
 
-It is easy / to delay honest **REFLECTION**. / We tell ourselves / that there will be time **LATER**, / after the next deadline / or the next difficult **SEASON**. / But “later” / can become a **HABIT**.
+The same tension appears / in adult **RELATIONSHIPS**. / A friend may break / our **TRUST**. / A relative may carry / an old conflict / for **YEARS**. / A partner may offer / an **APOLOGY** / after causing real harm. / Healing may include / an honest **CONVERSATION**, / a firm **BOUNDARY**, / or a decision to **LEAVE**. / Some relationships / can be **REBUILT**; / others should end. / Reconciliation cannot be **FORCED**.
 
-We do not need a **CRISIS** / to take stock / of our lives. / We can begin / with a calm **HOUR** / and a few direct questions. / What am I doing / only for public **APPROVAL**? / Which relationship / needs more **TRUTH**? / What important part of myself / have I pushed **ASIDE**?
-
-An honest **ANSWER** / may not require / a dramatic change. / Sometimes it asks for / one clear **CONVERSATION**, / one firm **BOUNDARY**, / or one choice / that feels more **TRUTHFUL**. / A good life / need not look **PERFECT**. / It should feel **AWAKE**.
+What matters / is that the wound / no longer makes / every future **CHOICE** for us. / We remember what happened, / learn from it, / and protect / what must be **PROTECTED**. / Then, slowly, / we make room / for a life / that is larger than the **INJURY**. / The past remains / part of the **STORY**, / but it does not have to / write the **ENDING**.
 
 ## 五、中文理解
 
-一段人生从外部看可以完全成功：职业体面、生活稳定、选择也得到别人认可。但我们在承担账单、家庭和承诺等真实责任时，仍可能慢慢忽略一段关系、压下自己的真实想法，或者因为害怕令人失望而不断答应。
+深刻冲突之后，人们常被推向两个极端：一直困在愤怒里，或者假装什么都没有发生。真正的修复更困难，它从说出真相、倾听受害者和追究责任开始；否则，“和平”可能只是在保护强者。
 
-审视生活不等于否定责任，也不一定要求剧烈改变。它可能只需要一次坦诚谈话、一条清楚的边界，或一个更忠于自己的选择。关键不是让人生看上去完美，而是让自己保持清醒。
+但如果每次伤害都制造下一次伤害，过去便会不断控制未来。打破循环不等于宽恕残酷，也不要求恢复所有关系。修复可能意味着坦诚对话、设立边界，甚至清醒地离开。目标不是抹去过去，而是不再让伤口替我们决定此后的全部人生。
 
 ## 六、发音与节奏
 
-### 今日重点：用对比重音说出思想转折
+### 今日重点：辅音相遇时保持连贯，不额外加元音
 
-英语表达观点时，转折两边的关键词通常要重读，中间的功能词则轻读。这样比平均用力地读每个单词更自然。
+中文母语者遇到连续辅音时，容易在中间加入一个“呃”音。今天练习让辅音轻轻相接：
 
-1. I did everything **PROPERLY**, / but did I live **HONESTLY**?
-2. The life looked **SUCCESSFUL**, / but it did not feel **TRUE**.
-3. You do not need a **CRISIS** / to ask an **HONEST** question.
+1. **past pain** /pæst peɪn/：past 末尾的 /t/ 可轻微失爆，直接进入 /p/。
+2. **old anger** /oʊld‿ˈæŋɡər/：把 /d/ 自然连接到后面的元音，不要断开。
+3. **build trust** /bɪld trʌst/：保留 /ld/ 到 /tr/ 的过渡，不读成 “build-uh-trust”。
 
-练习时先单独读粗体词，再把中间部分轻快地连起来。遇到 but 前可短暂停顿，but 本身不要重读；真正的力量落在前后形成对比的词上。
+先慢速读清辅音位置，再逐渐加快。目标不是把音全部吞掉，而是让气流不断、意群完整。
 
 ## 七、五个核心表达
 
-### 1. live as one ought to /lɪv æz wʌn ˈɔːt tuː/ 动词短语
+### 1. heal a wound /hiːl ə wuːnd/ 动词短语
 
-**中文：** 按照一个人真正应该的方式生活
+**中文：** 疗愈伤口；修复创伤
 
-**常见搭配：** try to live as one ought to、question how one ought to live
+**常见搭配：** begin to heal a wound、help heal old wounds、time heals wounds
 
-**例句：** He began to question whether he had lived as he ought to.  
-他开始怀疑，自己是否按照真正应该的方式生活过。
+**例句：** An honest apology can begin to heal an old wound.  
+一次真诚的道歉，可以让旧伤开始修复。
 
-### 2. public approval /ˈpʌblɪk əˈpruːvəl/ 名词短语
+### 2. reconciliation /ˌrekənsɪliˈeɪʃən/ 名词
 
-**中文：** 公众或外界的认可
+**中文：** 和解；关系修复
 
-**常见搭配：** seek public approval、depend on public approval、win public approval
+**常见搭配：** national reconciliation、seek reconciliation、a path to reconciliation
 
-**例句：** A private choice does not always need public approval.  
-一个私人选择并不总需要得到外界认可。
+**例句：** Reconciliation is difficult when people refuse to face the truth.  
+当人们拒绝面对真相时，和解会非常困难。
 
-### 3. lose sight of /luːz saɪt əv/ 动词短语
+### 3. hold someone accountable /hoʊld ˈsʌmwʌn əˈkaʊntəbəl/ 动词短语
 
-**中文：** 忽略；忘记原本重要的事
+**中文：** 追究某人的责任；要求某人负责
 
-**常见搭配：** lose sight of a goal、lose sight of what matters、never lose sight of
+**常见搭配：** hold leaders accountable、be held accountable for、fully accountable
 
-**例句：** During a busy year, she lost sight of what made her feel alive.  
-在忙碌的一年里，她忽略了什么才能让自己感到真正鲜活。
+**例句：** Healing and peace do not prevent us from holding people accountable.  
+疗愈与和平并不妨碍我们追究责任。
 
-### 4. take stock of /teɪk stɑːk əv/ 动词短语
+### 4. break the cycle /breɪk ðə ˈsaɪkəl/ 动词短语
 
-**中文：** 认真盘点和审视
+**中文：** 打破恶性循环
 
-**常见搭配：** take stock of your life、take stock of the situation、pause and take stock
+**常见搭配：** break the cycle of violence、help break the cycle、finally break the cycle
 
-**例句：** His fiftieth birthday made him stop and take stock of his life.  
-五十岁生日让他停下来，认真审视自己的人生。
+**例句：** Someone must choose not to strike back if the family wants to break the cycle.  
+如果这个家庭想打破循环，就必须有人选择不再报复。
 
-### 5. push aside /pʊʃ əˈsaɪd/ 动词短语
+### 5. set a boundary /set ə ˈbaʊndəri/ 动词短语
 
-**中文：** 把某事搁置一旁；刻意不去面对
+**中文：** 设立边界
 
-**常见搭配：** push aside a feeling、push worries aside、be pushed aside
+**常见搭配：** set a clear boundary、respect a boundary、healthy boundaries
 
-**例句：** I pushed the question aside because I was afraid of the answer.  
-我把这个问题搁置一旁，因为我害怕答案。
+**例句：** I accepted the apology, but I still set a clear boundary.  
+我接受了道歉，但仍然设立了清楚的边界。
 
 ## 八、四轮影子跟读
 
 | 轮次 | 时间 | 练习方式 |
 |---|---:|---|
-| 听懂 | 2 分钟 | 听自然阅读版 1 次，只抓住“外在正确与内在真实”的矛盾。 |
-| 分块 | 4 分钟 | 按斜线逐块跟读 2 次；第二次突出粗体对比词。 |
-| 影子 | 4 分钟 | 0.85 倍速跟读 2 次，再以正常速度跟读 1 次；在转折处保持节奏。 |
-| 脱稿 | 2–3 分钟 | 只看 approval、duty、later、truth 四个提示，用自己的话复述。 |
+| 听懂 | 2 分钟 | 听自然阅读版 1 次，抓住“真相、责任、修复与边界”的关系。 |
+| 分块 | 4 分钟 | 按斜线逐块跟读 2 次；第二次突出粗体重读词。 |
+| 影子 | 4 分钟 | 0.85 倍速跟读 2 次，再以正常速度跟读 1 次；保持辅音连接。 |
+| 脱稿 | 2–3 分钟 | 只看 truth、accountable、cycle、boundary 四个提示复述。 |
 
 ## 九、开口迁移
 
-**问题：** Have you ever made a choice that looked right to others but did not feel right to you?
+**问题：** Can a relationship heal without returning to the way it was before?
 
 **参考回答：**
 
-Yes. A few years ago, I accepted an opportunity because other people thought it was a safe and respectable choice. On the surface, everything looked good, but I felt little energy or interest. For several months, I pushed that feeling aside because I did not want to disappoint anyone. Later, I took stock of the situation and had an honest conversation with my family. I did not make a dramatic change immediately, but I created a clearer boundary and gave more time to what mattered to me. That experience taught me not to depend completely on public approval.
+Yes, I think a relationship can heal without becoming the same as before. After trust is broken, both people need to face the truth and accept responsibility. A sincere apology may help heal the wound, but it does not remove the consequences. Sometimes the relationship can be rebuilt slowly. In other cases, the healthiest choice is to set a clear boundary or keep some distance. For me, healing means that the past no longer controls every conversation. It does not always mean complete reconciliation.
 
 **三个可复用句型：**
 
-1. On the surface, ___ looked right, but I felt ___.
-2. I pushed the feeling aside because ___.
-3. After taking stock, I decided to ___.
+1. Healing does not always mean ___.
+2. Before trust can return, we need to ___.
+3. I can accept ___ while still setting a boundary.
 
 **自检清单：**
 
 - 是否说满 30–60 秒
-- 是否使用 public approval、take stock of 等至少两个核心表达
-- 是否在 right / felt、safe / true 等对比词上重读
-- 是否说清楚“别人怎么看、自己怎么感受、后来怎样处理”
+- 是否使用 heal a wound、break the cycle 等至少两个核心表达
+- 是否把 past pain、old anger、build trust 连贯读出
+- 是否区分“修复”“追责”“和解”和“恢复原状”
 
 ## 十、今日带走
 
-> A life can follow every rule and still need an honest question.
+> Healing remembers the truth without giving the wound control of the future.
 
-一段人生可以遵循所有规则，却仍需要一个诚实的问题。
+真正的修复记得真相，却不再把未来的控制权交给伤口。
 
 ---
 
-**来源说明：** 作者、作品、人物、章节语境由 Penguin Classics 作品页及 Northern Virginia Community College 公开全文核验；本期仅引用 11 个英文单词，其余英文训练内容均为原创。
+**来源说明：** 人物经历、就职日期、历史语境和短句由南非政府及 Nelson Mandela Foundation 官方档案核验；本期仅引用 10 个英文单词，其余英文训练内容均为原创。
