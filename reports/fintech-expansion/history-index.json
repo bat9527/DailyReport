@@ -7,9 +7,58 @@
   "recurring_topic_tags": [],
   "recurring_entities": [],
   "recurring_source_hosts": [],
-  "latest_archive_date": "2026-07-23",
-  "entry_count": 6,
+  "latest_archive_date": "2026-07-24",
+  "entry_count": 7,
   "entries": [
+    {
+      "date": "2026-07-24",
+      "path": "archive/2026/07/2026-07-24.md",
+      "title": "金融科技出海日报｜2026-07-24",
+      "primary_topic": "非洲金融科技同时走向公开市场、规模化设备信贷与中非本币结算基础设施",
+      "topic_tags": [
+        "移动钱包 IPO",
+        "设备融资",
+        "普惠信贷",
+        "人民币跨境结算"
+      ],
+      "entities": [
+        "Airtel Africa",
+        "Airtel Money",
+        "M-KOPA",
+        "Banco de Fomento Angola",
+        "Cross-Border Interbank Payment System"
+      ],
+      "works": [],
+      "content_keys": [
+        "airtel-money-london-listing-q1-disclosure-2026-07-23",
+        "m-kopa-ten-million-customers-disclosure-2026-07-22",
+        "angola-bfa-cips-joining-plan-disclosure-2026-07-22"
+      ],
+      "source_type": null,
+      "quote": null,
+      "allow_repeat": true,
+      "repeat_reason": "7 月 18 日仅收录 Airtel Money 的 IPO 媒体预期与历史经营底盘；本期新增公司正式确认伦敦为优先上市地，并发布截至 6 月末的新季度经营数据。",
+      "summary": "金融科技出海日报｜2026-07-24 北京时间｜核心窗口：2026-07-23 06:01 至 2026-07-24 06:01（最近 24 小时）｜补充窗口：2026-07-22 06:01 起｜预计阅读：8–10 分钟 一、今日速览 本期收录 3 条新增。Airtel Africa 正式确认伦敦为 Airtel Money 的优先上市地，并以 5,650 万客户、年化处理金额超过 2,450 亿美元的新数据展示移动钱包的资本化基础；M-KOPA 披露累计客户达到…",
+      "source_urls": [
+        "https://cdn-webportal.airtelstream.net/website/investor/main/pdf/Q1-2027/Airtel_Africa_Q127_press_release.pdf",
+        "https://www.airtel.africa/results-and-presentations",
+        "https://www.m-kopa.com/newsroom/m-kopa-reaches-10-million-customers-across-5-markets",
+        "https://www.reuters.com/world/africa/airtel-africa-dials-up-london-mobile-money-ipo-2026-07-23",
+        "https://www.reuters.com/world/asia-pacific/angolas-bfa-join-chinas-cips-meet-growing-yuan-demand-source-says-2026-07-22"
+      ],
+      "fingerprints": {
+        "content_sha256": "23ceb57f2769ccc5ed19e8364e8be3bd915739fc6b78512294e8a4792302e39f",
+        "topic_sha256": "beec878f4d89f0285704ee56ba6a632d1cef660e6c869dffb0542d7d44a7fc5e",
+        "quote_sha256": null,
+        "source_sha256": [
+          "1aa602721e2288bdb19fcd76043af9e11dc076554c52e644c89d83bf5da40f17",
+          "ea15bafadd0b15c080cc0326129bc612c76255a9ceca31776cdc374e407f4052",
+          "d7c588bbc4383d0c5c9461f067b7d347c5ca9d414746d8fa50e0d6dadef5e2fa",
+          "329c6aa96263c2a1b82cda81be357ca497c74b94e7f87914aee85ed3802cbcf2",
+          "2a76bc159636e3bc841fce8816cbd9d181d75a63b35942f8885b357aea0f2fa6"
+        ]
+      }
+    },
     {
       "date": "2026-07-23",
       "path": "archive/2026/07/2026-07-23.md",
