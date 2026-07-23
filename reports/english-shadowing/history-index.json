@@ -7,9 +7,47 @@
   "recurring_topic_tags": [],
   "recurring_entities": [],
   "recurring_source_hosts": [],
-  "latest_archive_date": "2026-07-23",
-  "entry_count": 6,
+  "latest_archive_date": "2026-07-24",
+  "entry_count": 7,
   "entries": [
+    {
+      "date": "2026-07-24",
+      "path": "archive/2026/07/2026-07-24.md",
+      "title": "英文影子跟读｜2026-07-24",
+      "primary_topic": "经历长期伤害后，在真相与责任之上选择修复，而不是让过去继续支配未来",
+      "topic_tags": [
+        "修复伤害",
+        "和解与责任",
+        "打破循环"
+      ],
+      "entities": [
+        "Nelson Mandela"
+      ],
+      "works": [
+        "1994 Presidential Inauguration Address"
+      ],
+      "content_keys": [
+        "nelson-mandela-inauguration-healing-with-truth-accountability"
+      ],
+      "source_type": "speech",
+      "quote": "The time for the healing of the wounds has come.",
+      "allow_repeat": false,
+      "repeat_reason": null,
+      "summary": "英文影子跟读｜2026-07-24 今日来源：名人演讲｜难度：A2–B1｜训练时间：约 12–15 分钟 一、今日声音 今天听 Nelson Mandela 在 1994 年南非总统就职典礼上的演说。经历 27 年牢狱、种族隔离制度和长期政治冲突之后，他面对的不是一个简单的胜利时刻，而是怎样避免新国家继续被仇恨和报复撕裂。 Mandela 选择谈“疗愈伤口”。这不是遗忘过去，也不是取消正义，而是在承认真相与责任之后，拒绝让伤害无限复制。 二、一句原声 The time…",
+      "source_urls": [
+        "https://archive.nelsonmandela.org/za-com-mr-s-176",
+        "https://www.gov.za/news/speeches/president-nelson-mandela-1994-presidential-inauguration-10-may-1994"
+      ],
+      "fingerprints": {
+        "content_sha256": "3cffba3a6e044211276c5adbb5ee85de6083e4db9d20abb80c23f7c8b0ec1bc9",
+        "topic_sha256": "eed5492925336552ec261f5544afa5874da34a5cd5371d444029d359bbd7decd",
+        "quote_sha256": "6b0c78d46197d548a206d9c811d8d8ac4cb5bfce537f0d6e3b2c6d004af55561",
+        "source_sha256": [
+          "6e5534a8167f14997ec830a5d39134d6ba5b8b64242bb0c62aab51a6bfe9259b",
+          "03efc843c3d298b75bbffc6c05e7d601f3e903a5ca6946ccb0fb5945e2a6ccd7"
+        ]
+      }
+    },
     {
       "date": "2026-07-23",
       "path": "archive/2026/07/2026-07-23.md",
